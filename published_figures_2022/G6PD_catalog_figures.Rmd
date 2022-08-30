@@ -1,0 +1,460 @@
+---
+title: "G6PD catalog graphics"
+author: "Renee C. Geck"
+date: '2022-08-13'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r setup_tools}
+library(dplyr)
+library(ggplot2)
+library(viridis)
+library(quantreg)
+library(spatstat)
+
+#make ggplot nice
+ggplot <- function(...) {
+  ggplot2::ggplot(...) + 
+    ## white background with black border
+    theme(panel.background = element_rect(fill = "white", 
+                                          color = "black"),
+          ## hide gridlines
+          panel.grid.major = element_line(color = "grey80"),
+          panel.grid.minor = element_blank(),
+          ## change legend position
+          legend.position = "right",
+          legend.justification = "center",
+          legend.key = element_rect(fill = "white", size = 0.3),
+          ## change text
+          axis.title = element_text(size = 15, color = "black"),
+          axis.text = element_text(size = 13, color = "black"),
+          legend.text = element_text(size = 13, color = "black"),
+          legend.title = element_text(size = 15, color = "black"))
+}
+
+#set color palettes
+classify_colors <- c("#DF488D", "#F89078", "#808088", "#C1C1C1")
+who_col <- c("#482677", "#33638D", "#20A387", "#73D055", "#808080", "#D3D3D3")
+f1c_colors <- c("#481567", "#404788","#808088","#20A387FF", "#287D8E","#C1C1C1")
+
+```
+
+## Load catalog files
+
+```{r load_files}
+g6pd_cat <- read.table("fig_G6PD_variant_catalog.txt", sep="\t", header=T)
+g6pd_cat_noB <- filter(g6pd_cat, !is.na(hg19_core))
+
+g6pd_cat_mol <- read.table("fig_mol_act.txt", sep="\t", header=T)
+g6pd_cat_mol_info <- read.table("fig_G6PD_mol_info.txt", sep="\t", header=T)
+
+acmg_counts <- read.table("fig_acmg_counts.txt", sep="\t", header=T)
+acmg_counts$acmg <- factor(acmg_counts$acmg,levels=c("pathogenic","likely_pathogenic","uncertain","likely_benign","benign","no_data"))
+acmg_counts$clinvar <- factor(acmg_counts$clinvar, levels=c("pathogenic","likely_pathogenic","uncertain","likely_benign","benign","no_interpretation"))
+```
+
+## Generate data summaries
+
+```{r weighted_avg_activity}
+
+#column 4 as average activity and 5 as number of hemizygotes with activity data
+
+#make function to calculate total activity for row
+total_act_fx = function(x, output){
+  row_avg = as.numeric(x[4])
+  row_n = as.numeric(x[5])
+  return(row_avg*row_n)
+}
+
+#calculate for each row
+activity_tot <- apply(g6pd_cat_mol, 1, total_act_fx)
+#append as a new column
+g6pd_cat_tot <- cbind(g6pd_cat_mol, activity_tot)
+
+#now calculate weighted average by adding all activity totals and dividing by total n
+g6pd_sum <- g6pd_cat_tot %>%
+  group_by(hg19_core, name) %>%  #do calculations for each variant
+  #sum activity and divide by number of hemizygotes
+  mutate(weighted_avg_act = sum(activity_tot, na.rm=T)/sum(activity_n, na.rm=T)) 
+
+#get unique, non-NA values
+g6pd_select <- data.frame(g6pd_sum$hg19_core, g6pd_sum$name, g6pd_sum$weighted_avg_act)
+g6pd_uniq_mol <- unique(g6pd_select)
+g6pd_uniq_mol <- na.omit(g6pd_uniq_mol)
+
+#export
+write.table(g6pd_uniq_mol, "g6pd_uniq_act.txt", append = T, sep = "\t", row.names = F)
+
+#mol info mined from how many papers?
+n_papers <- length(unique(g6pd_cat_mol$PMID))
+print(n_papers)
+
+```
+
+```{r weighted_media_for_WHO2022}
+#how many have at least 3 reports of activity
+g6pd_act_n <- g6pd_cat_mol %>%
+  group_by(hg19_core, name) %>%  #do calculations for each variant
+  #sum activity and divide by number of hemizygotes
+  mutate(total_act = sum(activity_n, na.rm=T)) 
+g6pd_act_n3 <- filter(g6pd_act_n, total_act >= 3)
+
+g6pd_med_act <- g6pd_cat_mol  %>% filter(hg19_core %in% g6pd_act_n3$hg19_core) %>%
+  filter(is.na(activity_avg) == FALSE) %>%
+  group_by(hg19_core, name) %>%  #do calculations for each variant
+  dplyr::summarise(activity_med = weighted.median(activity_avg, activity_n),
+           .groups = 'drop')
+
+#need to manuall QC check that they are >=3 unrelated (threw out Amsterdam, Dindori, Rehovot, and Vancouver)
+#then determine if fit WHO 2022 cutoffs, of <20% CNSHA (A), <45% AHA (B), 60-150% no HA (C)
+```
+
+
+
+## Generate Figure 1 Plots
+
+```{r 1A_count_types}
+types_occur <- as.data.frame(table(g6pd_cat$type))
+types_occur <- types_occur %>% rename(type=Var1) %>% rename(total_count=Freq)
+types_occur$type <- factor(types_occur$type, levels = c("synonymous", "single_missense", "multiple_missense", "nonsense", "frameshift", "deletion", "upstream", "alternate_transcript", "5_prime_UTR", "splice_region", "intron", "3_prime_UTR"))
+two_groups <- c("noncoding", "noncoding","noncoding","coding", "coding", "noncoding","coding", "coding","coding", "noncoding","coding", "noncoding")
+types_occur$group <- two_groups
+
+#how many have clinical or molecular data?
+g6pd_cat_clinmol <- g6pd_cat %>%
+  filter(molecular_info>0 | is.na(ClinVar_class) == FALSE) %>%
+  filter(molecular_info>0 | ClinVar_class %in% c("pathogenic", "likely_pathogenic", "likely_benign", "benign"))
+types_occur_clinmol <- as.data.frame(table(g6pd_cat_clinmol$type))
+types_occur_clinmol <- types_occur_clinmol %>% rename(type=Var1) %>% rename(mol_count=Freq)
+types_occur <- left_join(types_occur, types_occur_clinmol, by = "type")
+types_occur$type <- factor(types_occur$type, levels = c("synonymous", "single_missense", "multiple_missense", "nonsense", "frameshift", "deletion", "upstream", "alternate_transcript", "5_prime_UTR", "splice_region", "intron", "3_prime_UTR"))
+
+#graph number with clin and mol data by type
+#note that catalog only included intron variants with clinmol data or >5% pop freq
+fig_1a <- ggplot(data=types_occur) +
+  geom_col(aes(x=type, y=total_count, fill="absent")) +
+  geom_col(aes(x=type, y=mol_count, fill="present")) +
+  geom_text(aes(x=type, y=total_count, label=total_count), vjust=-0.25) +
+  xlab("variant type") +
+  ylab("variants") +
+  labs(fill="clinical or\nmolecular data") +
+  scale_fill_manual(values=c("#808080", "#0A1172")) +
+  ylim(0,510) +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig1A.pdf", fig_1a, device="pdf", height = 6, width = 11)
+```
+
+```{r 1B_interp_by_group}
+#make the df
+variants <- c(77, 159, 62, 223, 54, 20, 39, 345, 84, 3, 10, 147)
+type <- c(rep("coding", 4), rep("noncoding", 4), rep("synonymous", 4))
+reference <- c("current", "added", "VUS", "no_data")
+var_type_counts <- data.frame(variants, type)
+var_type_counts <- cbind(var_type_counts, rep(reference))
+colnames(var_type_counts) <- c('variant', "type", "reference")
+var_type_counts$reference <- factor(var_type_counts$reference, levels=c("current", "added", "VUS", "no_data"))
+
+#plot
+fig_1B <- ggplot(data=var_type_counts,
+       aes(x=type, y=variants, fill=reference)) +
+  geom_col() +
+  scale_fill_manual(values=classify_colors) +
+  xlab("variant type") +
+  ylab("number of variants") +
+  labs(fill="interpreted\non ClinVar") +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig1B.pdf", fig_1B, device="pdf", height = 6, width = 5)
+```
+
+```{r 1C_interp_agreement}
+fig_1C <- ggplot(data=acmg_counts,
+       aes(x=acmg, y=count, fill=clinvar)) +
+  geom_col() +
+  theme_linedraw() +
+  scale_fill_manual(values=f1c_colors) +
+  xlab("ACMG interpretation") +
+  ylab("number of variants") +
+  labs(fill="ClinVar\ninterpretation") +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig1C.pdf", fig_1C, device="pdf", height = 6, width = 7)
+```
+
+## Generate Figure 2 plots
+
+```{r 2A_activity_by_cds}
+g6pd_cat_type <- g6pd_cat
+g6pd_cat_type$group <- as.character(g6pd_cat_type$type)
+g6pd_cat_type$group[g6pd_cat_type$type %in% c("single_missense", "multiple_missense", "deletion","nonsense", "splice_region")] <- "altered"
+g6pd_cat_type$group[g6pd_cat_type$type %in% c("synonymous", "3_prime_UTR", "5_prime_UTR", "intron","alternate_transcript", "upstream", NA)] <- "unaltered"
+g6pd_cat_type$phenotype <- factor(g6pd_cat_type$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_2a <- ggplot(data=subset(g6pd_cat_type, !is.na(activity_avg)), aes(x=group, y=activity_avg)) +
+  geom_boxplot(outlier.alpha=F) +
+  geom_jitter(aes(color=phenotype), width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=who_col) +
+  xlab("variant effect on CDS") +
+  ylab("variant activity") +
+  labs(color="most severe\nphenotype") +
+  scale_y_continuous(trans='log10') +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig2A.pdf", fig_2a, device="pdf", height = 5, width = 5)
+
+print(t.test(activity_avg ~ group, data = subset(g6pd_cat_type, !is.na(activity_avg))))
+```
+
+```{r 2B_activity_by_type}
+g6pd_cat_noB$type <- factor(g6pd_cat_noB$type, levels = c("single_missense", "multiple_missense", "deletion", "nonsense", "synonymous", "5_prime_UTR", "3_prime_UTR", "splice_region", "intron", "alternate_transcript"))
+g6pd_cat_noB$phenotype <- factor(g6pd_cat_noB$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_2b <- ggplot(data=subset(g6pd_cat_noB, !is.na(activity_avg)), aes(x=type, y=activity_avg)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=phenotype), width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=who_col) +
+  xlab("variant type") +
+  ylab("variant activity") +
+  labs(color="most severe\nphenotype") +
+  scale_y_continuous(trans='log10') +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig2B.pdf", fig_2b, device="pdf", height = 5, width = 8)
+```
+
+```{r 2C_activity_by_1985who}
+g6pd_cat$phenotype <- factor(g6pd_cat$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_2c <- ggplot(data=subset(g6pd_cat, !is.na(activity_avg)),aes(x=WHO_class_1985, y=activity_avg)) +
+  geom_hline(yintercept=0.1, color="gray") +
+  geom_hline(yintercept=0.7, color="gray") + #lines for score cutoffs
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=phenotype), width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=who_col) +
+  xlab("WHO class (1985)") +
+  ylab("variant activity") +
+  scale_y_continuous(trans='log10') +
+  theme(panel.grid.minor = element_blank(), panel.grid.major.y = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig2C.pdf", fig_2c, device="pdf", height = 6, width = 6)
+
+print(TukeyHSD(aov(activity_avg ~ WHO_class_1985, data = subset(g6pd_cat, !is.na(activity_avg))))) #anova tests
+
+```
+
+```{r 2D_activity_by_2022who}
+g6pd_cat$phenotype <- factor(g6pd_cat$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_2d <- ggplot(data=subset(g6pd_cat, !is.na(WHO_class_2022)),
+       aes(x=WHO_class_2022, y=activity_avg)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=phenotype), width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=c("#482677", "#33638D", "#20A387", "#808080")) +
+  xlab("WHO class (2022)") +
+  ylab("variant activity") +
+  scale_y_continuous(trans='log10') 
+ggsave(file = "fig2D.pdf", fig_2d, device="pdf", height = 4, width = 5)
+
+print(TukeyHSD(aov(activity_avg ~ WHO_class_2022, data = subset(g6pd_cat, !is.na(activity_avg))))) #anova tests
+
+
+```
+
+```{r 2E_activity_by_clinvar}
+g6pd_cat_uc <- g6pd_cat
+g6pd_cat_uc["ClinVar_class"][g6pd_cat_uc["ClinVar_class"]=="conflicting"] <- "uncertain"
+g6pd_cat_uc["ClinVar_class"][g6pd_cat_uc["ClinVar_class"]=="other"] <- "uncertain"
+g6pd_cat_uc$ClinVar_class <- factor(g6pd_cat_uc$ClinVar_class, levels = c("pathogenic", "likely_pathogenic", "likely_benign", "benign", "uncertain"))
+
+fig_2e <- ggplot(data=subset(g6pd_cat_uc, !is.na(ClinVar_class)), #only graph if has clinvar class
+       aes(x=ClinVar_class, y=activity_avg)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=as.factor(ClinVar_stat)), width=0.2, height=0, alpha=0.8) +
+  scale_color_viridis(option='magma', discrete=T, begin=0.2, end=0.8, direction=-1) +
+  xlab("ClinVar interpretation") +
+  ylab("variant activity (log10 scale)") +
+  labs(color="ClinVar\nreview\nstatus") +
+  scale_y_continuous(trans='log10') +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig2E.pdf", fig_2e, device="pdf", height = 6, width = 5)
+
+print(TukeyHSD(aov(activity_avg ~ ClinVar_class, data = subset(g6pd_cat_uc, !is.na(ClinVar_class))))) #anova tests
+
+```
+
+```{r 2F_activity_by_acmg}
+g6pd_cat$ACMG_class <- factor(g6pd_cat$ACMG_class, levels = c("pathogenic", "likely_pathogenic", "likely_benign", "benign", "uncertain"))
+
+fig_2f <- ggplot(data=subset(g6pd_cat, !is.na(ACMG_class)), #only graph if has clinvar class
+       aes(x=ACMG_class, y=activity_avg)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=activity_refs), width=0.2, height=0, alpha=0.8) +
+  scale_color_viridis(option='magma', trans="log", begin=0.1, end=0.8, direction=-1) +
+  xlab("ACMG interpretation") +
+  ylab("variant activity (log10 scale)") +
+  labs(color="number of\nreferences") +
+  scale_y_continuous(trans='log10') +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig2F.pdf", fig_2f, device="pdf", height = 6, width = 5)
+
+print(TukeyHSD(aov(activity_avg ~ ACMG_class, data = subset(g6pd_cat, !is.na(ACMG_class))))) #anova tests
+
+```
+
+## Generate Figure 3 plots
+
+```{r 3A_activity_pos}
+g6pd_cat_single <- subset(g6pd_cat, type %in% c("single_missense", "synonymous"))
+g6pd_cat_single$position <- as.numeric(gsub("([0-9]+).*$", "\\1", g6pd_cat_single$amino_acid)) #extract the residue position
+g6pd_cat_single$phenotype <- factor(g6pd_cat_single$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_3a <- ggplot(data=g6pd_cat_single, aes(x=position, y=activity_avg, color=phenotype)) +
+  geom_point(alpha=0.8) +
+  xlab("amino acid position") +
+  ylab("variant activity") +
+  labs(color="most severe phenotype") +
+  scale_y_continuous(trans='log10') +
+  scale_color_manual(values=who_col)
+ggsave(file = "fig3A.pdf", fig_3a, device="pdf", height = 4, width = 12)
+```
+
+```{r 3B_stability_pos}
+g6pd_cat_single_num <- g6pd_cat_single
+g6pd_cat_single_num$position <- as.numeric(gsub("([0-9]+).*$", "\\1", g6pd_cat_single_num$amino_acid)) #extract the residue position
+g6pd_cat_single_num$stability <- as.character(g6pd_cat_single_num$stability)
+g6pd_cat_single_num$stability[g6pd_cat_single_num$stability == "decreased"] <- 0
+g6pd_cat_single_num$stability[g6pd_cat_single_num$stability == "normal"] <- 1
+g6pd_cat_single_num$stability[g6pd_cat_single_num$stability == "increased"] <- 2
+g6pd_cat_single_num$stability[g6pd_cat_single_num$stability == "conflicting"] <- NA
+g6pd_cat_single_num$phenotype <- factor(g6pd_cat_single_num$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_3b <- ggplot(data=subset(g6pd_cat_single_num, !is.na(stability)), aes(x=position, y=stability, color=phenotype)) +
+  geom_jitter(height=0.1, alpha=0.8) +
+  xlab("amino acid position") +
+  ylab("variant stability") +
+  labs(color="most severe phenotype") +
+  scale_color_manual(values=who_col)
+ggsave(file = "fig3B.pdf", fig_3b, device="pdf", height = 3, width = 12)
+```
+
+```{r 3D_activity_stability}
+g6pd_cat$phenotype <- factor(g6pd_cat$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+g6pd_cat$stability <- factor(g6pd_cat$stability, levels = c("decreased", "normal", "increased", "conflicting"))
+fig_3d <- ggplot(data=subset(g6pd_cat, !is.na(stability)), #only graph if has stability data
+       aes(x=stability, y=activity_avg)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=phenotype), width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=who_col) +
+  scale_y_continuous(trans='log10') +
+  xlab("variant stability") +
+  ylab("variant activity") +
+  labs(color="most severe observed\nclinical phenotype") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig3D.pdf", fig_3d, device="pdf", height = 4, width = 6)
+
+print(TukeyHSD(aov(activity_avg ~ stability, data = subset(g6pd_cat, !is.na(stability))))) #anova tests
+
+```
+
+```{r 3E_stability_ptype}
+g6pd_mol_stabnum <- g6pd_cat
+g6pd_mol_stabnum$stability <- as.character(g6pd_mol_stabnum$stability)
+g6pd_mol_stabnum$stability[g6pd_mol_stabnum$stability == "decreased"] <- 0
+g6pd_mol_stabnum$stability[g6pd_mol_stabnum$stability == "normal"] <- 1
+g6pd_mol_stabnum$stability[g6pd_mol_stabnum$stability == "increased"] <- 2
+g6pd_mol_stabnum$stability[g6pd_mol_stabnum$stability == "conflicting"] <- NA
+g6pd_mol_stabnum$phenotype <- factor(g6pd_mol_stabnum$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+fig_3e <- ggplot(data=subset(g6pd_mol_stabnum, !is.na(phenotype)), #only graph if has ptype
+       aes(x=phenotype, y=as.numeric(stability))) +
+  geom_violin(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=phenotype), width=0.2, height=0.1, alpha=0.8) +
+  scale_color_manual(values=who_col) +
+  xlab("most severe observed clinical phenotype") +
+  ylab("variant stability") +
+  labs(color="phenotype") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig3E.pdf", fig_3e, device="pdf", height = 4, width = 6)
+
+```
+
+## Generate Figure 4 plots
+
+```{r 4A_5n_activity}
+g6pd_cat_5 <- subset(g6pd_cat, activity_refs >= 5) #get 5 or more refs
+g6pd_mol_5 <- g6pd_cat_mol %>% filter(hg19_core %in% g6pd_cat_5$hg19_core) #get the studies for those variants
+g6pd_mol_5 <- g6pd_mol_5 %>% filter(is.na(activity_avg) == FALSE) #get rid of rows without activity data
+
+fig_4a <- ggplot(data=g6pd_mol_5, #only graph if has activity
+       aes(x=reorder(name, activity_avg), y=activity_avg)) + #order x axis by activity
+  geom_boxplot(aes(weight=activity_n), outlier.alpha=F) + #weights by n in study, requires package quantreg
+  geom_jitter(aes(color=activity_n), width=0.2, height=0, alpha=0.8) +
+  scale_color_viridis(option='magma', trans="log", begin=0.1, end=0.8, direction=-1) +
+  xlab("variant") +
+  ylab("variant activity") +
+  labs(color="number of\nhemizygotes") +
+  scale_y_continuous(trans='log10') +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig4A.pdf", fig_4a, device="pdf", height = 4, width = 9)
+
+```
+
+```{r 4B_ptype_by_study}
+g6pd_cat_mol_info$phenotype <- factor(g6pd_cat_mol_info$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
+
+fig_4b <- ggplot(data=subset(g6pd_cat_mol_info, !is.na(phenotype)), #only graph if has activity
+       aes(x=phenotype, y=activity_avg)) +
+  geom_boxplot(aes(weight=activity_n), outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=activity_n), width=0.2, height=0, alpha=0.8) +
+  scale_color_viridis(option='magma', trans="log", begin=0.1, end=0.8, direction=-1) +
+  xlab("most severe observed clinical phenotype") +
+  ylab("variant activity") +
+  labs(color="hemizygotes\nin study") +
+  scale_y_continuous(trans='log10') +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave(file = "fig4B.pdf", fig_4b, device="pdf", height = 4, width = 4.5)
+
+print(TukeyHSD(aov(activity_avg ~ phenotype, data = subset(g6pd_cat_mol_info, !is.na(phenotype))))) #anova tests
+```
+
+```{r 4Ci_clinvar_n}
+g6pd_cat$ClinVar_class <- factor(g6pd_cat$ClinVar_class, levels = c("pathogenic", "likely_pathogenic", "uncertain", "likely_benign", "benign", "conflicting", "other"))
+clinlevels_colors <- c("#481567", "#404788","#808088","#20A387FF", "#287D8E","#C1C1C1","#C1C1C1")
+
+fig_4ci <- ggplot(data=subset(g6pd_cat, !is.na(ClinVar_class)), #only graph if has clinvar class
+       aes(x=ClinVar_class, y=molecular_info)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=ClinVar_class), width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=clinlevels_colors) +
+  xlab("ClinVar interpretation") +
+  ylab("number of studies\nwith molecular information") +
+  #labs(color="ClinVar\nreview\nstatus") +
+  scale_y_continuous(trans='log10') +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), legend.position='none')
+ggsave(file = "fig4Ci.pdf", fig_4ci, device="pdf", height = 4, width = 3)
+```
+
+```{r 4Cii_acmg_n}
+g6pd_cat$ACMG_class <- factor(g6pd_cat$ACMG_class, levels = c("pathogenic", "likely_pathogenic", "uncertain","likely_benign", "benign"))
+clinlevels_colors <- c("#481567", "#404788","#808088","#20A387FF", "#287D8E","#C1C1C1","#C1C1C1")
+
+fig_4cii <- ggplot(data=subset(g6pd_cat, !is.na(ACMG_class)), #only graph if has clinvar class
+       aes(x=ACMG_class, y=molecular_info)) +
+  geom_boxplot(outlier.alpha=F) + #hide outlier points since already graphed
+  geom_jitter(aes(color=ACMG_class),width=0.2, height=0, alpha=0.8) +
+  scale_color_manual(values=clinlevels_colors) +
+  xlab("ACMG interpretation") +
+  ylab("number of studies\nwith molecular information") +
+  #labs(color="ClinVar\nreview\nstatus") +
+  scale_y_continuous(trans='log10') +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), legend.position='none')
+ggsave(file = "fig4Cii.pdf", fig_4cii, device="pdf", height = 4, width = 2.5)
+```
+
