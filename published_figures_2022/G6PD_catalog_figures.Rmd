@@ -46,13 +46,13 @@ f1c_colors <- c("#481567", "#404788","#808088","#20A387FF", "#287D8E","#C1C1C1")
 ## Load catalog files
 
 ```{r load_files}
-g6pd_cat <- read.table("fig_G6PD_variant_catalog.txt", sep="\t", header=T)
+g6pd_cat <- read.delim("fig_G6PD_variant_catalog.txt", sep="\t", header=T)
 g6pd_cat_noB <- filter(g6pd_cat, !is.na(hg19_core))
 
-g6pd_cat_mol <- read.table("fig_mol_act.txt", sep="\t", header=T)
-g6pd_cat_mol_info <- read.table("fig_G6PD_mol_info.txt", sep="\t", header=T)
+g6pd_cat_mol <- read.delim("fig_mol_act.txt", sep="\t", header=T)
+g6pd_cat_mol_info <- read.delim("fig_G6PD_mol_info.txt", sep="\t", header=T)
 
-acmg_counts <- read.table("fig_acmg_counts.txt", sep="\t", header=T)
+acmg_counts <- read.delim("fig_acmg_counts.txt", sep="\t", header=T)
 acmg_counts$acmg <- factor(acmg_counts$acmg,levels=c("pathogenic","likely_pathogenic","uncertain","likely_benign","benign","no_data"))
 acmg_counts$clinvar <- factor(acmg_counts$clinvar, levels=c("pathogenic","likely_pathogenic","uncertain","likely_benign","benign","no_interpretation"))
 ```
@@ -95,7 +95,7 @@ print(n_papers)
 
 ```
 
-```{r weighted_media_for_WHO2022}
+```{r weighted_median_for_WHO2022}
 #how many have at least 3 reports of activity
 g6pd_act_n <- g6pd_cat_mol %>%
   group_by(hg19_core, name) %>%  #do calculations for each variant
@@ -151,7 +151,7 @@ ggsave(file = "fig1A.pdf", fig_1a, device="pdf", height = 6, width = 11)
 
 ```{r 1B_interp_by_group}
 #make the df
-variants <- c(77, 159, 62, 223, 54, 20, 39, 345, 84, 3, 10, 147)
+variants <- c(76, 163, 61, 240, 54, 20, 39, 430, 84, 3, 10, 161)
 type <- c(rep("coding", 4), rep("noncoding", 4), rep("synonymous", 4))
 reference <- c("current", "added", "VUS", "no_data")
 var_type_counts <- data.frame(variants, type)

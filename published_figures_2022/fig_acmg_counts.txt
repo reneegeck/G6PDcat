@@ -17,7 +17,7 @@ no_data	likely_pathogenic	6
 no_data	pathogenic	5
 no_data	uncertain	80
 pathogenic	likely_pathogenic	7
-pathogenic	no_interpretation	37
+pathogenic	no_interpretation	39
 pathogenic	pathogenic	35
 pathogenic	uncertain	15
 uncertain	benign	3

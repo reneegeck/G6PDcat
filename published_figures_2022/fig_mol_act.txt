@@ -297,7 +297,6 @@ hg19_core	name	PMID	activity_avg	activity_n
 153762634:G>A	Mediterranean	21507207	0.215	189
 153762634:G>A	Mediterranean	9017974	NA	NA
 153762634:G>A	Mediterranean	22018328	NA	NA
-153762634:G>A	Mediterranean	NA	NA	NA
 153762634:G>A	Mediterranean	22552160	0.001	1
 153762634:G>A	Mediterranean	18226470	0.002	1
 153762634:G>A	Mediterranean	3393536	0.035	1
@@ -314,6 +313,7 @@ hg19_core	name	PMID	activity_avg	activity_n
 153762634:G>A	Mediterranean	9233561	NA	NA
 153762634:G>A	Mediterranean	7577654	NA	NA
 153762634:G>A	Mediterranean	34966093	NA	NA
+153762634:G>A	Mediterranean	NA	NA	NA
 153762634:G>A	Mediterranean	6698555	0.055	1
 153762634:G>A	Mediterranean	12064920	0.02	2
 153762634:G>A	Mediterranean	5673160	0.05	12
@@ -591,8 +591,8 @@ hg19_core	name	PMID	activity_avg	activity_n
 153760909:C>T	Beverly_Hills	9192788	0.018	1
 153760903:T>C	Praha	7803800	0.18	1
 153760894:A>G	Krakow	18066402	0.19	1
-153760892:G>C	Wisconsin	16934959	NA	NA
 153760892:G>C	Wisconsin	7655862	NA	NA
+153760892:G>C	Wisconsin	16934959	NA	NA
 153760891:C>T	Nashville	32425388	0.33	1
 153760891:C>T	Nashville	1536798	0.009	2
 153760891:C>T	Nashville	1999409	0.095	2
