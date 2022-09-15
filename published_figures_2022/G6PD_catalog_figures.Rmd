@@ -201,7 +201,7 @@ fig_2a <- ggplot(data=subset(g6pd_cat_type, !is.na(activity_avg)), aes(x=group, 
   scale_color_manual(values=who_col) +
   xlab("variant effect on CDS") +
   ylab("variant activity") +
-  labs(color="most severe\nphenotype") +
+  labs(color="most severe\nclinical\npresentation") +
   scale_y_continuous(trans='log10') +
   theme(panel.grid.minor = element_blank()) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
@@ -220,7 +220,7 @@ fig_2b <- ggplot(data=subset(g6pd_cat_noB, !is.na(activity_avg)), aes(x=type, y=
   scale_color_manual(values=who_col) +
   xlab("variant type") +
   ylab("variant activity") +
-  labs(color="most severe\nphenotype") +
+  labs(color="most severe\nclinical\npresentation") +
   scale_y_continuous(trans='log10') +
   theme(panel.grid.minor = element_blank()) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
@@ -319,7 +319,7 @@ fig_3a <- ggplot(data=g6pd_cat_single, aes(x=position, y=activity_avg, color=phe
   geom_point(alpha=0.8) +
   xlab("amino acid position") +
   ylab("variant activity") +
-  labs(color="most severe phenotype") +
+  labs(color="most severe\nclinical\npresentation") +
   scale_y_continuous(trans='log10') +
   scale_color_manual(values=who_col)
 ggsave(file = "fig3A.pdf", fig_3a, device="pdf", height = 4, width = 12)
@@ -339,7 +339,7 @@ fig_3b <- ggplot(data=subset(g6pd_cat_single_num, !is.na(stability)), aes(x=posi
   geom_jitter(height=0.1, alpha=0.8) +
   xlab("amino acid position") +
   ylab("variant stability") +
-  labs(color="most severe phenotype") +
+  labs(color="most severe\nclinical\npresentation") +
   scale_color_manual(values=who_col)
 ggsave(file = "fig3B.pdf", fig_3b, device="pdf", height = 3, width = 12)
 ```
@@ -355,7 +355,7 @@ fig_3d <- ggplot(data=subset(g6pd_cat, !is.na(stability)), #only graph if has st
   scale_y_continuous(trans='log10') +
   xlab("variant stability") +
   ylab("variant activity") +
-  labs(color="most severe observed\nclinical phenotype") +
+  labs(color="most severe\nclinical\npresentation") +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ggsave(file = "fig3D.pdf", fig_3d, device="pdf", height = 4, width = 6)
 
@@ -373,10 +373,9 @@ g6pd_mol_stabnum$stability[g6pd_mol_stabnum$stability == "conflicting"] <- NA
 g6pd_mol_stabnum$phenotype <- factor(g6pd_mol_stabnum$phenotype, levels = c("deficient_CNSHA", "deficient_AHA", "deficient_asymptomatic", "deficient", "nondeficient", "unknown"))
 fig_3e <- ggplot(data=subset(g6pd_mol_stabnum, !is.na(phenotype)), #only graph if has ptype
        aes(x=phenotype, y=as.numeric(stability))) +
-  geom_violin(outlier.alpha=F) + #hide outlier points since already graphed
   geom_jitter(aes(color=phenotype), width=0.2, height=0.1, alpha=0.8) +
   scale_color_manual(values=who_col) +
-  xlab("most severe observed clinical phenotype") +
+  xlab("most severe clinical presentation") +
   ylab("variant stability") +
   labs(color="phenotype") +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
