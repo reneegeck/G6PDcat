@@ -7,7 +7,7 @@ This repository contains data and code associated with Geck et al. 2022, as well
 
 ## Citation
 
-Please cite: Geck RC, Powell NR, Dunham MJ. 2022. Functional interpretation, cataloging, and analysis of 1,341 known and new glucose-6-phosphate dehydrogenase variants. bioRxiv.
+Please cite: Geck RC, Powell NR, Dunham MJ. 2022. Functional interpretation, cataloging, and analysis of 1,341 known and new glucose-6-phosphate dehydrogenase variants. bioRxiv. doi: 10.1101/2022.09.14.508023
 
 This repository is licensed under CC BY 4.0 for reuse with attribution. See LICENSE file for details.
 
