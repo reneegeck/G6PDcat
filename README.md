@@ -3,17 +3,17 @@ Catalog of G6PD variants, genotype-phenotype associations, and functional inform
 
 ## Summary
 
-This repository contains data and code associated with Geck et al. 2022, as well as up-to-date tables of G6PD variants and functional information curated from published studies and databases.
+This repository contains data and code associated with Geck et al. 2023, as well as up-to-date tables of G6PD variants and functional information curated from published studies and databases.
 
 ## Citation
 
-Please cite: Geck RC, Powell NR, Dunham MJ. 2022. Functional interpretation, cataloging, and analysis of 1,341 known and new glucose-6-phosphate dehydrogenase variants. bioRxiv. doi: 10.1101/2022.09.14.508023
+Please cite: Geck RC, Powell NR, Dunham MJ. 2023. Functional interpretation, cataloging, and analysis of 1,341 glucose-6-phosphate dehydrogenase variants. Am J Hum Genet. 110(2):228-239.
 
 This repository is licensed under CC BY 4.0 for reuse with attribution. See LICENSE file for details.
 
 ## Repository overview
 
-The most up-to-date catalog files are in the root directory:
+The most up-to-date catalog files (February 24, 2023) are in the root directory:
 
 | File | Description | 
 |:--------|:------------|
@@ -22,7 +22,7 @@ The most up-to-date catalog files are in the root directory:
 | variant_molecular_info.txt	| Summaries of reports on variant function, including clinical phenotypes and average activity by study for each variant |
 | variant_interpretation.txt |	Supporting evidence and oddsPath calculations for interpretations made by applying ACMG guidelines |
 
-Versions used in Geck et al. 2022 are in the **published_catalog_2022** directory:
+Versions used in Geck et al. 2023 are in the **published_catalog_2023** directory:
 
 | File | Description | 
 |:--------|:------------|
@@ -31,7 +31,7 @@ Versions used in Geck et al. 2022 are in the **published_catalog_2022** director
 | tableS3_info.txt	| Published version of variant_molecular_info |
 | tableS4_acmg.txt |	Published version of variant_interpretation |
 
-The R script and tables used to create graphics in Geck et al. 2022 are in the **published_figures_2022** directory.
+The R script and tables used to create graphics in Geck et al. 2023 are in the **published_figures_2023** directory.
 
 ## Curation
 
@@ -82,6 +82,7 @@ The only conflicts of note addressed during curation are:
 | gnomAD2_freq |	Frequency of variant in gnomAD v2.1.1 |
 | gnomAD3_freq |	Frequency of variant in gnomAD v3.1.1 |
 | identified	| PMID of paper(s) that first identified the variant or determined its sequence. DOI or other citation provided for papers not indexed in PubMed. |
+| updated	| Date variant entry was last updated, YYMMDD. |
 
 ### variant_names.txt
 
@@ -101,6 +102,7 @@ Most common name and alternate names with genomic location. Spaces are replaced 
 | info |	Summary of study findings on specified variant |
 | activity_avg |	Average activity in RBC of hemizygotes |
 | activity_n |	Number of hemizygotes used to determine average activity |
+| updated	| Date variant entry was last updated, YYMMDD. |
 
 ### variant_interpretation.txt
 
@@ -113,3 +115,4 @@ Most common name and alternate names with genomic location. Spaces are replaced 
 | OddsPath |	Odds of pathogenicity calculated as in PMID 29300386 |
 | Post_P	| Calculated as in PMID 29300386, using Prior_P of 0.1 |
 | ACMG_OP |	Interpretation from Post_P with cutoffs defined in PMID 29300386 |
+| updated	| Date variant entry was last updated, YYMMDD. |
