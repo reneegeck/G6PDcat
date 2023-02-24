@@ -338,7 +338,7 @@ Unnamed	Unnamed	153763483:G>A
 Unnamed	Unnamed	153763482:T>G
 Unnamed	Unnamed	153763481:G>A
 Unnamed	Unnamed	153763476:C>T
-Chinese-4	Chinese-4;Quing Yuan;Quing Yan	153763476:C>A
+Chinese-4	Chinese-4;Quing Yuan;Quing Yan;Qing Yuan	153763476:C>A
 Unnamed	Unnamed	153763472:T>G
 Unnamed	Unnamed	153763469:C>T
 Unnamed	Unnamed	153763465:T>C
