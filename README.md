@@ -63,7 +63,7 @@ The only conflicts of note addressed during curation are:
 | name | Name or names given to variant. Some have multiple names preceding molecular characterization. |
 | rsID	| rsID used to identify SNP |
 | hg19_core	| Genomic location of variant SNP/SNPs in hg19/GRch37 genome assembly |
-| cdna |	SNP(s) in G6PD cDNA, on transcript NM_001042351.1 |
+| CDS |	SNP(s) in G6PD coding sequence, on transcript NM_001042351.1 |
 | amino_acid	| Effect of SNP(s) on amino acid |
 | type	| Type of mutation in the variant (e.g. single missense, synonymous, etc). Splice regions as classified by gnomAD. |
 | WHO_class_2022	| WHO classification by 2022 system for variants with activity measured in 3 or more unrelated individuals |
