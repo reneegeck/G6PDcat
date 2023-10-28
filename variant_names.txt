@@ -1,2449 +1,2450 @@
-name	alternate_names	hg19_core	updated	
-B	B;wildtype	NA	NA	
-Unnamed	Unnamed	153775785:T>C	NA	
-Unnamed	Unnamed	153775782:T>G	NA	
-Unnamed	Unnamed	153775781:GT>G	NA	
-Unnamed	Unnamed	153775781:G>A	NA	
-Unnamed	Unnamed	153775778:C>T	NA	
-Unnamed	Unnamed	153775778:C>G	NA	
-Unnamed	Unnamed	153775777:C>T	NA	
-Unnamed	Unnamed	153775775:T>C	NA	
-Unnamed	Unnamed	153775774:T>C	NA	
-Unnamed	Unnamed	153775773:C>A	NA	
-Unnamed	Unnamed	153775770:C>G	NA	
-Unnamed	Unnamed	153775770:C>A	NA	
-Unnamed	Unnamed	153775767:C>G	NA	
-Unnamed	Unnamed	153775762:C>T	NA	
-Unnamed	Unnamed	153775760:C>G	NA	
-Unnamed	Unnamed	153775759:A>C	NA	
-Unnamed	Unnamed	153775758:C>G	NA	
-Unnamed	Unnamed	153775754:G>A	NA	
-Unnamed	Unnamed	153775751:G>A	NA	
-Unnamed	Unnamed	153775746:C>G	NA	
-Unnamed	Unnamed	153775744:C>T	NA	
-Unnamed	Unnamed	153775744:C>G	NA	
-Unnamed	Unnamed	153775744:C>A	NA	
-Unnamed	Unnamed	153775743:G>A	NA	
-Unnamed	Unnamed	153775732:A>C	NA	
-Unnamed	Unnamed	153775726:C>T	NA	
-Unnamed	Unnamed	153775725:T>C	NA	
-Unnamed	Unnamed	153775722:T>C	NA	
-Unnamed	Unnamed	153775712:G>A	NA	
-Unnamed	Unnamed	153775711:C>T	NA	
-Unnamed	Unnamed	153775709:G>A	NA	
-Unnamed	Unnamed	153775706:C>CCTGGCGGACT	NA	
-Unnamed	Unnamed	153775699:T>C	NA	
-Unnamed	Unnamed	153775698:C>T	NA	
-Unnamed	Unnamed	153775697:C>T	NA	
-Unnamed	Unnamed	153775693:C>T	NA	
-Unnamed	Unnamed	153775692:G>A	NA	
-Unnamed	Unnamed	153775691:C>T	NA	
-Unnamed	Unnamed	153775681:A>C	NA	
-Unnamed	Unnamed	153775680:T>C	NA	
-Unnamed	Unnamed	153775675:A>G	NA	
-Unnamed	Unnamed	153775669:G>C	NA	
-Unnamed	Unnamed	153775233:T>C	NA	
-Unnamed	Unnamed	153775228:G>T	NA	
-Unnamed	Unnamed	153775227:T>G	NA	
-Unnamed	Unnamed	153775227:T>C	NA	
-Unnamed	Unnamed	153775223:C>T	NA	
-Unnamed	Unnamed	153775217:G>C	NA	
-Unnamed	Unnamed	153775217:G>A	NA	
-Unnamed	Unnamed	153775214:C>G	NA	
-Unnamed	Unnamed	153775214:C>A	NA	
-Unnamed	Unnamed	153775213:C>T	NA	
-Unnamed	Unnamed	153775212:T>C	NA	
-Unnamed	Unnamed	153775210:C>T	NA	
-Unnamed	Unnamed	153775209:G>C	NA	
-Unnamed	Unnamed	153775204:C>T	NA	
-Unnamed	Unnamed	153775203:G>A	NA	
-Unnamed	Unnamed	153775202:T>A	NA	
-Unnamed	Unnamed	153775200:G>C	NA	
-Unnamed	Unnamed	153775200:G>A	NA	
-Unnamed	Unnamed	153775197:G>C	NA	
-Unnamed	Unnamed	153775195:G>T	NA	
-Unnamed	Unnamed	153775195:G>A	NA	
-Unnamed	Unnamed	153775191:G>T	NA	
-Unnamed	Unnamed	153775187:C>T	NA	
-Unnamed	Unnamed	153775186:G>A	NA	
-Unnamed	Unnamed	153775184:G>T	NA	
-Unnamed	Unnamed	153775182:C>A	NA	
-Unnamed	Unnamed	153775181:G>A	NA	
-Unnamed	Unnamed	153775179:G>A	NA	
-Unnamed	Unnamed	153775178:C>CGGGCG	NA	
-Unnamed	Unnamed	153775177:G>A	NA	
-Unnamed	Unnamed	153775176:T>TGCGG	NA	
-Unnamed	Unnamed	153775176:T>C	NA	
-Unnamed	Unnamed	153775176:T>A	NA	
-Unnamed	Unnamed	153775175:G>T	NA	
-Unnamed	Unnamed	153775173:T>C	NA	
-Unnamed	Unnamed	153775172:CTCGTGCG>C	NA	
-Unnamed	Unnamed	153775172:C>T	NA	
-Unnamed	Unnamed	153775172:C>A	NA	
-Unnamed	Unnamed	153775171:C>A	NA	
-Unnamed	Unnamed	153775167:C>T	NA	
-Unnamed	Unnamed	153775166:C>T	NA	
-Unnamed	Unnamed	153775165:A>G	NA	
-Unnamed	Unnamed	153775164:C>A	NA	
-Unnamed	Unnamed	153775163:C>T	NA	
-Unnamed	Unnamed	153775163:C>G	NA	
-Unnamed	Unnamed	153775162:G>A	NA	
-Unnamed	Unnamed	153775155:G>T	NA	
-Unnamed	Unnamed	153775153:G>A	NA	
-Unnamed	Unnamed	153775152:C>G	NA	
-Unnamed	Unnamed	153775148:G>GGGGCGGGGCCTCGGCCACCACCCCTCGTGC	NA	
-Unnamed	Unnamed	153775145:TGCGGGGCGGGGCCTCGGCCACCACCCCTCGTGCGG>T	NA	
-Unnamed	Unnamed	153775143:C>A	NA	
-Unnamed	Unnamed	153775141:GGCGTGCGGGGCGGGGCCTCGGCCACCACCCCTCGT>G	NA	
-Unnamed	Unnamed	153775141:G>A	NA	
-Unnamed	Unnamed	153775138:C>T	NA	
-Unnamed	Unnamed	153775138:C>G	NA	
-Unnamed	Unnamed	153775137:G>C	NA	
-Unnamed	Unnamed	153775135:A>C	NA	
-Unnamed	Unnamed	153775134:C>G	NA	
-Unnamed	Unnamed	153775129:C>T	NA	
-Unnamed	Unnamed	153775129:C>A	NA	
-Unnamed	Unnamed	153775125:G>A	NA	
-Unnamed	Unnamed	153775124:G>T	NA	
-Unnamed	Unnamed	153775123:C>A	NA	
-Unnamed	Unnamed	153775121:A>G	NA	
-Unnamed	Unnamed	153775119:T>C	NA	
-Unnamed	Unnamed	153775117:G>A	NA	
-Unnamed	Unnamed	153775115:G>T	NA	
-Unnamed	Unnamed	153775114:T>C	NA	
-Unnamed	Unnamed	153775105:G>T	NA	
-Unnamed	Unnamed	153775103:G>T	NA	
-Unnamed	Unnamed	153775103:G>A	NA	
-Unnamed	Unnamed	153775102:G>C	NA	
-Unnamed	Unnamed	153775101:G>A	NA	
-Unnamed	Unnamed	153775100:C>T	NA	
-Unnamed	Unnamed	153775100:C>G	NA	
-Unnamed	Unnamed	153775100:C>CG	NA	
-Unnamed	Unnamed	153775095:G>T	NA	
-Unnamed	Unnamed	153775094:C>T	NA	
-Unnamed	Unnamed	153775092:G>C	NA	
-Unnamed	Unnamed	153775092:G>A	NA	
-Unnamed	Unnamed	153775091:CGGCGGG>C	NA	
-Unnamed	Unnamed	153775091:C>G	NA	
-Unnamed	Unnamed	153775091:C>CGGCGGG	NA	
-Unnamed	Unnamed	153775089:A>G	NA	
-Unnamed	Unnamed	153775085:T>A	NA	
-Unnamed	Unnamed	153775083:C>T	NA	
-Unnamed	Unnamed	153775081:C>T	NA	
-Unnamed	Unnamed	153775080:G>A	NA	
-Unnamed	Unnamed	153775079:G>C	NA	
-Unnamed	Unnamed	153775079:G>A	NA	
-Unnamed	Unnamed	153775077:C>T	NA	
-Unnamed	Unnamed	153775074:C>T	NA	
-Unnamed	Unnamed	153775074:C>A	NA	
-Unnamed	Unnamed	153775073:C>T	NA	
-Unnamed	Unnamed	153775071:G>A	NA	
-Unnamed	Unnamed	153775069:G>A	NA	
-Unnamed	Unnamed	153775068:T>A	NA	
-Unnamed	Unnamed	153775066:G>A	NA	
-Unnamed	Unnamed	153775064:G>C	NA	
-Unnamed	Unnamed	153775064:G>A	NA	
-Unnamed	Unnamed	153775062:G>T	NA	
-Unnamed	Unnamed	153775062:G>C	NA	
-Unnamed	Unnamed	153775061:C>T	NA	
-Unnamed	Unnamed	153775056:G>A	NA	
-Unnamed	Unnamed	153775052:G>A	NA	
-Unnamed	Unnamed	153775048:G>A	NA	
-Unnamed	Unnamed	153775047:T>G	NA	
-Unnamed	Unnamed	153775046:G>A	NA	
-Unnamed	Unnamed	153775044:A>C	NA	
-Unnamed	Unnamed	153775043:G>A	NA	
-Unnamed	Unnamed	153775042:C>G	NA	
-Unnamed	Unnamed	153775041:C>T	NA	
-Unnamed	Unnamed	153775040:C>A	NA	
-Unnamed	Unnamed	153775039:C>T	NA	
-Unnamed	Unnamed	153775038:G>A	NA	
-Unnamed	Unnamed	153775035:G>A	NA	
-Unnamed	Unnamed	153775034:C>A	NA	
-Unnamed	Unnamed	153775032:C>T	NA	
-Unnamed	Unnamed	153775031:G>C	NA	
-Unnamed	Unnamed	153775031:G>A	NA	
-Unnamed	Unnamed	153775029:G>A	NA	
-Unnamed	Unnamed	153775028:C>T	NA	
-Unnamed	Unnamed	153775027:C>A	NA	
-Unnamed	Unnamed	153775026:T>C	NA	
-Unnamed	Unnamed	153775022:G>A	NA	
-Unnamed	Unnamed	153775020:T>C	NA	
-Unnamed	Unnamed	153775019:G>T	NA	
-Unnamed	Unnamed	153775019:G>C	NA	
-Unnamed	Unnamed	153775018:C>T	NA	
-Unnamed	Unnamed	153775016:G>T	NA	
-Unnamed	Unnamed	153775015:C>A	NA	
-Unnamed	Unnamed	153775013:G>C	NA	
-Unnamed	Unnamed	153775010:TTCG>T	NA	
-Unnamed	Unnamed	153775010:T>TTCG	NA	
-Unnamed	Unnamed	153775009:C>T	NA	
-Unnamed	Unnamed	153775008:G>A	NA	
-Unnamed	Unnamed	153775007:C>A	NA	
-Unnamed	Unnamed	153775005:T>C	NA	
-Unnamed	Unnamed	153775003:C>G	NA	
-Unnamed	Unnamed	153774999:G>C	NA	
-Unnamed	Unnamed	153774999:G>A	NA	
-Unnamed	Unnamed	153774998:G>A	NA	
-Unnamed	Unnamed	153774997:C>G	NA	
-Unnamed	Unnamed	153774997:C>A	NA	
-Unnamed	Unnamed	153774996:C>T	NA	
-Unnamed	Unnamed	153774994:G>A	NA	
-Unnamed	Unnamed	153774381:G>A	NA	
-Unnamed	Unnamed	153774377:G>C	NA	
-Unnamed	Unnamed	153774374:G>T	NA	
-Unnamed	Unnamed	153774374:G>A	NA	
-Unnamed	Unnamed	153774373:C>T	NA	
-Unnamed	Unnamed	153774373:C>G	NA	
-Vietnam-1	Vietnam-1	153774364:C>T	NA	
-Unnamed	Unnamed	153774364:C>G	NA	
-Unnamed	Unnamed	153774362:C>T	NA	
-Unnamed	Unnamed	153774360:T>C	NA	
-Unnamed	Unnamed	153774354:G>A	NA	
-Unnamed	Unnamed	153774350:C>T	NA	
-Unnamed	Unnamed	153774350:C>G	NA	
-Unnamed	Unnamed	153774346:G>A	NA	
-Unnamed	Unnamed	153774345:C>T	NA	
-Unnamed	Unnamed	153774341:G>T	NA	
-Unnamed	Unnamed	153774340:G>A	NA	
-Unnamed	Unnamed	153774338:C>G	NA	
-Unnamed	Unnamed	153774337:C>T	NA	
-Sinnai	Sinnai	153774337:C>A	NA	
-Unnamed	Unnamed	153774336:A>C	NA	
-Lages	Lages	153774331:C>T	NA	
-Unnamed	Unnamed	153774326:G>A	NA	
-Unnamed	Unnamed	153774325:G>A	NA	
-Unnamed	Unnamed	153774323:C>T	NA	
-Unnamed	Unnamed	153774322:G>A	NA	
-Unnamed	Unnamed	153774321:C>T	NA	
-Unnamed	Unnamed	153774321:C>A	NA	
-Unnamed	Unnamed	153774320:C>T	NA	
-Unnamed	Unnamed	153774306:T>C	NA	
-Unnamed	Unnamed	153774302:G>A	NA	
-Unnamed	Unnamed	153774299:A>T	NA	
-Unnamed	Unnamed	153774298:C>T	NA	
-Unnamed	Unnamed	153774298:C>A	NA	
-Unnamed	Unnamed	153774293:G>T	NA	
-Unnamed	Unnamed	153774293:G>A	NA	
-Unnamed	Unnamed	153774291:T>C	NA	
-Unnamed	Unnamed	153774287:C>A	NA	
-Unnamed	Unnamed	153774284:C>T	NA	
-Unnamed	Unnamed	153774283:C>T	NA	
-Unnamed	Unnamed	153774283:C>A	NA	
-Unnamed	Unnamed	153774282:T>G	NA	
-Unnamed	Unnamed	153774279:G>A	NA	
-Unnamed	Unnamed	153774277:G>C	NA	
-Unnamed	Unnamed	153774277:G>A	NA	
-Gaohe	Gaohe;Gaozhou	153774276:T>C	NA	
-Unnamed	Unnamed	153774274:T>C	NA	
-Unnamed	Unnamed	153774273:A>G	NA	
-Unnamed	Unnamed	153774272:T>C	NA	
-Unnamed	Unnamed	153774269:G>T	NA	
-Unnamed	Unnamed	153774267:A>G	NA	
-Unnamed	Unnamed	153774264:A>G	NA	
-Sunderland	Sunderland	153774261:ATGATGATGA>ATGATGA	NA	
-Gidra	Gidra	153774261:A>G	NA	
-Unnamed	Unnamed	153774251:C>T	NA	
-Unnamed	Unnamed	153774244:T>G	NA	
-Unnamed	Unnamed	153774244:T>C	NA	
-Unnamed	Unnamed	153774242:G>A	NA	
-Unnamed	Unnamed	153774051:AA>A	NA	
-Unnamed	Unnamed	153774051:A>AA	NA	
-Unnamed	Unnamed	153774016:C>T	NA	
-Unnamed	Unnamed	153771351:C>A	NA	
-Unnamed	Unnamed	153771296:C>T	NA	
-Unnamed	Unnamed	153771125:A>G	NA	
-Unnamed	Unnamed	153770634:A>G	NA	
-Unnamed	Unnamed	153770497:G>A	NA	
-Unnamed	Unnamed	153768852:GA>G	NA	
-Unnamed	Unnamed	153767071:G>C	NA	
-Unnamed	Unnamed	153766499:A>G	NA	
-Unnamed	Unnamed	153766205:GT>G	NA	
-Unnamed	Unnamed	153766185:A>G	NA	
-Unnamed	Unnamed	153764663:C>T	NA	
-Unnamed	Unnamed	153764528:T>C	NA	
-Unnamed	Unnamed	153764439:C>T	NA	
-Unnamed	Unnamed	153764413:T>A	NA	
-Unnamed	Unnamed	153764406:G>A	NA	
-Unnamed	Unnamed	153764397:T>G	NA	
-Unnamed	Unnamed	153764387:G>A	NA	
-Unnamed	Unnamed	153764385:C>T	NA	
-Rignano	Rignano	153764384:C>T	NA	
-Orissa	Orissa;Odisha	153764383:G>C	NA	
-Unnamed	Unnamed	153764382:G>C	NA	
-Unnamed	Unnamed	153764379:C>T	NA	
-Aures	Aures	153764371:A>G	NA	
-Unnamed	Unnamed	153764367:G>A	NA	
-Kambos	Kambos	153764366:G>A	NA	
-Unnamed	Unnamed	153764364:G>A	NA	
-Unnamed	Unnamed	153764362:G>A	NA	
-Unnamed	Unnamed	153764361:G>A	NA	
-Kozukata	Kozukata	153764360:C>G	NA	
-Unnamed	Unnamed	153764349:C>A	NA	
-Unnamed	Unnamed	153764343:G>A	NA	
-Unnamed	Unnamed	153764268:C>A	NA	
-Unnamed	Unnamed	153764267:G>A	NA	
-Unnamed	Unnamed	153764266:G>A	NA	
-Unnamed	Unnamed	153764263:G>A	NA	
-Unnamed	Unnamed	153764251:G>C	NA	
-Unnamed	Unnamed	153764251:G>A	NA	
-Kamogawa	Kamogawa	153764250:G>A	NA	
-Palestrina	Palestrina	153764249:C>T	NA	
-Unnamed	Unnamed	153764248:C>T	NA	
-Metaponto	Metaponto	153764247:C>T	NA	
-Unnamed	Unnamed	153764245:A>T	NA	
-Unnamed	Unnamed	153764245:A>G	NA	
-Unnamed	Unnamed	153764245:A>C	NA	
-Unnamed	Unnamed	153764242:G>A	NA	
-Unnamed	Unnamed	153764241:G>A	NA	
-Costanzo	Costanzo	153764240:A>G	NA	
-Unnamed	Unnamed	153764239:A>G	NA	
-Amsterdam	Amsterdam	153764236:CAGA>C	NA	
-Amazonia	Amazonia	153764234:G>T	NA	
-Musashino	Musashino	153764234:G>A	NA	
-Unnamed	Unnamed	153764233:G>A	NA	
-Pingtung	Pingtung	153764232:C>T	NA	
-Mexico_DF	Mexico_DF	153764226:T>C	NA	
-Unnamed	Unnamed	153764224:G>A	NA	
-Songklanagarind	Songklanagarind	153764223:A>T	NA	
-Unnamed	Unnamed	153764223:A>G	NA	
-Bahia	Bahia	153764222:A>T	NA	
-Vietnam-2	Vietnam-2	153764222:A>C	NA	
-Unnamed	Unnamed	153764218:G>A	NA	
-Jeddah_D	Jeddah_D	153764217:C>T;153764371:A>G	NA	
-Asahi	Asahi	153764217:C>T	NA	
-Unnamed	Unnamed	153764217:C>A	NA	
-Unnamed	Unnamed	153764215:C>T	NA	
-Unnamed	Unnamed	153764212:G>A	NA	
-Namoru	Namoru;Namouru	153764211:A>G	NA	
-Murcia	Murcia;Oristano	153764210:T>C	NA	
-Unnamed	Unnamed	153764209:A>G	NA	
-Unnamed	Unnamed	153764200:G>A	NA	
-Unnamed	Unnamed	153764199:G>C	NA	
-Unnamed	Unnamed	153764199:G>A	NA	
-Unnamed	Unnamed	153764198:C>T	NA	
-Swansea	Swansea	153764195:A>G	NA	
-Unnamed	Unnamed	153764192:G>T	NA	
-Unnamed	Unnamed	153764192:G>A	NA	
-Unnamed	Unnamed	153764191:T>A	NA	
-Unnamed	Unnamed	153764190:C>A	NA	
-Unnamed	Unnamed	153764186:G>T	NA	
-Unnamed	Unnamed	153764184:C>G	NA	
-Ube	Ube;Konan	153764178:G>A	NA	
-Lagosanto	Lagosanto	153764177:C>T	NA	
-Unnamed	Unnamed	153764176:G>A	NA	
-Unnamed	Unnamed	153764175:T>G	NA	
-Unnamed	Unnamed	153764168:C>T	NA	
-Unnamed	Unnamed	153764167:A>G	NA	
-Unnamed	Unnamed	153764167:A>C	NA	
-Unnamed	Unnamed	153764158:G>A	NA	
-Unnamed	Unnamed	153764155:G>C	NA	
-Unnamed	Unnamed	153764145:C>T	NA	
-Unnamed	Unnamed	153764033:G>A	220915	
-Unnamed	Unnamed	153763658:G>C;153764033:G>A	220915	
-Unnamed	Unnamed	153763611:C>T	NA	
-Unnamed	Unnamed	153763608:A>T	NA	
-Unnamed	Unnamed	153763606:A>G	NA	
-Unnamed	Unnamed	153763604:G>A	NA	
-Unnamed	Unnamed	153763602:TG>T	NA	
-Unnamed	Unnamed	153763600:C>G	NA	
-Unnamed	Unnamed	153763597:T>C	NA	
-Unnamed	Unnamed	153763594:G>C	NA	
-Guangzhou	Guangzhou	153763594:G>A	NA	
-Unnamed	Unnamed	153763591:C>T	NA	
-Unnamed	Unnamed	153763586:CTCCTC>CTC	NA	
-Unnamed	Unnamed	153763586:C>A	NA	
-Unnamed	Unnamed	153763585:T>G	NA	
-Urayasu	Urayasu	153763584:TTCT>T	NA	
-Unnamed	Unnamed	153763579:T>G	NA	
-Unnamed	Unnamed	153763578:T>G	NA	
-Unnamed	Unnamed	153763578:T>C	NA	
-Unnamed	Unnamed	153763578:T>A	NA	
-Unnamed	Unnamed	153763576:G>C	NA	
-Unnamed	Unnamed	153763574:C>T	NA	
-Unnamed	Unnamed	153763571:C>T	NA	
-Unnamed	Unnamed	153763570:C>T	NA	
-Unnamed	Unnamed	153763568:G>T	NA	
-Unnamed	Unnamed	153763567:A>G	NA	
-Khon_Kaen	Khon_Kaen	153763563:A>G	NA	
-Unnamed	Unnamed	153763563:A>C	NA	
-Unnamed	Unnamed	153763562:A>C	NA	
-Unnamed	Unnamed	153763560:G>A	NA	
-Unnamed	Unnamed	153763559:G>A	NA	
-Unnamed	Unnamed	153763558:G>A	NA	
-Unnamed	Unnamed	153763557:C>T	NA	
-Unnamed	Unnamed	153763556:G>A	NA	
-Unnamed	Unnamed	153763554:T>G	NA	
-Unnamed	Unnamed	153763554:T>C	NA	
-Unnamed	Unnamed	153763553:G>A	NA	
-Unnamed	Unnamed	153763551:G>A	NA	
-Unnamed	Unnamed	153763550:G>A	NA	
-Unnamed	Unnamed	153763548:T>G	NA	
-Unnamed	Unnamed	153763548:T>A	NA	
-Unnamed	Unnamed	153763547:A>G	NA	
-Hammersmith	Hammersmith	153763545:A>T	NA	
-Unnamed	Unnamed	153763543:C>A	NA	
-Unnamed	Unnamed	153763536:T>C	NA	
-Unnamed	Unnamed	153763535:C>T	NA	
-Unnamed	Unnamed	153763532:G>A	NA	
-Sao_Borja	Sao_Borja; Sao_Boria	153763531:C>T	NA	
-Unnamed	Unnamed	153763531:C>A	NA	
-Unnamed	Unnamed	153763530:T>C	NA	
-Unnamed	Unnamed	153763527:T>C	NA	
-Unnamed	Unnamed	153763523:T>C	NA	
-Bao_Loc	Bao_Loc	153763516:A>G	NA	
-Unnamed	Unnamed	153763515:T>G	NA	
-Unnamed	Unnamed	153763514:G>A	NA	
-Unnamed	Unnamed	153763512:T>G	NA	
-Unnamed	Unnamed	153763510:G>A	NA	
-Unnamed	Unnamed	153763509:C>T	NA	
-Unnamed	Unnamed	153763509:C>A	NA	
-Unnamed	Unnamed	153763503:T>C	NA	
-Unnamed	Unnamed	153763502:G>T	NA	
-Unnamed	Unnamed	153763498:G>A	NA	
-Unnamed	Unnamed	153763497:T>C	NA	
-Unnamed	Unnamed	153763493:C>G	NA	
-A-_202A_376G	A-_202A_376G;Matera;Castilla;Distrito Federal;Tepic	153763492:T>C;153764217:C>T	NA	
-Sierra_Leone	Sierra_Leone	153763492:T>C;153763557:C>T	NA	
-A	A;A+	153763492:T>C	NA	
-San_Luis_Potosi	San_Luis_Potosi	153763492:T>A	NA	
-Unnamed	Unnamed	153763487:G>A	NA	
-Unnamed	Unnamed	153763486:G>A	NA	
-Vanua_Lava	Vanua_Lava	153763485:A>G	NA	
-Salerno	Salerno;Pyrgos	153763485:A>C	NA	
-Crispim	Crispim	153763484:G>A;153763485:A>G;153763489:C>A;153763493:C>A	NA	
-Unnamed	Unnamed	153763484:G>A	NA	
-Unnamed	Unnamed	153763483:G>A	NA	
-Unnamed	Unnamed	153763482:T>G	NA	
-Unnamed	Unnamed	153763481:G>A	NA	
-Unnamed	Unnamed	153763476:C>T	NA	
-Chinese-4	Chinese-4;Quing Yuan;Quing Yan;Qing Yuan	153763476:C>A	NA	
-Unnamed	Unnamed	153763472:T>G	NA	
-Unnamed	Unnamed	153763469:C>T	NA	
-Unnamed	Unnamed	153763466:G>C	NA	
-Unnamed	Unnamed	153763465:T>C	NA	
-Cairo	Cairo	153763464:T>G	NA	
-Milano	Milano	153763464:T>C	NA	
-Valladolid	Valladolid	153763462:G>A	NA	
-Unnamed	Unnamed	153763461:C>T	NA	
-Belem	Belem	153763459:G>A	NA	
-Unnamed	Unnamed	153763457:G>C	NA	
-Unnamed	Unnamed	153763454:G>A	NA	
-Unnamed	Unnamed	153763452:T>C	NA	
-Unnamed	Unnamed	153763450:G>A	NA	
-Unnamed	Unnamed	153763445:G>T	NA	
-Unnamed	Unnamed	153763445:G>C	NA	
-Unnamed	Unnamed	153763445:G>A	NA	
-Unnamed	Unnamed	153763444:A>C	NA	
-Unnamed	Unnamed	153763436:C>T	NA	
-Unnamed	Unnamed	153763435:T>A	NA	
-Unnamed	Unnamed	153763433:G>A	NA	
-Unnamed	Unnamed	153763432:C>T	NA	
-Unnamed	Unnamed	153763428:T>C	NA	
-Unnamed	Unnamed	153763427:G>A	NA	
-Liuzhou	Liuzhou	153763426:C>T	NA	
-Jimma	Jimma	153763423:C>T	NA	
-Unnamed	Unnamed	153763421:G>A	NA	
-Paris	Paris	153763420:C>T	NA	
-Unnamed	Unnamed	153763418:G>A	NA	
-Unnamed	Unnamed	153763417:T>C	NA	
-Unnamed	Unnamed	153763413:T>C	NA	
-Unnamed	Unnamed	153763405:G>T	NA	
-Acrokorinthos	Acrokorinthos	153763405:G>C;153763492:T>C	NA	
-Acrokorinthos_single	Acrokorinthos_single	153763405:G>C	NA	
-Unnamed	Unnamed	153763403:G>A	NA	
-Ilesha	Ilesha	153763402:C>T	NA	
-Unnamed	Unnamed	153763398:G>A	NA	
-Copenhagen	Copenhagen	153763396:A>C	NA	
-Shenzhen	Shenzhen;Shenzen	153763395:C>T	NA	
-Unnamed	Unnamed	153763393:T>C	NA	
-Gond	Gond	153763391:C>G	NA	
-Unnamed	Unnamed	153763389:C>T	NA	
-Unnamed	Unnamed	153763385:C>T	NA	
-Unnamed	Unnamed	153763384:T>A	NA	
-Unnamed	Unnamed	153763383:A>C	NA	
-Unnamed	Unnamed	153763377:C>G	NA	
-Unnamed	Unnamed	153763376:G>C	NA	
-Unnamed	Unnamed	153763370:C>T	NA	
-Unnamed	Unnamed	153762771:G>C	NA	
-Unnamed	Unnamed	153762744:GA>G	NA	
-Unnamed	Unnamed	153762740:C>A	NA	
-Unnamed	Unnamed	153762728:G>A	NA	
-Unnamed	Unnamed	153762727:AG>A	NA	
-Unnamed	Unnamed	153762725:G>A	NA	
-Mahidol	Mahidol	153762710:C>T	NA	
-Plymouth	Plymouth	153762709:C>T	NA	
-Unnamed	Unnamed	153762708:G>T	NA	
-Unnamed	Unnamed	153762708:G>C	NA	
-Unnamed	Unnamed	153762708:G>A	NA	
-Unnamed	Unnamed	153762707:A>G	NA	
-Taipei	Taipei;Chinese-3;Taiwan-Hakka 2	153762704:T>C	NA	
-Toledo	Toledo	153762701:G>A	NA	
-Naone	Naone	153762700:C>T	NA	
-Unnamed	Unnamed	153762698:T>A	NA	
-Unnamed	Unnamed	153762696:G>T	NA	
-Unnamed	Unnamed	153762693:G>A	NA	
-Unnamed	Unnamed	153762692:C>T	NA	
-Unnamed	Unnamed	153762687:C>T	NA	
-Volendam	Volendam	153762683:G>A	NA	
-Unnamed	Unnamed	153762681:G>A	NA	
-Nankang	Nankang	153762680:A>G	NA	
-Miaoli	Miaoli	153762678:G>C	NA	
-Unnamed	Unnamed	153762678:G>A	NA	
-Taif	Taif	153762675:CCCGAA>GAA	NA	
-Unnamed	Unnamed	153762673:C>T	NA	
-Shinshu	Shinshu	153762670:T>C	NA	
-Unnamed	Unnamed	153762667:A>T	NA	
-Chikugo	Chikugo	153762662:T>A	NA	
-Gaza	Gaza	153762661:C>T	NA	
-Unnamed	Unnamed	153762660:G>A	NA	
-Unnamed	Unnamed	153762656:C>A	NA	
-Santa_Maria	Santa_Maria;Santamaria	153762655:T>A;153763492:T>C	NA	
-Malaga	Malaga	153762655:T>A	NA	
-Unnamed	Unnamed	153762653:G>A	NA	
-Unnamed	Unnamed	153762652:C>T	NA	
-Unnamed	Unnamed	153762652:C>G	NA	
-Unnamed	Unnamed	153762651:C>T	NA	
-Toluca	Toluca	153762646:G>C	220915	
-Dindori	Dindori	153762646:G>A	NA	
-Unnamed	Unnamed	153762644:T>G	NA	
-Unnamed	Unnamed	153762643:T>C	NA	
-Unnamed	Unnamed	153762642:G>A	NA	
-Unnamed	Unnamed	153762641:G>C	NA	
-Unnamed	Unnamed	153762639:G>A	NA	
-Unnamed	Unnamed	153762638:T>C	NA	
-Jeddah_E	Jeddah_E	153762634:G>A;153764371:A>G	NA	
-Jeddah_B	Jeddah_B	153762634:G>A;153764217:C>T	NA	
-Jeddah_A	Jeddah_A	153762634:G>A;153763492:T>C;153764217:C>T	NA	
-Jeddah_C	Jeddah_C	153762634:G>A;153763492:T>C	NA	
-Mediterranean	Mediterranean;Dallas;Panama;Sassari;Cagliari;Birmingham	153762634:G>A	NA	
-Tsukui	Tsukui	153762633:GGAG>G	NA	
-Unnamed	Unnamed	153762633:G>A	NA	
-Unnamed	Unnamed	153762629:G>A	NA	
-Unnamed	Unnamed	153762627:C>T	NA	
-Pedoplis-Ckaro	Pedoplis-Ckaro	153762624:G>C	NA	
-Unnamed	Unnamed	153762624:G>A	NA	
-Unnamed	Unnamed	153762623:G>A	NA	
-Unnamed	Unnamed	153762622:C>T	NA	
-Unnamed	Unnamed	153762622:C>A	NA	
-Unnamed	Unnamed	153762618:C>T	NA	
-Unnamed	Unnamed	153762617:C>T	NA	
-Salt_Lake	Salt_Lake	153762615:G>C	NA	
-Tainan	Tainan	153762612:C>G	NA	
-Changhua	Changhua	153762611:T>A	NA	
-Unnamed	Unnamed	153762610:A>G	NA	
-Unnamed	Unnamed	153762609:G>A	NA	
-Unnamed	Unnamed	153762607:T>A	NA	
-Unnamed	Unnamed	153762606:G>A	NA	
-Herlev	Herlev	153762605:G>T	NA	
-Vancouver	Vancouver	153762605:G>A;153762653:G>A;153763551:G>C	NA	
-Coimbra	Coimbra;Shunde	153762605:G>A	NA	
-Nilgiri	Nilgiri	153762604:C>T	NA	
-Santiago	Santiago	153762604:C>G	NA	
-Unnamed	Unnamed	153762603:G>C	NA	
-Unnamed	Unnamed	153762603:G>A	NA	
-Dagua	Dagua;Acores	153762602:T>C	NA	
-Unnamed	Unnamed	153762600:G>A	NA	
-Unnamed	Unnamed	153762599:C>T	NA	
-Unnamed	Unnamed	153762597:G>A	NA	
-Unnamed	Unnamed	153762594:G>A	NA	
-Unnamed	Unnamed	153762591:G>A	NA	
-Unnamed	Unnamed	153762588:C>G	NA	
-Unnamed	Unnamed	153762586:C>T	NA	
-Unnamed	Unnamed	153762585:G>A	NA	
-Unnamed	Unnamed	153762582:C>T	NA	
-Unnamed	Unnamed	153762579:C>T	NA	
-Unnamed	Unnamed	153762578:T>A	NA	
-Unnamed	Unnamed	153762577:A>G	NA	
-Unnamed	Unnamed	153762576:C>G	NA	
-Unnamed	Unnamed	153762573:C>T	NA	
-Unnamed	Unnamed	153762570:C>T	NA	
-Unnamed	Unnamed	153762570:C>A	NA	
-Unnamed	Unnamed	153762569:T>C	NA	
-Unnamed	Unnamed	153762568:T>C	NA	
-Unnamed	Unnamed	153762566:G>T	NA	
-Unnamed	Unnamed	153762566:G>A	NA	
-Unnamed	Unnamed	153762564:G>C	NA	
-Unnamed	Unnamed	153762564:G>A	NA	
-Unnamed	Unnamed	153762563:T>G	NA	
-Sibari	Sibari	153762563:T>C	NA	
-Unnamed	Unnamed	153762560:C>G	NA	
-Minnesota	Minnesota;Marion;Gastonia;LeJeune	153762560:C>A	NA	
-Unnamed	Unnamed	153762559:A>G	NA	
-Unnamed	Unnamed	153762555:C>T	NA	
-Unnamed	Unnamed	153762551:A>AC	NA	
-Unnamed	Unnamed	153762546:G>A	NA	
-Unnamed	Unnamed	153762544:T>G	NA	
-Unnamed	Unnamed	153762533:C>T	NA	
-Unnamed	Unnamed	153762392:G>A	NA	
-Unnamed	Unnamed	153762387:G>A	NA	
-Unnamed	Unnamed	153762384:A>G	NA	
-Unnamed	Unnamed	153762383:G>A	NA	
-Unnamed	Unnamed	153762382:G>A	NA	
-Unnamed	Unnamed	153762379:CAGGG>C	NA	
-Unnamed	Unnamed	153762378:G>A	NA	
-Unnamed	Unnamed	153762372:A>G	NA	
-Harilaou	Harilaou	153762372:A>C	NA	
-Unnamed	Unnamed	153762366:G>A	NA	
-Sao_Paulo	Sao_Paulo	153762360:G>C	NA	
-Unnamed	Unnamed	153762357:G>A	NA	
-Unnamed	Unnamed	153762356:C>T	NA	
-Unnamed	Unnamed	153762348:G>A	NA	
-Unnamed	Unnamed	153762345:C>G	NA	
-Unnamed	Unnamed	153762342:G>A	NA	
-Unnamed	Unnamed	153762341:G>C	NA	
-Radlowo	Radlowo	153762341:G>A	NA	
-Mexico_City	Mexico_City	153762340:C>T	NA	
-A-_680T_376G	A-_680T_376G;Selma	153762340:C>A;153763492:T>C	NA	
-Unnamed	Unnamed	153762340:C>A	NA	
-Unnamed	Unnamed	153762339:C>T	NA	
-Unnamed	Unnamed	153762338:C>T	NA	
-Unnamed	Unnamed	153762333:G>A	NA	
-Unnamed	Unnamed	153762332:T>C	NA	
-North_Dallas	North_Dallas	153762331:ATGTTGT>ATGT	NA	
-Unnamed	Unnamed	153762330:G>T	NA	
-Unnamed	Unnamed	153762330:G>A	NA	
-Unnamed	Unnamed	153762329:C>T	221017	
-Shanghai	Shanghai	153762329:C>G	NA	
-Asahikawa	Asahikawa	153762325:C>T	NA	
-Unnamed	Unnamed	153762324:G>A	NA	
-Unnamed	Unnamed	153762323:C>T	NA	
-Unnamed	Unnamed	153762323:C>G	NA	
-Shoklo	Shoklo	153762319:A>G	NA	
-Nanning	Nanning	153762317:G>A	NA	
-Unnamed	Unnamed	153762315:G>A	NA	
-Unnamed	Unnamed	153762312:G>A	NA	
-Durham	Durham	153762307:T>C	NA	
-Unnamed	Unnamed	153762306:C>T	NA	
-Unnamed	Unnamed	153762300:G>A	NA	
-Unnamed	Unnamed	153762292:G>C	NA	
-Stonybrook	Stonybrook;Stony_Brook	153762290:CAGTGCC>C	NA	
-Unnamed	Unnamed	153762290:C>T	NA	
-Unnamed	Unnamed	153762288:C>T	NA	
-Unnamed	Unnamed	153762283:C>T	NA	
-Tunisia	Tunisia	153762283:C>A	NA	
-Unnamed	Unnamed	153762282:G>A	NA	
-Unnamed	Unnamed	153762281:C>T	NA	
-Unnamed	Unnamed	153762281:C>G	NA	
-Unnamed	Unnamed	153762278:C>G	NA	
-Chiayi	Chiayi	153762277:C>T	NA	
-Unnamed	Unnamed	153762270:G>A	NA	
-Unnamed	Unnamed	153762269:C>T	NA	
-Unnamed	Unnamed	153762266:C>T	NA	
-Unnamed	Unnamed	153762252:G>C	NA	
-Palermo	Palermo	153762251:G>C;153762250:C>A	NA	
-Wayne	Wayne	153762251:G>C	NA	
-Funes	Funes	153762250:C>T	NA	
-Zacatecas	Zacatecas	153762250:C>A	NA	
-Unnamed	Unnamed	153762244:T>C	NA	
-Unnamed	Unnamed	153762075:G>A	NA	
-Unnamed	Unnamed	153761895:A>G	NA	
-Unnamed	Unnamed	153761893:G>A	NA	
-Unnamed	Unnamed	153761892:C>T	NA	
-Unnamed	Unnamed	153761887:G>A	NA	
-Unnamed	Unnamed	153761881:G>A	NA	
-Unnamed	Unnamed	153761880:C>T	NA	
-Unnamed	Unnamed	153761877:T>G	NA	
-Unnamed	Unnamed	153761869:G>A	NA	
-Unnamed	Unnamed	153761866:G>A	NA	
-Unnamed	Unnamed	153761865:G>A	NA	
-Unnamed	Unnamed	153761863:T>C	NA	
-Unnamed	Unnamed	153761862:G>A	NA	
-Unnamed	Unnamed	153761860:C>T	NA	
-Unnamed	Unnamed	153761857:C>T	NA	
-Unnamed	Unnamed	153761856:T>G	NA	
-Unnamed	Unnamed	153761853:G>A	NA	
-Unnamed	Unnamed	153761851:C>T	NA	
-Aveiro	Aveiro	153761849:C>T	NA	
-Unnamed	Unnamed	153761848:A>G	NA	
-Unnamed	Unnamed	153761847:G>A	NA	
-Unnamed	Unnamed	153761845:C>T	NA	
-Roubaix	Roubaix	153761844:C>G	NA	
-Unnamed	Unnamed	153761842:C>T	NA	
-Unnamed	Unnamed	153761841:C>A	NA	
-Unnamed	Unnamed	153761840:G>A	NA	
-Unnamed	Unnamed	153761839:G>A	NA	
-Cleveland	Cleveland;Corum	153761835:C>T	NA	
-Lille	Lille	153761834:T>A	NA	
-Unnamed	Unnamed	153761833:C>T	NA	
-Bangkok	Bangkok	153761830:C>G	NA	
-Unnamed	Unnamed	153761830:C>A	NA	
-Sugao	Sugao	153761829:G>A	NA	
-Hamburg	Hamburg	153761828:G>A	NA	
-Unnamed	Unnamed	153761827:G>C	NA	
-Unnamed	Unnamed	153761827:G>A	NA	
-Unnamed	Unnamed	153761826:C>T	NA	
-Unnamed	Unnamed	153761826:C>A	NA	
-Unnamed	Unnamed	153761824:G>T	NA	
-La Jolla	La Jolla	153761823:A>G	NA	
-Wexham	Wexham	153761822:G>A	NA	
-Unnamed	Unnamed	153761821:G>A	NA	
-Haikou	Haikou	153761820:T>C	NA	
-Chinese-1	Chinese-1	153761820:T>A	NA	
-Unnamed	Unnamed	153761819:G>A	NA	
-Unnamed	Unnamed	153761815:G>A	NA	
-Unnamed	Unnamed	153761811:C>T	NA	
-Seattle	Seattle;Lodi;Modena;Ferrara-II;Athens-like	153761811:C>G	NA	
-Bajo_Maumere	Bajo_Maumere	153761811:C>A	NA	
-Unnamed	Unnamed	153761810:T>C	NA	
-Mizushima	Mizushima	153761807:T>C	NA	
-Unnamed	Unnamed	153761807:T>A	NA	
-Papua	Papua	153761806:G>T	NA	
-Unnamed	Unnamed	153761806:G>A	NA	
-Unnamed	Unnamed	153761805:C>T	NA	
-Piotrkow	Piotrkow	153761804:A>G	NA	
-Osaka	Osaka	153761802:G>A	NA	
-Montalbano	Montalbano	153761801:C>T	NA	
-Unnamed	Unnamed	153761798:T>C	NA	
-Unnamed	Unnamed	153761798:T>A	221017	
-Unnamed	Unnamed	153761797:A>G	NA	
-Unnamed	Unnamed	153761796:C>T	NA	
-Unnamed	Unnamed	153761794:C>T	NA	
-Unnamed	Unnamed	153761787:C>G	NA	
-Unnamed	Unnamed	153761786:C>T	NA	
-Unnamed	Unnamed	153761784:C>T	NA	
-Unnamed	Unnamed	153761784:C>G	NA	
-Unnamed	Unnamed	153761783:C>CC	NA	
-Unnamed	Unnamed	153761783:C>A	NA	
-Unnamed	Unnamed	153761781:C>A	NA	
-Unnamed	Unnamed	153761777:G>A	NA	
-Unnamed	Unnamed	153761774:T>A	NA	
-Unnamed	Unnamed	153761748:C>T	NA	
-Unnamed	Unnamed	153761747:CC>C	NA	
-Unnamed	Unnamed	153761628:G>A	NA	
-Unnamed	Unnamed	153761564:G>A	NA	
-Unnamed	Unnamed	153761359:G>A	NA	
-Unnamed	Unnamed	153761348:G>A	NA	
-Unnamed	Unnamed	153761346:G>T	NA	
-Unnamed	Unnamed	153761341:G>C	NA	
-Unnamed	Unnamed	153761338:C>T	NA	
-Unnamed	Unnamed	153761338:C>G	NA	
-Hechi	Hechi	153761337:C>T;153764217:C>T	NA	
-Ananindeua	Ananindeua	153761337:C>T;153763492:T>C	NA	
-Viangchan	Viangchan;Jammu	153761337:C>T	NA	
-Unnamed	Unnamed	153761332:C>T	NA	
-Unnamed	Unnamed	153761329:T>C	NA	
-Unnamed	Unnamed	153761326:G>A	NA	
-Unnamed	Unnamed	153761325T>C	NA	
-Unnamed	Unnamed	153761325:TGCA>TCA	NA	
-Unnamed	Unnamed	153761323:G>A	NA	
-Unnamed	Unnamed	153761321:G>A	NA	
-Unnamed	Unnamed	153761319:C>T	NA	
-Unnamed	Unnamed	153761317:C>A	NA	
-Unnamed	Unnamed	153761316:C>T	NA	
-Unnamed	Unnamed	153761311:C>A	NA	
-Unnamed	Unnamed	153761310:C>T	NA	
-Unnamed	Unnamed	153761308:G>T	NA	
-Unnamed	Unnamed	153761305:G>T	NA	
-Unnamed	Unnamed	153761301:C>A	NA	
-West_Virginia	West_Virginia	153761298:C>A	NA	
-Unnamed	Unnamed	153761296:G>T	NA	
-Unnamed	Unnamed	153761293:C>T	NA	
-Seoul	Seoul	153761292:C>T	NA	
-Tunis	Tunis	153761288:T>G	NA	
-Omiya	Omiya	153761287:C>G	NA	
-Unnamed	Unnamed	153761284:G>A	NA	
-Unnamed	Unnamed	153761283:C>T	NA	
-Unnamed	Unnamed	153761281:C>A	NA	
-Unnamed	Unnamed	153761280:C>G	NA	
-Ludhiana	Ludhiana	153761279:C>T	NA	
-Unnamed	Unnamed	153761278:C>T	NA	
-Unnamed	Unnamed	153761278:C>G	NA	
-Unnamed	Unnamed	153761272:G>A	NA	
-Unnamed	Unnamed	153761271:C>T	NA	
-Unnamed	Unnamed	153761269A>G	NA	
-Unnamed	Unnamed	153761263:C>G	NA	
-Unnamed	Unnamed	153761261:C>T	NA	
-Unnamed	Unnamed	153761260:G>A	NA	
-Kerala-Kalyan	Kerala-Kalyan;Kalyan-Kerala;Kerala;Kalyan;Jamnaga;Rohini	153761259:C>T	NA	
-Unnamed	Unnamed	153761257:C>T	NA	
-Unnamed	Unnamed	153761252:G>C	NA	
-Unnamed	Unnamed	153761251:G>A	NA	
-Unnamed	Unnamed	153761249:T>C	NA	
-Manhattan	Manhattan	153761246:C>T	NA	
-Rehovot	Rehovot;Rehevot	153761244:A>G	NA	
-A-_968C_376G	A-_968C_376G;Betica;Guantanamo	153761240:A>G;153763492:T>C	NA	
-Nefza	Nefza	153761240:A>G	NA	
-Unnamed	Unnamed	153761239:C>T	NA	
-Unnamed	Unnamed	153761236:G>A	NA	
-Karachi	Karachi	153761235:C>T	NA	
-Farroupilha	Farroupilha	153761231:G>T	NA	
-Unnamed	Unnamed	153761231:G>A	NA	
-Nara	Nara	153761229:TGGGGTCGTCCAGGTACCCTTTGGT>T	NA	
-Unnamed	Unnamed	153761227:C>T	NA	
-Unnamed	Unnamed	153761226:C>T	221017	
-Unnamed	Unnamed	153761222:G>A	NA	
-Unnamed	Unnamed	153761220:G>A	NA	
-Insuli	Insuli	153761219:C>T	NA	
-Unnamed	Unnamed	153761219:C>G	NA	
-Unnamed	Unnamed	153761218:G>A	NA	
-Unnamed	Unnamed	153761217:C>T	NA	
-Unnamed	Unnamed	153761214:GGACCCGCG>GGG	NA	
-Unnamed	Unnamed	153761214:A>G	NA	
-Quilmes	Quilmes	153761213:G>A	NA	
-Unnamed	Unnamed	153761212:G>A	NA	
-Unnamed	Unnamed	153761211:T>G	NA	
-Unnamed	Unnamed	153761210:G>A	NA	
-Unnamed	Unnamed	153761208:T>G	NA	
-Unnamed	Unnamed	153761206:G>A	NA	
-Villeurbanne	Villeurbanne	153761205:CGGTGGT>CGGT	NA	
-Chatham	Chatham	153761205:C>T	NA	
-Unnamed	Unnamed	153761205:C>A	NA	
-Fushan	Fushan	153761204:G>T	NA	
-Unnamed	Unnamed	153761203:G>T	NA	
-Unnamed	Unnamed	153761203:G>C	NA	
-Unnamed	Unnamed	153761203:G>A	NA	
-Torun	Torun	153761202:T>C	NA	
-Unnamed	Unnamed	153761200:A>G	NA	
-Unnamed	Unnamed	153761195:G>A	NA	
-Unnamed	Unnamed	153761194:T>C	NA	
-Unnamed	Unnamed	153761191:G>A	NA	
-Unnamed	Unnamed	153761190:C>T	NA	
-Unnamed	Unnamed	153761189:A>G	NA	
-Unnamed	Unnamed	153761188:G>A	NA	
-Unnamed	Unnamed	153761187:C>T	NA	
-Unnamed	Unnamed	153761185:G>A	NA	
-Chinese-5	Chinese-5;Mahidol-like	153761184:G>A	NA	
-Unnamed	Unnamed	153761182:G>A	NA	
-Unnamed	Unnamed	153761181:A>G	NA	
-Unnamed	Unnamed	153761180:T>C	NA	
-Unnamed	Unnamed	153761178:C>T	NA	
-Unnamed	Unnamed	153761177:A>G	NA	
-Cincinnati	Cincinnati	153761171:T>A;153762560:C>A	NA	
-Unnamed	Unnamed	153761171:T>A	NA	
-Unnamed	Unnamed	153761166:T>G	NA	
-Unnamed	Unnamed	153761160:C>T	NA	
-Unnamed	Unnamed	153761160:C>G;153763462:G>A	NA	
-Mira_d'Aire	Mira_d'Aire	153761160:C>G	NA	
-Unnamed	Unnamed	153761157:C>A	NA	
-Unnamed	Unnamed	153761153:C>G	NA	
-Unnamed	Unnamed	153761146:G>C	NA	
-Unnamed	Unnamed	153761146:G>A	NA	
-Unnamed	Unnamed	153761142:G>T	NA	
-Unnamed	Unnamed	153761141:C>T	NA	
-Unnamed	Unnamed	153761036:A>G	NA	
-Unnamed	Unnamed	153761027:G>A	NA	
-Unnamed	Unnamed	153761026:C>T	NA	
-Unnamed	Unnamed	153761024:G>A	NA	
-Unnamed	Unnamed	153761022:G>A	NA	
-Unnamed	Unnamed	153761021:C>T	NA	
-Unnamed	Unnamed	153761017:C>T	NA	
-Unnamed	Unnamed	153761017:C>G	NA	
-Partenope	Partenope	153761017:C>A	NA	
-Unnamed	Unnamed	153761016:C>T	NA	
-Unnamed	Unnamed	153761016:C>A	NA	
-Unnamed	Unnamed	153761014:A>AC	NA	
-Unnamed	Unnamed	153761013:C>A	NA	
-Ierapetra	Ierapetra	153761012:G>A	NA	
-Unnamed	Unnamed	153761010:G>A	NA	
-Unnamed	Unnamed	153761007:G>A	NA	
-Unnamed	Unnamed	153761006:T>C	NA	
-Unnamed	Unnamed	153761005:A>G	NA	
-Unnamed	Unnamed	153761004:G>A	NA	
-Unnamed	Unnamed	153761002:A>T	NA	
-Unnamed	Unnamed	153761001:C>T	NA	
-Unnamed	Unnamed	153761000:G>A	NA	
-Unnamed	Unnamed	153760999:C>T	NA	
-Unnamed	Unnamed	153760996C>T	NA	
-Unnamed	Unnamed	153760995:G>T	NA	
-Unnamed	Unnamed	153760995:G>A	NA	
-Unnamed	Unnamed	153760994:C>T	NA	
-Iwatsuki	Iwatsuki	153760988:C>T	NA	
-Serres	Serres	153760987:G>A	NA	
-Unnamed	Unnamed	153760985:G>A	NA	
-Unnamed	Unnamed	153760983:C>T	NA	
-Unnamed	Unnamed	153760981:T>A	NA	
-Loma_Linda	Loma_Linda	153760980:G>T	NA	
-Aachen	Aachen	153760980:G>C	NA	
-Unnamed	Unnamed	153760980:G>A	NA	
-Unnamed	Unnamed	153760976:G>A	NA	
-Veracruz	Veracruz	153760975:C>T	NA	
-Tenri	Tenri	153760973:T>C	NA	
-Unnamed	Unnamed	153760971:C>T	NA	
-Unnamed	Unnamed	153760968:G>A	NA	
-Tondela	Tondela	153760967:CGGCCTTGCGCTCGTTCAG>C	NA	
-Unnamed	Unnamed	153760965:C>T	NA	
-Unnamed	Unnamed	153760965:C>G	NA	
-Unnamed	Unnamed	153760964:C>T	NA	
-Unnamed	Unnamed	153760963:A>G;153762698:T>A	NA	
-Unnamed	Unnamed	153760963:A>G	NA	
-Unnamed	Unnamed	153760960:C>A	NA	
-Unnamed	Unnamed	153760956:C>T	NA	
-Unnamed	Unnamed	153760953:C>T	NA	
-Unnamed	Unnamed	153760951:A>G	NA	
-Unnamed	Unnamed	153760950:G>C	NA	
-Unnamed	Unnamed	153760950:G>A	NA	
-Unnamed	Unnamed	153760948:T>G	NA	
-Unnamed	Unnamed	153760948:T>C	NA	
-Unnamed	Unnamed	153760948:T>A	NA	
-Unnamed	Unnamed	153760947:A>G	NA	
-Unnamed	Unnamed	153760945:T>C	NA	
-Unnamed	Unnamed	153760941:C>T	NA	
-Unnamed	Unnamed	153760940:C>T	NA	
-Unnamed	Unnamed	153760938:G>A	NA	
-Montpellier	Montpellier	153760937:C>T	NA	
-Unnamed	Unnamed	153760935:G>A	NA	
-Calvo_Mackenna	Calvo_Mackenna	153760931:T>C	NA	
-Riley	Riley	153760930:A>G	NA	
-New_York	New_York	153760928:A>T	NA	
-Olomouc	Olomouc	153760928:A>G	NA	
-Unnamed	Unnamed	153760926:G>C	NA	
-Unnamed	Unnamed	153760923:G>C	NA	
-Unnamed	Unnamed	153760917:C>G	NA	
-Tomah	Tomah	153760916:A>G	NA	
-Kangnam	Kangnam	153760916:A>C	NA	
-Lynwood	Lynwood	153760915:C>A	NA	
-Madrid	Madrid	153760914:G>C	NA	
-Iowa	Iowa;Walter_Reed;Springfield;Iowa_City	153760913:T>C	NA	
-Mt_Sinai	Mt_Sinai;Mount_Sinai	153760910:G>A;153763492:T>C	NA	
-Guadalajara	Guadalajara	153760910:G>A	NA	
-Beverly_Hills	Beverly_Hills;Genova;Iwate;Niigata;Yamaguchi	153760909:C>T	NA	
-Unnamed	Unnamed	153760908:G>A	NA	
-Hartford	Hartford	153760907:T>C	NA	
-Unnamed	Unnamed	153760905:G>A	NA	
-Praha	Praha	153760903:T>C	NA	
-Unnamed	Unnamed	153760898:C>T	NA	
-Krakow	Krakow	153760894:A>G	NA	
-Wisconsin	Wisconsin	153760892:G>C	NA	
-Unnamed	Unnamed	153760892:G>A	NA	
-Nashville	Nashville;Anaheim;Portici	153760891:C>T	NA	
-Unnamed	Unnamed	153760890:G>A	NA	
-Alhambra	Alhambra	153760889:C>G	NA	
-Unnamed	Unnamed	153760887C>T	NA	
-Unnamed	Unnamed	153760886:G>A	NA	
-Unnamed	Unnamed	153760883:G>C	NA	
-Unnamed	Unnamed	153760882:G>C	NA	
-Bari	Bari	153760882:G>A	NA	
-Unnamed	Unnamed	153760880T>C	NA	
-Unnamed	Unnamed	153760879:T>C	NA	
-Unnamed	Unnamed	153760878:G>A	NA	
-Puerto_Limon	Puerto_Limon	153760877:C>T	NA	
-Anadia	Anadia	153760876:T>C	NA	
-Unnamed	Unnamed	153760875:C>T	NA	
-Unnamed	Unnamed	153760874:C>T	NA	
-Unnamed	Unnamed	153760872:G>A	NA	
-Unnamed	Unnamed	153760871:C>T	NA	
-Unnamed	Unnamed	153760869:C>T	NA	
-Unnamed	Unnamed	153760866:G>A	NA	
-Unnamed	Unnamed	153760865:T>C	NA	
-Covao_do_Lobo	Covao_do_Lobo	153760864:G>T	NA	
-Unnamed	Unnamed	153760863:G>C	NA	
-Unnamed	Unnamed	153760860:C>T	NA	
-Unnamed	Unnamed	153760858:A>G	NA	
-Unnamed	Unnamed	153760855:A>G	NA	
-Clinic	Clinic	153760854:C>T	NA	
-Abeno	Abeno	153760849:T>G	NA	
-Utrecht	Utrecht	153760844:G>A	NA	
-Merlo	Merlo	153760843:G>T	NA	
-Suwalki	Suwalki	153760843:G>C	NA	
-Unnamed	Unnamed	153760843:G>A	NA	
-Unnamed	Unnamed	153760842:C>T	NA	
-Unnamed	Unnamed	153760842:C>A	NA	
-Riverside	Riverside	153760841:C>A	NA	
-Japan	Japan;Shinagawa	153760840:C>T	NA	
-Kawasaki	Kawasaki	153760840:C>G	NA	
-Munich	Munich	153760838:T>C	NA	
-Unnamed	Unnamed	153760834:A>G	NA	
-Unnamed	Unnamed	153760829:T>G	NA	
-Unnamed	Unnamed	153760828:T>C	NA	
-Unnamed	Unnamed	153760826:G>A	NA	
-Unnamed	Unnamed	153760824:G>A	NA	
-Tokyo	Tokyo;Fukushima	153760823:C>T	NA	
-Unnamed	Unnamed	153760816:G>A	NA	
-Unnamed	Unnamed	153760815:C>T	NA	
-Unnamed	Unnamed	153760811:G>A	NA	
-Unnamed	Unnamed	153760809:C>T	NA	
-Tennessee	Tennessee	153760805:G>C;153763492:T>C;153764217:C>T	NA	
-Unnamed	Unnamed	153760803:C>G	NA	
-Unnamed	Unnamed	153760800:G>A	NA	
-Unnamed	Unnamed	153760797:G>A	NA	
-Unnamed	Unnamed	153760796:C>T	NA	
-Unnamed	Unnamed	153760792:T>C	NA	
-Unnamed	Unnamed	153760791:G>C	NA	
-Unnamed	Unnamed	153760791:G>A	NA	
-Unnamed	Unnamed	153760786:T>TT	NA	
-Unnamed	Unnamed	153760786:T>C	NA	
-Georgia	Georgia	153760785:G>T	NA	
-Yucatan	Yucatan	153760784:T>C	NA	
-Unnamed	Unnamed	153760779:C>G	NA	
-Unnamed	Unnamed	153760776:G>A	NA	
-Unnamed	Unnamed	153760768:T>C	NA	
-Unnamed	Unnamed	153760764:T>C	NA	
-Unnamed	Unnamed	153760763:C>T	NA	
-Unnamed	Unnamed	153760762:G>A	NA	
-Unnamed	Unnamed	153760689:A>T	NA	
-Unnamed	Unnamed	153760685:GGA>G	NA	
-Unnamed	Unnamed	153760685:G>T	NA	
-Unnamed	Unnamed	153760685:G>A	NA	
-Unnamed	Unnamed	153760684:G>A	NA	
-Unnamed	Unnamed	153760682:G>A	NA	
-Zurich	Zurich	153760679:T>C	NA	
-Unnamed	Unnamed	153760679:T>A	NA	
-Varnsdorf	Varnsdorf	153760677:TCT>T	NA	
-Unnamed	Unnamed	153760676:T>G	NA	
-Unnamed	Unnamed	153760675:G>A	NA	
-Surabaya	Surabaya	153760674:C>T	NA	
-Sumare	Sumare	153760673:A>C	NA	
-Unnamed	Unnamed	153760660:G>C	NA	
-Unnamed	Unnamed	153760660:G>A	NA	
-Unnamed	Unnamed	153760654:G>A;153760953:C>T	NA	
-Unnamed	Unnamed	153760654:G>A	NA	
-Unnamed	Unnamed	153760651:C>T	NA	
-Unnamed	Unnamed	153760650:G>A	NA	
-Unnamed	Unnamed	153760649:C>T	NA	
-Pawnee	Pawnee	153760649:C>G	NA	
-Telti	Telti;Kobe	153760647:G>A	NA	
-Unnamed	Unnamed	153760644:T>C	NA	
-Unnamed	Unnamed	153760641:G>C	NA	
-Unnamed	Unnamed	153760641:G>A	NA	
-Unnamed	Unnamed	153760639:C>G	NA	
-Unnamed	Unnamed	153760636:G>A	NA	
-Tainan-2	Tainan-2;Taiwan-2	153760635:C>T	NA	
-Unnamed	Unnamed	153760633:G>C	NA	
-Unnamed	Unnamed	153760627:G>A	NA	
-Santiago_de_Cuba	Santiago_de_Cuba;Morioka	153760626:C>T	NA	
-Jiangxi	Jiangxi	153760625:C>A	NA	
-Unnamed	Unnamed	153760624:C>T	NA	
-Unnamed	Unnamed	153760624:C>A	NA	
-S_Antioco	S_Antioco;Haweia	153760623:T>C	NA	
-Unnamed	Unnamed	153760621:G>A	NA	
-Unnamed	Unnamed	153760619:T>C	NA	
-Cassano	Cassano;Casano	153760618:C>G	NA	
-Unnamed	Unnamed	153760614:G>A	NA	
-Unnamed	Unnamed	153760609:G>A	NA	
-Harima	Harima	153760607:A>T	NA	
-Honiara	Honiara	153760605:G>A;153774272:T>C	NA	
-Hermoupolis	Hermoupolis	153760605:G>A;153760618:C>G	NA	
-Union	Union;Maewo;Chinese-2;Kalo	153760605:G>A	NA	
-Andalus	Andalus	153760604:C>T	NA	
-Unnamed	Unnamed	153760604:C>G	NA	
-Unnamed	Unnamed	153760604:C>A	NA	
-Unnamed	Unnamed	153760602:T>C	NA	
-Unnamed	Unnamed	153760601:C>T	NA	
-Unnamed	Unnamed	153760597:T>C	NA	
-Unnamed	Unnamed	153760586:G>A	NA	
-Unnamed	Unnamed	153760508:A>G;153760654:G>A	NA	
-Unnamed	Unnamed	153760508:G>A	NA	
-Unnamed	Unnamed	153760503:G>T	NA	
-Unnamed	Unnamed	153760502:G>A	NA	
-Unnamed	Unnamed	153760501:G>A	NA	
-Unnamed	Unnamed	153760500:G>A	NA	
-Unnamed	Unnamed	153760495:G>A	NA	
-Unnamed	Unnamed	153760494:C>T	NA	
-Figueira_da_Foz	Figueira_da_Foz	153760494:C>G	NA	
-Amiens	Amiens	153760493:T>A	NA	
-Unnamed	Unnamed	153760492:G>A	NA	
-Unnamed	Unnamed	153760489:C>T	NA	
-Unnamed	Unnamed	153760488:G>A	NA	
-Utah	Utah	153760485:G>C	NA	
-Unnamed	Unnamed	153760485:G>A	NA	
-Unnamed	Unnamed	153760484:del	NA	
-Unnamed	Unnamed	153760484:C>T	NA	
-Cosenza	Cosenza	153760484:C>G	NA	
-Canton	Canton;Taiwan-Hakka;Gifu;Agrigento	153760484:C>A	NA	
-Unnamed	Unnamed	153760482:C>A	NA	
-Nice	Nice	153760480:C>G	NA	
-Yunan	Yunan	153760479:C>T	NA	
-Unnamed	Unnamed	153760477:G>C	NA	
-Flores	Flores	153760473:G>T	NA	
-Kamiube	Kamiube;Keelung	153760473:G>A	NA	
-Kaiping	Kaiping;Anant;Dhon;Sapporo-like;Wosera;Petrich-like	153760472:C>T	NA	
-Unnamed	Unnamed	153760464:T>G	NA	
-Unnamed	Unnamed	153760462:G>A	NA	
-Neapolis	Neapolis;Neopolis	153760460:G>C	NA	
-Unnamed	Unnamed	153760458:G>A	NA	
-Unnamed	Unnamed	153760455:G>A	NA	
-Unnamed	Unnamed	153760453:C>A	NA	
-Unnamed	Unnamed	153760450:G>A	NA	
-Unnamed	Unnamed	153760448:T>A	NA	
-Laibin	Laibin	153760446:T>G	NA	
-Unnamed	Unnamed	153760444:A>C	NA	
-Unnamed	Unnamed	153760440:G>C	NA	
-Unnamed	Unnamed	153760439:A>T	NA	
-Unnamed	Unnamed	153760438:C>T	NA	
-Unnamed	Unnamed	153760432:C>T	NA	
-Unnamed	Unnamed	153760430:G>A	NA	
-Unnamed	Unnamed	153760429:G>A	NA	
-Unnamed	Unnamed	153760423:G>A	NA	
-Unnamed	Unnamed	153760422:T>C	NA	
-Unnamed	Unnamed	153760419:G>C	NA	
-Unnamed	Unnamed	153760419:G>A	NA	
-Split	Split	153760418:G>C	NA	
-Unnamed	Unnamed	153760418:G>A	NA	
-Unnamed	Unnamed	153760417:G>A	NA	
-Unnamed	Unnamed	153760414:A>G	NA	
-Unnamed	Unnamed	153760408:A>G	NA	
-Unnamed	Unnamed	153760393:C>T	NA	
-Unnamed	Unnamed	153760384:G>A	NA	
-Unnamed	Unnamed	153760372:G>C	NA	
-Unnamed	Unnamed	153760369:T>C	NA	
-Unnamed	Unnamed	153760347:CCCTCACCCCGCCCCTGCCCGCTGGGCTCTGTCCCCAGCCCCCACCCTTT>C	NA	
-Unnamed	Unnamed	153760318:G>C	NA	
-Unnamed	Unnamed	153760318:G>A	NA	
-Unnamed	Unnamed	153760317:C>T	NA	
-Unnamed	Unnamed	153760312:A>T	NA	
-Unnamed	Unnamed	153760312:A>G	NA	
-Unnamed	Unnamed	153760305:G>A	NA	
-Fukaya	Fukaya	153760301:C>T	NA	
-Campinas	Campinas	153760300:C>A	NA	
-Unnamed	Unnamed	153760299:G>A	NA	
-Buenos Aires	Buenos Aires	153760298:G>A	NA	
-Arakawa	Arakawa	153760297:G>A	NA	
-Unnamed	Unnamed	153760296G>T	NA	
-Unnamed	Unnamed	153760295:T>G	NA	
-Unnamed	Unnamed	153760294:G>A	NA	
-Unnamed	Unnamed	153760293:C>T	NA	
-Unnamed	Unnamed	153760293:C>G	NA	
-Unnamed	Unnamed	153760285:T>TCTGCCTCCTT	NA	
-Unnamed	Unnamed	153760284:G>A	NA	
-Unnamed	Unnamed	153760283:C>T	NA	
-Unnamed	Unnamed	153760281:C>T	NA	
-Unnamed	Unnamed	153760278:C>T	NA	
-Unnamed	Unnamed	153760276:A>G	NA	
-Unnamed	Unnamed	153760276:A>C	NA	
-Brighton	Brighton	153760272:CTTC>C	NA	
-Unnamed	Unnamed	153760272:C>A	NA	
-Unnamed	Unnamed	153760270:C>G	NA	
-Bangkok_Noi	Bangkok_Noi	153760261:A>C;153760484:C>A	NA	
-Unnamed	Unnamed	153760260:G>A	NA	
-Unnamed	Unnamed	153760257:C>T	NA	
-Unnamed	Unnamed	153760257:C>G	NA	
-Unnamed	Unnamed	153760248:G>A	NA	
-Unnamed	Unnamed	153760246:G>C	NA	
-Unnamed	Unnamed	153760243:T>C	NA	
-Unnamed	Unnamed	153760231T>G	NA	
-Unnamed	Unnamed	153760229:G>A	NA	
-Unnamed	Unnamed	153760227:G>A	NA	
-Unnamed	Unnamed	153760225:T>C	NA	
-Unnamed	Unnamed	153760224:G>A	NA	
-Unnamed	Unnamed	153760222:T>C	NA	
-Unnamed	Unnamed	153760219:T>C	NA	
-Unnamed	Unnamed	153760214:C>A	NA	
-Unnamed	Unnamed	153760212:G>A	NA	
-Unnamed	Unnamed	153760206:GC>G	NA	
-Unnamed	Unnamed	153760206:G>T	NA	
-Unnamed	Unnamed	153760205:T>G	NA	
-Unnamed	Unnamed	153760203:G>A	NA	
-Unnamed	Unnamed	153760201:T>TGGGTGCCGGGGGGGGGGGGGTTGGG	NA	
-Unnamed	Unnamed	153760201:T>G	NA	
-Unnamed	Unnamed	153760194:G>A	NA	
-Unnamed	Unnamed	153760192:G>A	NA	
-Unnamed	Unnamed	153760190:G>A	NA	
-Unnamed	Unnamed	153760189:C>T	NA	
-Unnamed	Unnamed	153760189:C>CGGGGGG	NA	
-Unnamed	Unnamed	153760185:G>A	NA	
-Unnamed	Unnamed	153760184:C>T	NA	
-Unnamed	Unnamed	153760181:G>T	NA	
-Unnamed	Unnamed	153760179:G>A	NA	
-Unnamed	Unnamed	153760178:G>A	NA	
-Unnamed	Unnamed	153760177:G>A	NA	
-Unnamed	Unnamed	153760175:G>C	NA	
-Unnamed	Unnamed	153760175:G>A	NA	
-Unnamed	Unnamed	153760171:G>C	NA	
-Unnamed	Unnamed	153760170:G>A	NA	
-Unnamed	Unnamed	153760169:G>A	NA	
-Unnamed	Unnamed	153760168:C>T	NA	
-Unnamed	Unnamed	153760166:G>A	NA	
-Unnamed	Unnamed	153760165:C>T	NA	
-Unnamed	Unnamed	153760162:G>C	NA	
-Unnamed	Unnamed	153760162:G>A	NA	
-Unnamed	Unnamed	153760161:C>T	NA	
-Unnamed	Unnamed	153760158:G>C	NA	
-Unnamed	Unnamed	153760156:G>A	NA	
-Unnamed	Unnamed	153760155:C>T	NA	
-Unnamed	Unnamed	153760155:C>A	NA	
-Unnamed	Unnamed	153760154:T>G	NA	
-Unnamed	Unnamed	153760153:C>T	NA	
-Unnamed	Unnamed	153760151:G>A	NA	
-Unnamed	Unnamed	153760150:C>T	NA	
-Unnamed	Unnamed	153760150:C>CGACTCGGGG	NA	
-Unnamed	Unnamed	153760143:GTCC>G	NA	
-Unnamed	Unnamed	153760143:G>A	NA	
-Unnamed	Unnamed	153760140:G>A	NA	
-Unnamed	Unnamed	153760139:CG>C	NA	
-Unnamed	Unnamed	153760139:C>T	NA	
-Unnamed	Unnamed	153760139:C>CG	NA	
-Unnamed	Unnamed	153760137:C>T	NA	
-Unnamed	Unnamed	153760136:T>A	NA	
-Unnamed	Unnamed	153760133:T>C	NA	
-Unnamed	Unnamed	153760132:A>G	NA	
-Unnamed	Unnamed	153760130:C>G	NA	
-Unnamed	Unnamed	153760127:G>A	NA	
-Unnamed	Unnamed	153760116:T>C	NA	
-Unnamed	Unnamed	153760113:G>T	NA	
-Unnamed	Unnamed	153760108:G>A	NA	
-Unnamed	Unnamed	153760105:G>A	NA	
-Unnamed	Unnamed	153760102:C>G	NA	
-Unnamed	Unnamed	153760099:G>A	NA	
-Unnamed	Unnamed	153760098:A>G	NA	
-Unnamed	Unnamed	153760094:G>A	NA	
-Unnamed	Unnamed	153760088:C>T	NA	
-Unnamed	Unnamed	153760085:G>A	NA	
-Unnamed	Unnamed	153760084:G>A	NA	
-Unnamed	Unnamed	153760083:CGGGCCAGGGTGGCCAGAGCCCG>C	NA	
-Unnamed	Unnamed	153760083:C>T	NA	
-Unnamed	Unnamed	153760083:C>A	NA	
-Unnamed	Unnamed	153760078:AG>A	NA	
-Unnamed	Unnamed	153760077:G>A	NA	
-Unnamed	Unnamed	153760076:C>T	NA	
-Unnamed	Unnamed	153760067:T>C	NA	
-Unnamed	Unnamed	153760066:G>A	NA	
-Unnamed	Unnamed	153760063:G>A	NA	
-Unnamed	Unnamed	153760062:GGTA>G	NA	
-Unnamed	Unnamed	153760061:G>C	NA	
-Unnamed	Unnamed	153760061:G>A	NA	
-Unnamed	Unnamed	153760060:C>T	NA	
-Unnamed	Unnamed	153760060:C>G	NA	
-Unnamed	Unnamed	153760060:C>A	NA	
-Unnamed	Unnamed	153760055:G>A	NA	
-Unnamed	Unnamed	153760054:T>C	NA	
-Unnamed	Unnamed	153760051:A>T	NA	
-Unnamed	Unnamed	153760048:T>C	NA	
-Unnamed	Unnamed	153760039:G>A	NA	
-Unnamed	Unnamed	153760037:C>T	NA	
-Unnamed	Unnamed	153760031:G>A	NA	
-Unnamed	Unnamed	153760029:G>C	NA	
-Unnamed	Unnamed	153760027:G>A	NA	
-Unnamed	Unnamed	153760026:C>T	NA	
-Unnamed	Unnamed	153760024:C>T	NA	
-Unnamed	Unnamed	153760022:G>A	NA	
-Unnamed	Unnamed	153760020:T>C	NA	
-Unnamed	Unnamed	153760018:G>A	NA	
-Unnamed	Unnamed	153760013:G>A	NA	
-Unnamed	Unnamed	153760012:G>A	NA	
-Unnamed	Unnamed	153760011:G>A	NA	
-Unnamed	Unnamed	153760010:G>T	NA	
-Unnamed	Unnamed	153760009:A>C	NA	
-Unnamed	Unnamed	153760005:C>T	NA	
-Unnamed	Unnamed	153760002:G>C	NA	
-Unnamed	Unnamed	153759999:C>T	NA	
-Unnamed	Unnamed	153759996:A>G	NA	
-Unnamed	Unnamed	153759996:A>C	NA	
-Unnamed	Unnamed	153759992:G>T	NA	
-Unnamed	Unnamed	153759983:A>G	NA	
-Unnamed	Unnamed	153759978:G>A	NA	
-Unnamed	Unnamed	153759976:G>A	NA	
-Unnamed	Unnamed	153759975:G>A	NA	
-Unnamed	Unnamed	153759974:A>T	NA	
-Unnamed	Unnamed	153759972:G>A	NA	
-Unnamed	Unnamed	153759968:TGGA>T	NA	
-Unnamed	Unnamed	153759964:T>G	NA	
-Unnamed	Unnamed	153759961:G>C	NA	
-Unnamed	Unnamed	153759960:GGAGT>G	NA	
-Unnamed	Unnamed	153759951:T>C	NA	
-Unnamed	Unnamed	153759943:C>T	NA	
-Unnamed	Unnamed	153759942:C>A	NA	
-Unnamed	Unnamed	153759934:G>A	NA	
-Unnamed	Unnamed	153759933:C>T	NA	
-Unnamed	Unnamed	153759930:G>A	NA	
-Unnamed	Unnamed	153759929:T>C	NA	
-Unnamed	Unnamed	153759926:G>C	NA	
-Unnamed	Unnamed	153759926:G>A	NA	
-Unnamed	Unnamed	153759925:C>T	NA	
-Unnamed	Unnamed	153759919:G>A	NA	
-Unnamed	Unnamed	153759917:G>A	NA	
-Unnamed	Unnamed	153759915:C>T	NA	
-Unnamed	Unnamed	153759912:G>A	NA	
-Unnamed	Unnamed	153759911:A>T	NA	
-Unnamed	Unnamed	153759911:A>G	NA	
-Unnamed	Unnamed	153759908:A>G	NA	
-Unnamed	Unnamed	153759906:C>T	NA	
-Unnamed	Unnamed	153759899:C>G	NA	
-Unnamed	Unnamed	153759897:C>T	NA	
-Unnamed	Unnamed	153759893:G>C	NA	
-Unnamed	Unnamed	153759893:G>A	NA	
-Unnamed	Unnamed	153759892:T>C	NA	
-Unnamed	Unnamed	153759892:T>A	NA	
-Unnamed	Unnamed	153759891:G>A	NA	
-Unnamed	Unnamed	153759886:C>T	NA	
-Unnamed	Unnamed	153759884:C>G	NA	
-Unnamed	Unnamed	153759874:C>T	NA	
-Unnamed	Unnamed	153759873:C>A	NA	
-Unnamed	Unnamed	153759872:A>C	NA	
-Unnamed	Unnamed	153759868:T>TCCCA	NA	
-Unnamed	Unnamed	153759867:C>T	NA	
-Unnamed	Unnamed	153759866:C>T	NA	
-Unnamed	Unnamed	153759865:C>T	NA	
-Unnamed	Unnamed	153759864:T>G	NA	
-Unnamed	Unnamed	153759861:C>T	NA	
-Unnamed	Unnamed	153759859:GTCCC>G	NA	
-Unnamed	Unnamed	153759859:G>A	NA	
-Unnamed	Unnamed	153759858:C>T	NA	
-Unnamed	Unnamed	153759855:C>A	NA	
-Unnamed	Unnamed	153759854:C>T	NA	
-Unnamed	Unnamed	153759850:C>T	NA	
-Unnamed	Unnamed	153759849:C>T	NA	
-Unnamed	Unnamed	153759844:C>T	NA	
-Unnamed	Unnamed	153759842:C>T	NA	
-Unnamed	Unnamed	153759841:GCC>G	NA	
-Unnamed	Unnamed	153759841:G>T	NA	
-Unnamed	Unnamed	153759841:G>A	NA	
-Unnamed	Unnamed	153759840:C>T	NA	
-Unnamed	Unnamed	153759840:C>G	NA	
-Unnamed	Unnamed	153759831:G>C	NA	
-Unnamed	Unnamed	153759831:G>A	NA	
-Unnamed	Unnamed	153759830:C>T	NA	
-Unnamed	Unnamed	153759828:C>G	NA	
-Unnamed	Unnamed	153759821:A>G	NA	
-Unnamed	Unnamed	153759818:C>T	NA	
-Unnamed	Unnamed	153759813:A>T	NA	
-Unnamed	Unnamed	153759804:G>A	NA	
-Unnamed	Unnamed	153759803:G>A	NA	
-Unnamed	Unnamed	153759802:C>T	NA	
-Unnamed	Unnamed	153759798:C>A	NA	
-Unnamed	Unnamed	153759795:A>G	NA	
-Unnamed	Unnamed	153759793:T>G	NA	
-Unnamed	Unnamed	153759787:T>G	NA	
-Unnamed	Unnamed	153759783:C>T	NA	
-Unnamed	Unnamed	153759781:G>T	NA	
-Unnamed	Unnamed	153759771:G>C	NA	
-Unnamed	Unnamed	153759771:G>A	NA	
-Unnamed	Unnamed	153759769:G>A	NA	
-Unnamed	Unnamed	153759757:G>A	NA	
-Unnamed	Unnamed	153759753:G>A	NA	
-Unnamed	Unnamed	153759751:G>A	NA	
-Unnamed	Unnamed	153759749:G>C	NA	
-Unnamed	Unnamed	153759749:G>A	NA	
-Unnamed	Unnamed	153759747:CA>C	NA	
-Unnamed	Unnamed	153759741:G>C	NA	
-Unnamed	Unnamed	153759741:G>A	NA	
-Unnamed	Unnamed	153759733:G>A	NA	
-Unnamed	Unnamed	153759731:TGGA>T	NA	
-Unnamed	Unnamed	153759724:G>A	NA	
-Unnamed	Unnamed	153759722:C>T	NA	
-Unnamed	Unnamed	153759721:G>A	NA	
-Unnamed	Unnamed	153759716:G>A	NA	
-Unnamed	Unnamed	153759705:G>C	NA	
-Unnamed	Unnamed	153759705:G>A	NA	
-Unnamed	Unnamed	153759704:C>T	NA	
-Unnamed	Unnamed	153759696:G>A	NA	
-Unnamed	Unnamed	153759695:CGGGTGGCACG>C	NA	
-Unnamed	Unnamed	153759695:C>T	NA	
-Unnamed	Unnamed	153759691:CCTA>C	NA	
-Unnamed	Unnamed	153759690:G>A	NA	
-Unnamed	Unnamed	153759681:A>G	NA	
-Unnamed	Unnamed	153759680:C>A	NA	
-Unnamed	Unnamed	153759676:A>G	NA	
-Unnamed	Unnamed	153759675:TATAGC>T	NA	
-Unnamed	Unnamed	153759673:C>T	NA	
-Unnamed	Unnamed	153759667:G>A	NA	
-Unnamed	Unnamed	153759666:T>G	NA	
-Unnamed	Unnamed	153759666:T>C	NA	
-Unnamed	Unnamed	153759663:G>A	NA	
-Unnamed	Unnamed	153759662:C>T	NA	
-Unnamed	Unnamed	153759656:C>A	NA	
-Unnamed	Unnamed	153759654:A>T	NA	
-Unnamed	Unnamed	153759653:C>T	NA	
-Unnamed	Unnamed	153759649:G>C	NA	
-Unnamed	Unnamed	153759645:A>G	NA	
-Unnamed	Unnamed	153759642:G>A	NA	
-Unnamed	Unnamed	153759636:G>A	NA	
-Unnamed	Unnamed	153759634:T>C	NA	
-Unnamed	Unnamed	153759627:C>T	NA	
-Unnamed	Unnamed	153759620:T>C	NA	
-Unnamed	Unnamed	153759618:A>C	NA	
-Unnamed	Unnamed	153759616:G>A	NA	
-Unnamed	Unnamed	153759615:C>T	NA	
-Unnamed	Unnamed	153759612:T>C	NA	
-Unnamed	Unnamed	153759608:C>T	NA	
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+name	alternate_names	hg19_core
+B	B;wildtype	NA
+Unnamed	Unnamed	153775785:T>C
+Unnamed	Unnamed	153775782:T>G
+Unnamed	Unnamed	153775781:GT>G
+Unnamed	Unnamed	153775781:G>A
+Unnamed	Unnamed	153775778:C>T
+Unnamed	Unnamed	153775778:C>G
+Unnamed	Unnamed	153775777:C>T
+Unnamed	Unnamed	153775775:T>C
+Unnamed	Unnamed	153775773:C>A
+Unnamed	Unnamed	153775770:C>A
+Unnamed	Unnamed	153775767:C>G
+Unnamed	Unnamed	153775762:C>T
+Unnamed	Unnamed	153775754:G>A
+Unnamed	Unnamed	153775751:G>A
+Unnamed	Unnamed	153775746:C>G
+Unnamed	Unnamed	153775744:C>T
+Unnamed	Unnamed	153775744:C>A
+Unnamed	Unnamed	153775726:C>T
+Unnamed	Unnamed	153775725:T>C
+Unnamed	Unnamed	153775712:G>A
+Unnamed	Unnamed	153775711:C>T
+Unnamed	Unnamed	153775709:G>A
+Unnamed	Unnamed	153775706:C>CCTGGCGGACT
+Unnamed	Unnamed	153775699:T>C
+Unnamed	Unnamed	153775697:C>T
+Unnamed	Unnamed	153775693:C>T
+Unnamed	Unnamed	153775692:G>A
+Unnamed	Unnamed	153775681:A>C
+Unnamed	Unnamed	153775680:T>C
+Unnamed	Unnamed	153775675:A>G
+Unnamed	Unnamed	153775669:G>C
+Unnamed	Unnamed	153775233:T>C
+Unnamed	Unnamed	153775227:T>C
+Unnamed	Unnamed	153775223:C>T
+Unnamed	Unnamed	153775217:G>C
+Unnamed	Unnamed	153775217:G>A
+Unnamed	Unnamed	153775213:C>T
+Unnamed	Unnamed	153775212:T>C
+Unnamed	Unnamed	153775210:C>T
+Unnamed	Unnamed	153775209:G>C
+Unnamed	Unnamed	153775204:C>T
+Unnamed	Unnamed	153775203:G>A
+Unnamed	Unnamed	153775202:T>A
+Unnamed	Unnamed	153775191:G>T
+Unnamed	Unnamed	153775187:C>T
+Unnamed	Unnamed	153775184:G>T
+Unnamed	Unnamed	153775182:C>A
+Unnamed	Unnamed	153775181:G>A
+Unnamed	Unnamed	153775179:G>A
+Unnamed	Unnamed	153775178:C>CGGGCG
+Unnamed	Unnamed	153775177:G>A
+Unnamed	Unnamed	153775176:T>TGCGG
+Unnamed	Unnamed	153775172:C>T
+Unnamed	Unnamed	153775172:C>A
+Unnamed	Unnamed	153775167:C>T
+Unnamed	Unnamed	153775166:C>T
+Unnamed	Unnamed	153775165:A>G
+Unnamed	Unnamed	153775163:C>T
+Unnamed	Unnamed	153775163:C>G
+Unnamed	Unnamed	153775155:G>T
+Unnamed	Unnamed	153775152:C>G
+Unnamed	Unnamed	153775148:G>GGGGCGGGGCCTCGGCCACCACCCCTCGTGC
+Unnamed	Unnamed	153775145:TGCGGGGCGGGGCCTCGGCCACCACCCCTCGTGCGG>T
+Unnamed	Unnamed	153775141:GGCGTGCGGGGCGGGGCCTCGGCCACCACCCCTCGT>G
+Unnamed	Unnamed	153775141:G>A
+Unnamed	Unnamed	153775138:C>T
+Unnamed	Unnamed	153775138:C>G
+Unnamed	Unnamed	153775135:A>C
+Unnamed	Unnamed	153775134:C>G
+Unnamed	Unnamed	153775129:C>A
+Unnamed	Unnamed	153775125:G>A
+Unnamed	Unnamed	153775124:G>T
+Unnamed	Unnamed	153775123:C>A
+Unnamed	Unnamed	153775121:A>G
+Unnamed	Unnamed	153775119:T>C
+Unnamed	Unnamed	153775117:G>A
+Unnamed	Unnamed	153775114:T>C
+Unnamed	Unnamed	153775105:G>T
+Unnamed	Unnamed	153775103:G>T
+Unnamed	Unnamed	153775103:G>A
+Unnamed	Unnamed	153775101:G>A
+Unnamed	Unnamed	153775100:C>T
+Unnamed	Unnamed	153775100:C>G
+Unnamed	Unnamed	153775095:G>T
+Unnamed	Unnamed	153775094:C>T
+Unnamed	Unnamed	153775091:CGGCGGG>C
+Unnamed	Unnamed	153775091:C>CGGCGGG
+Unnamed	Unnamed	153775089:A>G
+Unnamed	Unnamed	153775085:T>A
+Unnamed	Unnamed	153775083:C>T
+Unnamed	Unnamed	153775081:C>T
+Unnamed	Unnamed	153775080:G>A
+Unnamed	Unnamed	153775079:G>C
+Unnamed	Unnamed	153775079:G>A
+Unnamed	Unnamed	153775077:C>T
+Unnamed	Unnamed	153775074:C>T
+Unnamed	Unnamed	153775073:C>T
+Unnamed	Unnamed	153775071:G>A
+Unnamed	Unnamed	153775069:G>A
+Unnamed	Unnamed	153775068:T>A
+Unnamed	Unnamed	153775066:G>A
+Unnamed	Unnamed	153775064:G>C
+Unnamed	Unnamed	153775064:G>A
+Unnamed	Unnamed	153775062:G>C
+Unnamed	Unnamed	153775056:G>A
+Unnamed	Unnamed	153775052:G>A
+Unnamed	Unnamed	153775048:G>A
+Unnamed	Unnamed	153775047:T>G
+Unnamed	Unnamed	153775044:A>C
+Unnamed	Unnamed	153775043:G>A
+Unnamed	Unnamed	153775042:C>G
+Unnamed	Unnamed	153775041:C>T
+Unnamed	Unnamed	153775039:C>T
+Unnamed	Unnamed	153775038:G>A
+Unnamed	Unnamed	153775035:G>A
+Unnamed	Unnamed	153775034:C>A
+Unnamed	Unnamed	153775032:C>T
+Unnamed	Unnamed	153775031:G>C
+Unnamed	Unnamed	153775031:G>A
+Unnamed	Unnamed	153775029:G>A
+Unnamed	Unnamed	153775027:C>A
+Unnamed	Unnamed	153775026:T>C
+Unnamed	Unnamed	153775022:G>A
+Unnamed	Unnamed	153775020:T>C
+Unnamed	Unnamed	153775019:G>C
+Unnamed	Unnamed	153775018:C>T
+Unnamed	Unnamed	153775016:G>T
+Unnamed	Unnamed	153775015:C>A
+Unnamed	Unnamed	153775013:G>C
+Unnamed	Unnamed	153775010:TTCG>T
+Unnamed	Unnamed	153775010:T>TTCG
+Unnamed	Unnamed	153775009:C>T
+Unnamed	Unnamed	153775008:G>A
+Unnamed	Unnamed	153775007:C>A
+Unnamed	Unnamed	153775005:T>C
+Unnamed	Unnamed	153775003:C>G
+Unnamed	Unnamed	153774999:G>C
+Unnamed	Unnamed	153774999:G>A
+Unnamed	Unnamed	153774998:G>A
+Unnamed	Unnamed	153774997:C>G
+Unnamed	Unnamed	153774996:C>T
+Unnamed	Unnamed	153774381:G>A
+Unnamed	Unnamed	153774377:G>C
+Unnamed	Unnamed	153774374:G>T
+Unnamed	Unnamed	153774374:G>A
+Unnamed	Unnamed	153774373:C>T
+Unnamed	Unnamed	153774373:C>G
+Vietnam-1	Vietnam-1	153774364:C>T
+Unnamed	Unnamed	153774364:C>G
+Unnamed	Unnamed	153774360:T>C
+Unnamed	Unnamed	153774354:G>A
+Unnamed	Unnamed	153774350:C>T
+Unnamed	Unnamed	153774350:C>G
+Unnamed	Unnamed	153774346:G>A
+Unnamed	Unnamed	153774345:C>T
+Unnamed	Unnamed	153774341:G>T
+Unnamed	Unnamed	153774340:G>A
+Unnamed	Unnamed	153774338:C>G
+Unnamed	Unnamed	153774337:C>T
+Sinnai	Sinnai	153774337:C>A
+Unnamed	Unnamed	153774336:A>C
+Lages	Lages	153774331:C>T
+Unnamed	Unnamed	153774326:G>A
+Unnamed	Unnamed	153774325:G>A
+Unnamed	Unnamed	153774323:C>T
+Unnamed	Unnamed	153774322:G>A
+Unnamed	Unnamed	153774321:C>T
+Unnamed	Unnamed	153774321:C>A
+Unnamed	Unnamed	153774320:C>T
+Unnamed	Unnamed	153774306:T>C
+Unnamed	Unnamed	153774302:G>A
+Unnamed	Unnamed	153774299:A>T
+Unnamed	Unnamed	153774298:C>T
+Unnamed	Unnamed	153774298:C>A
+Unnamed	Unnamed	153774293:G>T
+Unnamed	Unnamed	153774293:G>A
+Unnamed	Unnamed	153774291:T>C
+Unnamed	Unnamed	153774287:C>A
+Unnamed	Unnamed	153774284:C>T
+Unnamed	Unnamed	153774283:C>T
+Unnamed	Unnamed	153774283:C>A
+Unnamed	Unnamed	153774282:T>G
+Unnamed	Unnamed	153774279:G>A
+Unnamed	Unnamed	153774277:G>C
+Unnamed	Unnamed	153774277:G>A
+Gaohe	Gaohe;Gaozhou	153774276:T>C
+Unnamed	Unnamed	153774274:T>C
+Unnamed	Unnamed	153774273:A>G
+Unnamed	Unnamed	153774272:T>C
+Unnamed	Unnamed	153774269:G>T
+Unnamed	Unnamed	153774267:A>G
+Unnamed	Unnamed	153774264:A>G
+Sunderland	Sunderland	153774261:ATGATGATGA>ATGATGA
+Gidra	Gidra	153774261:A>G
+Unnamed	Unnamed	153774251:C>T
+Unnamed	Unnamed	153774244:T>G
+Unnamed	Unnamed	153774244:T>C
+Unnamed	Unnamed	153774051:AA>A
+Unnamed	Unnamed	153774051:A>AA
+Unnamed	Unnamed	153774016:C>T
+Unnamed	Unnamed	153770634:A>G
+Unnamed	Unnamed	153770497:G>A
+Unnamed	Unnamed	153764663:C>T
+Unnamed	Unnamed	153764528:T>C
+Unnamed	Unnamed	153764439:C>T
+Unnamed	Unnamed	153764397:T>G
+Unnamed	Unnamed	153764387:G>A
+Unnamed	Unnamed	153764385:C>T
+Rignano	Rignano	153764384:C>T
+Orissa	Orissa;Odisha	153764383:G>C
+Unnamed	Unnamed	153764382:G>C
+Unnamed	Unnamed	153764379:C>T
+Aures	Aures	153764371:A>G
+Kambos	Kambos	153764366:G>A
+Unnamed	Unnamed	153764364:G>A
+Unnamed	Unnamed	153764362:G>A
+Unnamed	Unnamed	153764361:G>A
+Kozukata	Kozukata	153764360:C>G
+Unnamed	Unnamed	153764343:G>A
+Unnamed	Unnamed	153764267:G>A
+Unnamed	Unnamed	153764266:G>A
+Unnamed	Unnamed	153764263:G>A
+Kamogawa	Kamogawa	153764250:G>A
+Palestrina	Palestrina	153764249:C>T
+Unnamed	Unnamed	153764248:C>T
+Metaponto	Metaponto	153764247:C>T
+Unnamed	Unnamed	153764245:A>T
+Unnamed	Unnamed	153764245:A>G
+Unnamed	Unnamed	153764245:A>C
+Unnamed	Unnamed	153764242:G>A
+Unnamed	Unnamed	153764241:G>A
+Costanzo	Costanzo	153764240:A>G
+Unnamed	Unnamed	153764239:A>G
+Amsterdam	Amsterdam	153764236:CAGA>C
+Amazonia	Amazonia	153764234:G>T
+Musashino	Musashino	153764234:G>A
+Unnamed	Unnamed	153764233:G>A
+Pingtung	Pingtung	153764232:C>T
+Mexico_DF	Mexico_DF	153764226:T>C
+Unnamed	Unnamed	153764224:G>A
+Songklanagarind	Songklanagarind	153764223:A>T
+Unnamed	Unnamed	153764223:A>G
+Bahia	Bahia	153764222:A>T
+Vietnam-2	Vietnam-2	153764222:A>C
+Unnamed	Unnamed	153764218:G>A
+Jeddah_D	Jeddah_D	153764217:C>T;153764371:A>G
+Asahi	Asahi	153764217:C>T
+Unnamed	Unnamed	153764215:C>T
+Unnamed	Unnamed	153764212:G>A
+Namoru	Namoru;Namouru	153764211:A>G
+Murcia	Murcia;Oristano	153764210:T>C
+Unnamed	Unnamed	153764209:A>G
+Unnamed	Unnamed	153764200:G>A
+Unnamed	Unnamed	153764199:G>C
+Unnamed	Unnamed	153764199:G>A
+Unnamed	Unnamed	153764198:C>T
+Swansea	Swansea	153764195:A>G
+Unnamed	Unnamed	153764192:G>T
+Unnamed	Unnamed	153764191:T>A
+Unnamed	Unnamed	153764190:C>A
+Unnamed	Unnamed	153764186:G>T
+Unnamed	Unnamed	153764184:C>G
+Ube	Ube;Konan	153764178:G>A
+Lagosanto	Lagosanto	153764177:C>T
+Unnamed	Unnamed	153764176:G>A
+Unnamed	Unnamed	153764175:T>G
+Unnamed	Unnamed	153764168:C>T
+Unnamed	Unnamed	153764167:A>C
+Unnamed	Unnamed	153764158:G>A
+Unnamed	Unnamed	153764155:G>C
+Unnamed	Unnamed	153764145:C>T
+Unnamed	Unnamed	153763608:A>T
+Unnamed	Unnamed	153763604:G>A
+Unnamed	Unnamed	153763600:C>G
+Unnamed	Unnamed	153763594:G>C
+Guangzhou	Guangzhou	153763594:G>A
+Unnamed	Unnamed	153763591:C>T
+Unnamed	Unnamed	153763586:CTCCTC>CTC
+Unnamed	Unnamed	153763586:C>A
+Unnamed	Unnamed	153763585:T>G
+Urayasu	Urayasu	153763584:TTCT>T
+Unnamed	Unnamed	153763579:T>G
+Unnamed	Unnamed	153763578:T>G
+Unnamed	Unnamed	153763578:T>C
+Unnamed	Unnamed	153763578:T>A
+Unnamed	Unnamed	153763574:C>T
+Unnamed	Unnamed	153763571:C>T
+Unnamed	Unnamed	153763570:C>T
+Unnamed	Unnamed	153763568:G>T
+Khon_Kaen	Khon_Kaen	153763563:A>G
+Unnamed	Unnamed	153763563:A>C
+Unnamed	Unnamed	153763562:A>C
+Unnamed	Unnamed	153763560:G>A
+Unnamed	Unnamed	153763559:G>A
+Unnamed	Unnamed	153763558:G>A
+Unnamed	Unnamed	153763557:C>T
+Unnamed	Unnamed	153763556:G>A
+Unnamed	Unnamed	153763554:T>G
+Unnamed	Unnamed	153763554:T>C
+Unnamed	Unnamed	153763553:G>A
+Unnamed	Unnamed	153763551:G>A
+Unnamed	Unnamed	153763550:G>A
+Unnamed	Unnamed	153763548:T>G
+Unnamed	Unnamed	153763548:T>A
+Hammersmith	Hammersmith	153763545:A>T
+Unnamed	Unnamed	153763543:C>A
+Unnamed	Unnamed	153763536:T>C
+Unnamed	Unnamed	153763535:C>T
+Unnamed	Unnamed	153763532:G>A
+Sao_Borja	Sao_Borja	153763531:C>T
+Unnamed	Unnamed	153763531:C>A
+Unnamed	Unnamed	153763530:T>C
+Unnamed	Unnamed	153763527:T>C
+Unnamed	Unnamed	153763523:T>C
+Bao_Loc	Bao_Loc	153763516:A>G
+Unnamed	Unnamed	153763515:T>G
+Unnamed	Unnamed	153763514:G>A
+Unnamed	Unnamed	153763512:T>G
+Unnamed	Unnamed	153763510:G>A
+Unnamed	Unnamed	153763509:C>T
+Unnamed	Unnamed	153763509:C>A
+Unnamed	Unnamed	153763503:T>C
+Unnamed	Unnamed	153763502:G>T
+Unnamed	Unnamed	153763498:G>A
+Unnamed	Unnamed	153763497:T>C
+Unnamed	Unnamed	153763493:C>G
+A-_202A_376G	A-_202A_376G;Matera;Castilla;Distrito Federal;Tepic	153763492:T>C;153764217:C>T
+Sierra_Leone	Sierra_Leone	153763492:T>C;153763557:C>T
+A	A;A+	153763492:T>C
+San_Luis_Potosi	San_Luis_Potosi	153763492:T>A
+Unnamed	Unnamed	153763487:G>A
+Vanua_Lava	Vanua_Lava	153763485:A>G
+Salerno	Salerno;Pyrgos	153763485:A>C
+Crispim	Crispim	153763484:G>A;153763485:A>G;153763489:C>A;153763493:C>A
+Unnamed	Unnamed	153763483:G>A
+Unnamed	Unnamed	153763482:T>G
+Unnamed	Unnamed	153763481:G>A
+Unnamed	Unnamed	153763476:C>T
+Chinese-4	Chinese-4;Quing Yuan;Quing Yan	153763476:C>A
+Unnamed	Unnamed	153763472:T>G
+Unnamed	Unnamed	153763469:C>T
+Unnamed	Unnamed	153763465:T>C
+Cairo	Cairo	153763464:T>G
+Milano	Milano	153763464:T>C
+Valladolid	Valladolid	153763462:G>A
+Unnamed	Unnamed	153763461:C>T
+Belem	Belem	153763459:G>A
+Unnamed	Unnamed	153763457:G>C
+Unnamed	Unnamed	153763452:T>C
+Unnamed	Unnamed	153763450:G>A
+Unnamed	Unnamed	153763445:G>T
+Unnamed	Unnamed	153763445:G>C
+Unnamed	Unnamed	153763444:A>C
+Unnamed	Unnamed	153763436:C>T
+Unnamed	Unnamed	153763435:T>A
+Unnamed	Unnamed	153763433:G>A
+Unnamed	Unnamed	153763432:C>T
+Unnamed	Unnamed	153763428:T>C
+Unnamed	Unnamed	153763427:G>A
+Liuzhou	Liuzhou	153763426:C>T
+Jimma	Jimma	153763423:C>T
+Unnamed	Unnamed	153763421:G>A
+Paris	Paris	153763420:C>T
+Unnamed	Unnamed	153763418:G>A
+Unnamed	Unnamed	153763413:T>C
+Unnamed	Unnamed	153763405:G>T
+Acrokorinthos	Acrokorinthos	153763405:G>C;153763492:T>C
+Acrokorinthos_single	Acrokorinthos_single	153763405:G>C
+Unnamed	Unnamed	153763403:G>A
+Ilesha	Ilesha	153763402:C>T
+Unnamed	Unnamed	153763398:G>A
+Copenhagen	Copenhagen	153763396:A>C
+Shenzhen	Shenzhen;Shenzen	153763395:C>T
+Unnamed	Unnamed	153763393:T>C
+Gond	Gond	153763391:C>G
+Unnamed	Unnamed	153763389:C>T
+Unnamed	Unnamed	153763385:C>T
+Unnamed	Unnamed	153763384:T>A
+Unnamed	Unnamed	153763383:A>C
+Unnamed	Unnamed	153763377:C>G
+Unnamed	Unnamed	153763376:G>C
+Unnamed	Unnamed	153763370:C>T
+Unnamed	Unnamed	153762771:G>C
+Unnamed	Unnamed	153762744:GA>G
+Unnamed	Unnamed	153762740:C>A
+Unnamed	Unnamed	153762728:G>A
+Unnamed	Unnamed	153762727:AG>A
+Unnamed	Unnamed	153762725:G>A
+Mahidol	Mahidol	153762710:C>T
+Plymouth	Plymouth	153762709:C>T
+Unnamed	Unnamed	153762708:G>T
+Unnamed	Unnamed	153762708:G>C
+Unnamed	Unnamed	153762708:G>A
+Unnamed	Unnamed	153762707:A>G
+Taipei	Taipei;Chinese-3;Taiwan-Hakka 2	153762704:T>C
+Toledo	Toledo	153762701:G>A
+Naone	Naone	153762700:C>T
+Unnamed	Unnamed	153762698:T>A
+Unnamed	Unnamed	153762696:G>T
+Unnamed	Unnamed	153762693:G>A
+Unnamed	Unnamed	153762692:C>T
+Unnamed	Unnamed	153762687:C>T
+Volendam	Volendam	153762683:G>A
+Unnamed	Unnamed	153762681:G>A
+Nankang	Nankang	153762680:A>G
+Miaoli	Miaoli	153762678:G>C
+Unnamed	Unnamed	153762678:G>A
+Taif	Taif	153762675:CCCGAA>GAA
+Unnamed	Unnamed	153762673:C>T
+Shinshu	Shinshu	153762670:T>C
+Unnamed	Unnamed	153762667:A>T
+Chikugo	Chikugo	153762662:T>A
+Gaza	Gaza	153762661:C>T
+Unnamed	Unnamed	153762660:G>A
+Unnamed	Unnamed	153762656:C>A
+Santa_Maria	Santa_Maria;Santamaria	153762655:T>A;153763492:T>C
+Malaga	Malaga	153762655:T>A
+Unnamed	Unnamed	153762653:G>A
+Unnamed	Unnamed	153762652:C>T
+Unnamed	Unnamed	153762652:C>G
+Unnamed	Unnamed	153762651:C>T
+Unnamed	Unnamed	153762646:G>C
+Dindori	Dindori	153762646:G>A
+Unnamed	Unnamed	153762644:T>G
+Unnamed	Unnamed	153762643:T>C
+Unnamed	Unnamed	153762642:G>A
+Unnamed	Unnamed	153762641:G>C
+Unnamed	Unnamed	153762639:G>A
+Unnamed	Unnamed	153762638:T>C
+Jeddah_E	Jeddah_E	153762634:G>A;153764371:A>G
+Jeddah_B	Jeddah_B	153762634:G>A;153764217:C>T
+Jeddah_A	Jeddah_A	153762634:G>A;153763492:T>C;153764217:C>T
+Jeddah_C	Jeddah_C	153762634:G>A;153763492:T>C
+Mediterranean	Mediterranean;Dallas;Panama;Sassari;Cagliari;Birmingham	153762634:G>A
+Tsukui	Tsukui	153762633:GGAG>G
+Unnamed	Unnamed	153762633:G>A
+Unnamed	Unnamed	153762629:G>A
+Unnamed	Unnamed	153762627:C>T
+Pedoplis-Ckaro	Pedoplis-Ckaro	153762624:G>C
+Unnamed	Unnamed	153762624:G>A
+Unnamed	Unnamed	153762623:G>A
+Unnamed	Unnamed	153762622:C>T
+Unnamed	Unnamed	153762622:C>A
+Unnamed	Unnamed	153762618:C>T
+Unnamed	Unnamed	153762617:C>T
+Salt_Lake	Salt_Lake	153762615:G>C
+Tainan	Tainan	153762612:C>G
+Changhua	Changhua	153762611:T>A
+Unnamed	Unnamed	153762610:A>G
+Unnamed	Unnamed	153762609:G>A
+Unnamed	Unnamed	153762607:T>A
+Unnamed	Unnamed	153762606:G>A
+Herlev	Herlev	153762605:G>T
+Vancouver	Vancouver	153762605:G>A;153762653:G>A;153763551:G>C
+Coimbra	Coimbra;Shunde	153762605:G>A
+Nilgiri	Nilgiri	153762604:C>T
+Santiago	Santiago	153762604:C>G
+Unnamed	Unnamed	153762603:G>C
+Unnamed	Unnamed	153762603:G>A
+Dagua	Dagua;Acores	153762602:T>C
+Unnamed	Unnamed	153762600:G>A
+Unnamed	Unnamed	153762599:C>T
+Unnamed	Unnamed	153762597:G>A
+Unnamed	Unnamed	153762594:G>A
+Unnamed	Unnamed	153762591:G>A
+Unnamed	Unnamed	153762588:C>G
+Unnamed	Unnamed	153762586:C>T
+Unnamed	Unnamed	153762585:G>A
+Unnamed	Unnamed	153762582:C>T
+Unnamed	Unnamed	153762579:C>T
+Unnamed	Unnamed	153762578:T>A
+Unnamed	Unnamed	153762577:A>G
+Unnamed	Unnamed	153762576:C>G
+Unnamed	Unnamed	153762573:C>T
+Unnamed	Unnamed	153762570:C>T
+Unnamed	Unnamed	153762570:C>A
+Unnamed	Unnamed	153762569:T>C
+Unnamed	Unnamed	153762568:T>C
+Unnamed	Unnamed	153762566:G>T
+Unnamed	Unnamed	153762566:G>A
+Unnamed	Unnamed	153762564:G>C
+Unnamed	Unnamed	153762564:G>A
+Unnamed	Unnamed	153762563:T>G
+Sibari	Sibari	153762563:T>C
+Unnamed	Unnamed	153762560:C>G
+Minnesota	Minnesota;Marion;Gastonia;LeJeune	153762560:C>A
+Unnamed	Unnamed	153762559:A>G
+Unnamed	Unnamed	153762551:A>AC
+Unnamed	Unnamed	153762546:G>A
+Unnamed	Unnamed	153762544:T>G
+Unnamed	Unnamed	153762392:G>A
+Unnamed	Unnamed	153762387:G>A
+Unnamed	Unnamed	153762384:A>G
+Unnamed	Unnamed	153762383:G>A
+Unnamed	Unnamed	153762382:G>A
+Unnamed	Unnamed	153762379:CAGGG>C
+Unnamed	Unnamed	153762378:G>A
+Unnamed	Unnamed	153762372:A>G
+Harilaou	Harilaou	153762372:A>C
+Unnamed	Unnamed	153762366:G>A
+Sao_Paulo	Sao_Paulo	153762360:G>C
+Unnamed	Unnamed	153762357:G>A
+Unnamed	Unnamed	153762356:C>T
+Unnamed	Unnamed	153762345:C>G
+Unnamed	Unnamed	153762342:G>A
+Unnamed	Unnamed	153762341:G>C
+Radlowo	Radlowo	153762341:G>A
+Mexico_City	Mexico_City	153762340:C>T
+A-_680T_376G	A-_680T_376G;Selma	153762340:C>A;153763492:T>C
+Unnamed	Unnamed	153762340:C>A
+Unnamed	Unnamed	153762338:C>T
+Unnamed	Unnamed	153762333:G>A
+Unnamed	Unnamed	153762332:T>C
+North_Dallas	North_Dallas	153762331:ATGTTGT>ATGT
+Unnamed	Unnamed	153762330:G>T
+Unnamed	Unnamed	153762330:G>A
+Shanghai	Shanghai	153762329:C>G
+Asahikawa	Asahikawa	153762325:C>T
+Unnamed	Unnamed	153762324:G>A
+Unnamed	Unnamed	153762323:C>T
+Unnamed	Unnamed	153762323:C>G
+Shoklo	Shoklo	153762319:A>G
+Nanning	Nanning	153762317:G>A
+Unnamed	Unnamed	153762315:G>A
+Unnamed	Unnamed	153762312:G>A
+Durham	Durham	153762307:T>C
+Unnamed	Unnamed	153762306:C>T
+Unnamed	Unnamed	153762292:G>C
+Stonybrook	Stonybrook;Stony_Brook	153762290:CAGTGCC>C
+Unnamed	Unnamed	153762290:C>T
+Unnamed	Unnamed	153762288:C>T
+Tunisia	Tunisia	153762283:C>A
+Unnamed	Unnamed	153762282:G>A
+Unnamed	Unnamed	153762281:C>T
+Unnamed	Unnamed	153762278:C>G
+Chiayi	Chiayi	153762277:C>T
+Unnamed	Unnamed	153762270:G>A
+Unnamed	Unnamed	153762269:C>T
+Unnamed	Unnamed	153762266:C>T
+Unnamed	Unnamed	153762252:G>C
+Palermo	Palermo	153762251:G>C;153762250:C>A
+Wayne	Wayne	153762251:G>C
+Funes	Funes	153762250:C>T
+Zacatecas	Zacatecas	153762250:C>A
+Unnamed	Unnamed	153762244:T>C
+Unnamed	Unnamed	153762075:G>A
+Unnamed	Unnamed	153761895:A>G
+Unnamed	Unnamed	153761892:C>T
+Unnamed	Unnamed	153761887:G>A
+Unnamed	Unnamed	153761881:G>A
+Unnamed	Unnamed	153761880:C>T
+Unnamed	Unnamed	153761877:T>G
+Unnamed	Unnamed	153761869:G>A
+Unnamed	Unnamed	153761866:G>A
+Unnamed	Unnamed	153761865:G>A
+Unnamed	Unnamed	153761863:T>C
+Unnamed	Unnamed	153761860:C>T
+Unnamed	Unnamed	153761857:C>T
+Unnamed	Unnamed	153761856:T>G
+Unnamed	Unnamed	153761853:G>A
+Unnamed	Unnamed	153761851:C>T
+Aveiro	Aveiro	153761849:C>T
+Unnamed	Unnamed	153761848:A>G
+Unnamed	Unnamed	153761847:G>A
+Unnamed	Unnamed	153761845:C>T
+Roubaix	Roubaix	153761844:C>G
+Unnamed	Unnamed	153761842:C>T
+Unnamed	Unnamed	153761841:C>A
+Unnamed	Unnamed	153761840:G>A
+Cleveland	Cleveland;Corum	153761835:C>T
+Lille	Lille	153761834:T>A
+Unnamed	Unnamed	153761833:C>T
+Bangkok	Bangkok	153761830:C>G
+Unnamed	Unnamed	153761830:C>A
+Sugao	Sugao	153761829:G>A
+Hamburg	Hamburg	153761828:G>A
+Unnamed	Unnamed	153761827:G>A
+Unnamed	Unnamed	153761826:C>T
+Unnamed	Unnamed	153761826:C>A
+La Jolla	La Jolla	153761823:A>G
+Wexham	Wexham	153761822:G>A
+Unnamed	Unnamed	153761821:G>A
+Haikou	Haikou	153761820:T>C
+Chinese-1	Chinese-1	153761820:T>A
+Unnamed	Unnamed	153761819:G>A
+Unnamed	Unnamed	153761815:G>A
+Unnamed	Unnamed	153761811:C>T
+Seattle	Seattle;Lodi;Modena;Ferrara-II;Athens-like	153761811:C>G
+Bajo_Maumere	Bajo_Maumere	153761811:C>A
+Unnamed	Unnamed	153761810:T>C
+Mizushima	Mizushima	153761807:T>C
+Unnamed	Unnamed	153761807:T>A
+Papua	Papua	153761806:G>T
+Unnamed	Unnamed	153761806:G>A
+Unnamed	Unnamed	153761805:C>T
+Piotrkow	Piotrkow	153761804:A>G
+Osaka	Osaka	153761802:G>A
+Montalbano	Montalbano	153761801:C>T
+Unnamed	Unnamed	153761798:T>C
+Unnamed	Unnamed	153761797:A>G
+Unnamed	Unnamed	153761796:C>T
+Unnamed	Unnamed	153761794:C>T
+Unnamed	Unnamed	153761787:C>G
+Unnamed	Unnamed	153761786:C>T
+Unnamed	Unnamed	153761784:C>T
+Unnamed	Unnamed	153761784:C>G
+Unnamed	Unnamed	153761783:C>A
+Unnamed	Unnamed	153761781:C>A
+Unnamed	Unnamed	153761777:G>A
+Unnamed	Unnamed	153761774:T>A
+Unnamed	Unnamed	153761748:C>T
+Unnamed	Unnamed	153761747:CC>C
+Unnamed	Unnamed	153761628:G>A
+Unnamed	Unnamed	153761564:G>A
+Unnamed	Unnamed	153761359:G>A
+Unnamed	Unnamed	153761348:G>A
+Unnamed	Unnamed	153761346:G>T
+Unnamed	Unnamed	153761341:G>C
+Unnamed	Unnamed	153761338:C>T
+Unnamed	Unnamed	153761338:C>G
+Hechi	Hechi	153761337:C>T;153764217:C>T
+Ananindeua	Ananindeua	153761337:C>T;153763492:T>C
+Viangchan	Viangchan;Jammu	153761337:C>T
+Unnamed	Unnamed	153761332:C>T
+Unnamed	Unnamed	153761329:T>C
+Unnamed	Unnamed	153761326:G>A
+Unnamed	Unnamed	153761325T>C
+Unnamed	Unnamed	153761325:TGCA>:TCA
+Unnamed	Unnamed	153761323:G>A
+Unnamed	Unnamed	153761321:G>A
+Unnamed	Unnamed	153761319:C>T
+Unnamed	Unnamed	153761317:C>A
+Unnamed	Unnamed	153761316:C>T
+Unnamed	Unnamed	153761311:C>A
+Unnamed	Unnamed	153761305:G>T
+Unnamed	Unnamed	153761301:C>A
+West_Virginia	West_Virginia	153761298:C>A
+Unnamed	Unnamed	153761296:G>T
+Unnamed	Unnamed	153761293:C>T
+Seoul	Seoul	153761292:C>T
+Tunis	Tunis	153761288:T>G
+Omiya	Omiya	153761287:C>G
+Unnamed	Unnamed	153761284:G>A
+Unnamed	Unnamed	153761281:C>A
+Unnamed	Unnamed	153761280:C>G
+Ludhiana	Ludhiana	153761279:C>T
+Unnamed	Unnamed	153761278:C>T
+Unnamed	Unnamed	153761278:C>G
+Unnamed	Unnamed	153761272:G>A
+Unnamed	Unnamed	153761271:C>T
+Unnamed	Unnamed	153761269A>G
+Unnamed	Unnamed	153761261:C>T
+Unnamed	Unnamed	153761260:G>A
+Kerala-Kalyan	Kerala-Kalyan;Kerala;Kalyan;Jamnaga;Rohini	153761259:C>T
+Unnamed	Unnamed	153761257:C>T
+Unnamed	Unnamed	153761252:G>C
+Unnamed	Unnamed	153761251:G>A
+Unnamed	Unnamed	153761249:T>C
+Manhattan	Manhattan	153761246:C>T
+Rehovot	Rehovot;Rehevot	153761244:A>G
+A-_968C_376G	A-_968C_376G;Betica;Guantanamo	153761240:A>G;153763492:T>C
+Nefza	Nefza	153761240:A>G
+Unnamed	Unnamed	153761236:G>A
+Karachi	Karachi	153761235:C>T
+Farroupilha	Farroupilha	153761231:G>T
+Unnamed	Unnamed	153761231:G>A
+Nara	Nara	153761229:TGGGGTCGTCCAGGTACCCTTTGGT>T
+Unnamed	Unnamed	153761227:C>T
+Unnamed	Unnamed	153761222:G>A
+Unnamed	Unnamed	153761220:G>A
+Insuli	Insuli	153761219:C>T
+Unnamed	Unnamed	153761219:C>G
+Unnamed	Unnamed	153761218:G>A
+Unnamed	Unnamed	153761217:C>T
+Unnamed	Unnamed	153761214:GGACCCGCG>GGG
+Unnamed	Unnamed	153761214:A>G
+Quilmes	Quilmes	153761213:G>A
+Unnamed	Unnamed	153761212:G>A
+Unnamed	Unnamed	153761211:T>G
+Unnamed	Unnamed	153761210:G>A
+Unnamed	Unnamed	153761208:T>G
+Unnamed	Unnamed	153761206:G>A
+Villeurbanne	Villeurbanne	153761205:CGGTGGT>CGGT
+Chatham	Chatham	153761205:C>T
+Unnamed	Unnamed	153761205:C>A
+Fushan	Fushan	153761204:G>T
+Unnamed	Unnamed	153761203:G>T
+Unnamed	Unnamed	153761203:G>C
+Unnamed	Unnamed	153761203:G>A
+Torun	Torun	153761202:T>C
+Unnamed	Unnamed	153761200:A>G
+Unnamed	Unnamed	153761194:T>C
+Unnamed	Unnamed	153761191:G>A
+Unnamed	Unnamed	153761190:C>T
+Unnamed	Unnamed	153761189:A>G
+Unnamed	Unnamed	153761188:G>A
+Unnamed	Unnamed	153761187:C>T
+Unnamed	Unnamed	153761185:G>A
+Chinese-5	Chinese-5;Mahidol-like	153761184:G>A
+Unnamed	Unnamed	153761182:G>A
+Unnamed	Unnamed	153761181:A>G
+Unnamed	Unnamed	153761180:T>C
+Unnamed	Unnamed	153761178:C>T
+Unnamed	Unnamed	153761177:A>G
+Cincinnati	Cincinnati	153761171:T>A;153762560:C>A
+Unnamed	Unnamed	153761171:T>A
+Unnamed	Unnamed	153761166:T>G
+Unnamed	Unnamed	153761160:C>T
+Unnamed	Unnamed	153761160:C>G;153763462:G>A
+Mira_d'Aire	Mira_d'Aire	153761160:C>G
+Unnamed	Unnamed	153761157:C>A
+Unnamed	Unnamed	153761142:G>T
+Unnamed	Unnamed	153761141:C>T
+Unnamed	Unnamed	153761027:G>A
+Unnamed	Unnamed	153761024:G>A
+Unnamed	Unnamed	153761022:G>A
+Unnamed	Unnamed	153761021:C>T
+Unnamed	Unnamed	153761017:C>T
+Unnamed	Unnamed	153761017:C>G
+Partenope	Partenope	153761017:C>A
+Unnamed	Unnamed	153761016:C>T
+Unnamed	Unnamed	153761016:C>A
+Unnamed	Unnamed	153761013:C>A
+Ierapetra	Ierapetra	153761012:G>A
+Unnamed	Unnamed	153761010:G>A
+Unnamed	Unnamed	153761007:G>A
+Unnamed	Unnamed	153761006:T>C
+Unnamed	Unnamed	153761005:A>G
+Unnamed	Unnamed	153761004:G>A
+Unnamed	Unnamed	153761002:A>T
+Unnamed	Unnamed	153761001:C>T
+Unnamed	Unnamed	153761000:G>A
+Unnamed	Unnamed	153760999:C>T
+Unnamed	Unnamed	153760996C>T
+Unnamed	Unnamed	153760995:G>T
+Unnamed	Unnamed	153760995:G>A
+Unnamed	Unnamed	153760994:C>T
+Iwatsuki	Iwatsuki	153760988:C>T
+Serres	Serres	153760987:G>A
+Unnamed	Unnamed	153760985:G>A
+Unnamed	Unnamed	153760983:C>T
+Unnamed	Unnamed	153760981:T>A
+Loma_Linda	Loma_Linda	153760980:G>T
+Aachen	Aachen	153760980:G>C
+Unnamed	Unnamed	153760976:G>A
+Veracruz	Veracruz	153760975:C>T
+Tenri	Tenri	153760973:T>C
+Unnamed	Unnamed	153760971:C>T
+Unnamed	Unnamed	153760968:G>A
+Tondela	Tondela	153760967:CGGCCTTGCGCTCGTTCAG>C
+Unnamed	Unnamed	153760965:C>T
+Unnamed	Unnamed	153760963:A>G;153762698:T>A
+Unnamed	Unnamed	153760963:A>G
+Unnamed	Unnamed	153760960:C>A
+Unnamed	Unnamed	153760956:C>T
+Unnamed	Unnamed	153760953:C>T
+Unnamed	Unnamed	153760951:A>G
+Unnamed	Unnamed	153760950:G>C
+Unnamed	Unnamed	153760950:G>A
+Unnamed	Unnamed	153760948:T>G
+Unnamed	Unnamed	153760948:T>C
+Unnamed	Unnamed	153760948:T>A
+Unnamed	Unnamed	153760947:A>G
+Unnamed	Unnamed	153760945:T>C
+Unnamed	Unnamed	153760941:C>T
+Unnamed	Unnamed	153760940:C>T
+Unnamed	Unnamed	153760938:G>A
+Montpellier	Montpellier	153760937:C>T
+Unnamed	Unnamed	153760935:G>A
+Calvo_Mackenna	Calvo_Mackenna	153760931:T>C
+Riley	Riley	153760930:A>G
+New_York	New_York	153760928:A>T
+Olomouc	Olomouc	153760928:A>G
+Unnamed	Unnamed	153760923:G>C
+Unnamed	Unnamed	153760917:C>G
+Tomah	Tomah	153760916:A>G
+Kangnam	Kangnam	153760916:A>C
+Lynwood	Lynwood	153760915:C>A
+Madrid	Madrid	153760914:G>C
+Iowa	Iowa;Walter_Reed;Springfield;Iowa_City	153760913:T>C
+Mt_Sinai	Mt_Sinai;Mount_Sinai	153760910:G>A;153763492:T>C
+Guadalajara	Guadalajara	153760910:G>A
+Beverly_Hills	Beverly_Hills;Genova;Iwate;Niigata;Yamaguchi	153760909:C>T
+Unnamed	Unnamed	153760908:G>A
+Hartford	Hartford	153760907:T>C
+Unnamed	Unnamed	153760905:G>A
+Praha	Praha	153760903:T>C
+Krakow	Krakow	153760894:A>G
+Wisconsin	Wisconsin	153760892:G>C
+Unnamed	Unnamed	153760892:G>A
+Nashville	Nashville;Anaheim;Portici	153760891:C>T
+Unnamed	Unnamed	153760890:G>A
+Alhambra	Alhambra	153760889:C>G
+Unnamed	Unnamed	153760887C>T
+Unnamed	Unnamed	153760886:G>A
+Unnamed	Unnamed	153760883:G>C
+Unnamed	Unnamed	153760882:G>C
+Bari	Bari	153760882:G>A
+Unnamed	Unnamed	153760880T>C
+Unnamed	Unnamed	153760879:T>C
+Unnamed	Unnamed	153760878:G>A
+Puerto_Limon	Puerto_Limon	153760877:C>T
+Anadia	Anadia	153760876:T>C
+Unnamed	Unnamed	153760875:C>T
+Unnamed	Unnamed	153760874:C>T
+Unnamed	Unnamed	153760872:G>A
+Unnamed	Unnamed	153760871:C>T
+Unnamed	Unnamed	153760869:C>T
+Unnamed	Unnamed	153760866:G>A
+Unnamed	Unnamed	153760865:T>C
+Covao_do_Lobo	Covao_do_Lobo	153760864:G>T
+Unnamed	Unnamed	153760863:G>C
+Unnamed	Unnamed	153760860:C>T
+Unnamed	Unnamed	153760858:A>G
+Unnamed	Unnamed	153760855:A>G
+Clinic	Clinic	153760854:C>T
+Abeno	Abeno	153760849:T>G
+Utrecht	Utrecht	153760844:G>A
+Merlo	Merlo	153760843:G>T
+Suwalki	Suwalki	153760843:G>C
+Unnamed	Unnamed	153760843:G>A
+Unnamed	Unnamed	153760842:C>T
+Unnamed	Unnamed	153760842:C>A
+Riverside	Riverside	153760841:C>A
+Japan	Japan;Shinagawa	153760840:C>T
+Kawasaki	Kawasaki	153760840:C>G
+Munich	Munich	153760838:T>C
+Unnamed	Unnamed	153760829:T>G
+Unnamed	Unnamed	153760828:T>C
+Unnamed	Unnamed	153760826:G>A
+Unnamed	Unnamed	153760824:G>A
+Tokyo	Tokyo;Fukushima	153760823:C>T
+Unnamed	Unnamed	153760816:G>A
+Unnamed	Unnamed	153760815:C>T
+Unnamed	Unnamed	153760811:G>A
+Tennessee	Tennessee	153760805:G>C;153763492:T>C;153764217:C>T
+Unnamed	Unnamed	153760797:G>A
+Unnamed	Unnamed	153760796:C>T
+Unnamed	Unnamed	153760792:T>C
+Unnamed	Unnamed	153760791:G>C
+Unnamed	Unnamed	153760791:G>A
+Unnamed	Unnamed	153760786:T>TT
+Unnamed	Unnamed	153760786:T>C
+Georgia	Georgia	153760785:G>T
+Yucatan	Yucatan	153760784:T>C
+Unnamed	Unnamed	153760779:C>G
+Unnamed	Unnamed	153760776:G>A
+Unnamed	Unnamed	153760762:G>A
+Unnamed	Unnamed	153760685:GGA>G
+Unnamed	Unnamed	153760684:G>A
+Unnamed	Unnamed	153760682:G>A
+Zurich	Zurich	153760679:T>C
+Unnamed	Unnamed	153760679:T>A
+Varnsdorf	Varnsdorf	153760677:TCT>T
+Unnamed	Unnamed	153760676:T>G
+Unnamed	Unnamed	153760675:G>A
+Surabaya	Surabaya	153760674:C>T
+Sumare	Sumare	153760673:A>C
+Unnamed	Unnamed	153760660:G>A
+Unnamed	Unnamed	153760654:G>A;153760953:C>T
+Unnamed	Unnamed	153760654:G>A
+Unnamed	Unnamed	153760651:C>T
+Unnamed	Unnamed	153760650:G>A
+Unnamed	Unnamed	153760649:C>T
+Pawnee	Pawnee	153760649:C>G
+Telti	Telti;Kobe	153760647:G>A
+Unnamed	Unnamed	153760644:T>C
+Unnamed	Unnamed	153760641:G>C
+Unnamed	Unnamed	153760641:G>A
+Unnamed	Unnamed	153760639:C>G
+Unnamed	Unnamed	153760636:G>A
+Tainan-2	Tainan-2;Taiwan-2	153760635:C>T
+Unnamed	Unnamed	153760633:G>C
+Unnamed	Unnamed	153760627:G>A
+Santiago_de_Cuba	Santiago_de_Cuba;Morioka	153760626:C>T
+Jiangxi	Jiangxi	153760625:C>A
+Unnamed	Unnamed	153760624:C>T
+Unnamed	Unnamed	153760624:C>A
+S_Antioco	S_Antioco;Haweia	153760623:T>C
+Cassano	Cassano;Casano	153760618:C>G
+Unnamed	Unnamed	153760614:G>A
+Unnamed	Unnamed	153760609:G>A
+Harima	Harima	153760607:A>T
+Honiara	Honiara	153760605:G>A;153774272:T>C
+Hermoupolis	Hermoupolis	153760605:G>A;153760618:C>G
+Union	Union;Maewo;Chinese-2;Kalo	153760605:G>A
+Andalus	Andalus	153760604:C>T
+Unnamed	Unnamed	153760604:C>G
+Unnamed	Unnamed	153760604:C>A
+Unnamed	Unnamed	153760602:T>C
+Unnamed	Unnamed	153760601:C>T
+Unnamed	Unnamed	153760597:T>C
+Unnamed	Unnamed	153760508:A>G;153760654:G>A
+Unnamed	Unnamed	153760508:A>G
+Unnamed	Unnamed	153760503:G>T
+Unnamed	Unnamed	153760502:G>A
+Unnamed	Unnamed	153760501:G>A
+Unnamed	Unnamed	153760500:G>A
+Unnamed	Unnamed	153760494:C>T
+Figueira_da_Foz	Figueira_da_Foz	153760494:C>G
+Amiens	Amiens	153760493:T>A
+Unnamed	Unnamed	153760492:G>A
+Unnamed	Unnamed	153760489:C>T
+Unnamed	Unnamed	153760488:G>A
+Utah	Utah	153760485:G>C
+Unnamed	Unnamed	153760485:G>A
+Unnamed	Unnamed	153760484:del
+Unnamed	Unnamed	153760484:C>T
+Cosenza	Cosenza	153760484:C>G
+Canton	Canton;Taiwan-Hakka;Gifu;Agrigento	153760484:C>A
+Unnamed	Unnamed	153760482:C>A
+Nice	Nice	153760480:C>G
+Yunan	Yunan	153760479:C>T
+Flores	Flores	153760473:G>T
+Kamiube	Kamiube;Keelung	153760473:G>A
+Kaiping	Kaiping;Anant;Dhon;Sapporo-like;Wosera;Petrich-like	153760472:C>T
+Unnamed	Unnamed	153760464:T>G
+Unnamed	Unnamed	153760462:G>A
+Neapolis	Neapolis;Neopolis	153760460:G>C
+Unnamed	Unnamed	153760458:G>A
+Unnamed	Unnamed	153760455:G>A
+Unnamed	Unnamed	153760453:C>A
+Unnamed	Unnamed	153760450:G>A
+Unnamed	Unnamed	153760448:T>A
+Laibin	Laibin	153760446:T>G
+Unnamed	Unnamed	153760444:A>C
+Unnamed	Unnamed	153760439:A>T
+Unnamed	Unnamed	153760438:C>T
+Unnamed	Unnamed	153760432:C>T
+Unnamed	Unnamed	153760429:G>A
+Unnamed	Unnamed	153760423:G>A
+Unnamed	Unnamed	153760422:T>C
+Unnamed	Unnamed	153760419:G>C
+Unnamed	Unnamed	153760419:G>A
+Split	Split	153760418:G>C
+Unnamed	Unnamed	153760418:G>A
+Unnamed	Unnamed	153760417:G>A
+Unnamed	Unnamed	153760414:A>G
+Unnamed	Unnamed	153760408:A>G
+Unnamed	Unnamed	153760372:G>C
+Unnamed	Unnamed	153760369:T>C
+Unnamed	Unnamed	153760347:CCCTCACCCCGCCCCTGCCCGCTGGGCTCTGTCCCCAGCCCCCACCCTTT>C
+Unnamed	Unnamed	153760318:G>C
+Unnamed	Unnamed	153760312:A>T
+Unnamed	Unnamed	153760312:A>G
+Unnamed	Unnamed	153760305:G>A
+Fukaya	Fukaya	153760301:C>T
+Campinas	Campinas	153760300:C>A
+Unnamed	Unnamed	153760299:G>A
+Buenos Aires	Buenos Aires	153760298:G>A
+Arakawa	Arakawa	153760297:G>A
+Unnamed	Unnamed	153760296G>T
+Unnamed	Unnamed	153760295:T>G
+Unnamed	Unnamed	153760294:G>A
+Unnamed	Unnamed	153760293:C>T
+Unnamed	Unnamed	153760293:C>G
+Unnamed	Unnamed	153760285:T>TCTGCCTCCTT
+Unnamed	Unnamed	153760284:G>A
+Unnamed	Unnamed	153760283:C>T
+Unnamed	Unnamed	153760281:C>T
+Unnamed	Unnamed	153760278:C>T
+Unnamed	Unnamed	153760276:A>G
+Unnamed	Unnamed	153760276:A>C
+Brighton	Brighton	153760272:CTTC>C
+Unnamed	Unnamed	153760272:C>A
+Unnamed	Unnamed	153760270:C>G
+Bangkok_Noi	Bangkok_Noi	153760261:A>C;153760484:C>A
+Unnamed	Unnamed	153760260:G>A
+Unnamed	Unnamed	153760257:C>T
+Unnamed	Unnamed	153760257:C>G
+Unnamed	Unnamed	153760248:G>A
+Unnamed	Unnamed	153760246:G>C
+Unnamed	Unnamed	153760243:T>C
+Unnamed	Unnamed	153760231T>G
+Unnamed	Unnamed	153760229:G>A
+Unnamed	Unnamed	153760227:G>A
+Unnamed	Unnamed	153760225:T>C
+Unnamed	Unnamed	153760224:G>A
+Unnamed	Unnamed	153760222:T>C
+Unnamed	Unnamed	153760219:T>C
+Unnamed	Unnamed	153760212:G>A
+Unnamed	Unnamed	153760206:GC>G
+Unnamed	Unnamed	153760206:G>T
+Unnamed	Unnamed	153760205:T>G
+Unnamed	Unnamed	153760203:G>A
+Unnamed	Unnamed	153760201:T>G
+Unnamed	Unnamed	153760194:G>A
+Unnamed	Unnamed	153760192:G>A
+Unnamed	Unnamed	153760190:G>A
+Unnamed	Unnamed	153760189:C>T
+Unnamed	Unnamed	153760185:G>A
+Unnamed	Unnamed	153760184:C>T
+Unnamed	Unnamed	153760181:G>T
+Unnamed	Unnamed	153760179:G>A
+Unnamed	Unnamed	153760178:G>A
+Unnamed	Unnamed	153760177:G>A
+Unnamed	Unnamed	153760175:G>C
+Unnamed	Unnamed	153760175:G>A
+Unnamed	Unnamed	153760169:G>A
+Unnamed	Unnamed	153760168:C>T
+Unnamed	Unnamed	153760166:G>A
+Unnamed	Unnamed	153760165:C>T
+Unnamed	Unnamed	153760162:G>C
+Unnamed	Unnamed	153760162:G>A
+Unnamed	Unnamed	153760161:C>T
+Unnamed	Unnamed	153760158:G>C
+Unnamed	Unnamed	153760156:G>A
+Unnamed	Unnamed	153760155:C>T
+Unnamed	Unnamed	153760153:C>T
+Unnamed	Unnamed	153760151:G>A
+Unnamed	Unnamed	153760150:C>T
+Unnamed	Unnamed	153760150:C>CGACTCGGGG
+Unnamed	Unnamed	153760143:GTCC>G
+Unnamed	Unnamed	153760143:G>A
+Unnamed	Unnamed	153760140:G>A
+Unnamed	Unnamed	153760139:CG>C
+Unnamed	Unnamed	153760139:C>T
+Unnamed	Unnamed	153760139:C>CG
+Unnamed	Unnamed	153760137:C>T
+Unnamed	Unnamed	153760136:T>A
+Unnamed	Unnamed	153760133:T>C
+Unnamed	Unnamed	153760132:A>G
+Unnamed	Unnamed	153760130:C>G
+Unnamed	Unnamed	153760127:G>A
+Unnamed	Unnamed	153760116:T>C
+Unnamed	Unnamed	153760113:G>T
+Unnamed	Unnamed	153760108:G>A
+Unnamed	Unnamed	153760105:G>A
+Unnamed	Unnamed	153760102:C>G
+Unnamed	Unnamed	153760099:G>A
+Unnamed	Unnamed	153760098:A>G
+Unnamed	Unnamed	153760094:G>A
+Unnamed	Unnamed	153760088:C>T
+Unnamed	Unnamed	153760085:G>A
+Unnamed	Unnamed	153760084:G>A
+Unnamed	Unnamed	153760083:CGGGCCAGGGTGGCCAGAGCCCG>C
+Unnamed	Unnamed	153760083:C>A
+Unnamed	Unnamed	153760077:G>A
+Unnamed	Unnamed	153760076:C>T
+Unnamed	Unnamed	153760067:T>C
+Unnamed	Unnamed	153760066:G>A
+Unnamed	Unnamed	153760063:G>A
+Unnamed	Unnamed	153760062:GGTA>G
+Unnamed	Unnamed	153760061:G>C
+Unnamed	Unnamed	153760061:G>A
+Unnamed	Unnamed	153760060:C>T
+Unnamed	Unnamed	153760060:C>G
+Unnamed	Unnamed	153760060:C>A
+Unnamed	Unnamed	153760055:G>A
+Unnamed	Unnamed	153760054:T>C
+Unnamed	Unnamed	153760051:A>T
+Unnamed	Unnamed	153760039:G>A
+Unnamed	Unnamed	153760037:C>T
+Unnamed	Unnamed	153760029:G>C
+Unnamed	Unnamed	153760027:G>A
+Unnamed	Unnamed	153760026:C>T
+Unnamed	Unnamed	153760024:C>T
+Unnamed	Unnamed	153760022:G>A
+Unnamed	Unnamed	153760018:G>A
+Unnamed	Unnamed	153760013:G>A
+Unnamed	Unnamed	153760012:G>A
+Unnamed	Unnamed	153760011:G>A
+Unnamed	Unnamed	153760010:G>T
+Unnamed	Unnamed	153760009:A>C
+Unnamed	Unnamed	153760005:C>T
+Unnamed	Unnamed	153760002:G>C
+Unnamed	Unnamed	153759996:A>G
+Unnamed	Unnamed	153759996:A>C
+Unnamed	Unnamed	153759992:G>T
+Unnamed	Unnamed	153759983:A>G
+Unnamed	Unnamed	153759978:G>A
+Unnamed	Unnamed	153759976:G>A
+Unnamed	Unnamed	153759975:G>A
+Unnamed	Unnamed	153759974:A>T
+Unnamed	Unnamed	153759972:G>A
+Unnamed	Unnamed	153759968:TGGA>T
+Unnamed	Unnamed	153759964:T>G
+Unnamed	Unnamed	153759960:GGAGT>G
+Unnamed	Unnamed	153759951:T>C
+Unnamed	Unnamed	153759943:C>T
+Unnamed	Unnamed	153759942:C>A
+Unnamed	Unnamed	153759934:G>A
+Unnamed	Unnamed	153759933:C>T
+Unnamed	Unnamed	153759930:G>A
+Unnamed	Unnamed	153759929:T>C
+Unnamed	Unnamed	153759926:G>C
+Unnamed	Unnamed	153759926:G>A
+Unnamed	Unnamed	153759925:C>T
+Unnamed	Unnamed	153759917:G>A
+Unnamed	Unnamed	153759915:C>T
+Unnamed	Unnamed	153759912:G>A
+Unnamed	Unnamed	153759911:A>T
+Unnamed	Unnamed	153759911:A>G
+Unnamed	Unnamed	153759908:A>G
+Unnamed	Unnamed	153759906:C>T
+Unnamed	Unnamed	153759899:C>G
+Unnamed	Unnamed	153759897:C>T
+Unnamed	Unnamed	153759893:G>C
+Unnamed	Unnamed	153759893:G>A
+Unnamed	Unnamed	153759892:T>C
+Unnamed	Unnamed	153759892:T>A
+Unnamed	Unnamed	153759891:G>A
+Unnamed	Unnamed	153759886:C>T
+Unnamed	Unnamed	153759874:C>T
+Unnamed	Unnamed	153759873:C>A
+Unnamed	Unnamed	153759866:C>T
+Unnamed	Unnamed	153759865:C>T
+Unnamed	Unnamed	153759861:C>T
+Unnamed	Unnamed	153759858:C>T
+Unnamed	Unnamed	153759854:C>T
+Unnamed	Unnamed	153759850:C>T
+Unnamed	Unnamed	153759849:C>T
+Unnamed	Unnamed	153759844:C>T
+Unnamed	Unnamed	153759842:C>T
+Unnamed	Unnamed	153759841:GCC>G
+Unnamed	Unnamed	153759841:G>T
+Unnamed	Unnamed	153759841:G>A
+Unnamed	Unnamed	153759840:C>T
+Unnamed	Unnamed	153759831:G>C
+Unnamed	Unnamed	153759831:G>A
+Unnamed	Unnamed	153759830:C>T
+Unnamed	Unnamed	153759828:C>G
+Unnamed	Unnamed	153759821:A>G
+Unnamed	Unnamed	153759818:C>T
+Unnamed	Unnamed	153759804:G>A
+Unnamed	Unnamed	153759803:G>A
+Unnamed	Unnamed	153759802:C>T
+Unnamed	Unnamed	153759798:C>A
+Unnamed	Unnamed	153759795:A>G
+Unnamed	Unnamed	153759793:T>G
+Unnamed	Unnamed	153759787:T>G
+Unnamed	Unnamed	153759783:C>T
+Unnamed	Unnamed	153759781:G>T
+Unnamed	Unnamed	153759771:G>C
+Unnamed	Unnamed	153759769:G>A
+Unnamed	Unnamed	153759757:G>A
+Unnamed	Unnamed	153759753:G>A
+Unnamed	Unnamed	153759751:G>A
+Unnamed	Unnamed	153759749:G>C
+Unnamed	Unnamed	153759747:CA>C
+Unnamed	Unnamed	153759741:G>A
+Unnamed	Unnamed	153759733:G>A
+Unnamed	Unnamed	153759731:TGGA>T
+Unnamed	Unnamed	153759724:G>A
+Unnamed	Unnamed	153759722:C>T
+Unnamed	Unnamed	153759721:G>A
+Unnamed	Unnamed	153759716:G>A
+Unnamed	Unnamed	153759705:G>A
+Unnamed	Unnamed	153759704:C>T
+Unnamed	Unnamed	153759696:G>A
+Unnamed	Unnamed	153759695:CGGGTGGCACG>C
+Unnamed	Unnamed	153759695:C>T
+Unnamed	Unnamed	153759691:CCTA>C
+Unnamed	Unnamed	153759690:G>A
+Unnamed	Unnamed	153759681:A>G
+Unnamed	Unnamed	153759680:C>A
+Unnamed	Unnamed	153759676:A>G
+Unnamed	Unnamed	153759675:TATAGC>T
+Unnamed	Unnamed	153759673:C>T
+Unnamed	Unnamed	153759667:G>A
+Unnamed	Unnamed	153759666:T>G
+Unnamed	Unnamed	153759663:G>A
+Unnamed	Unnamed	153759662:C>T
+Unnamed	Unnamed	153759656:C>A
+Unnamed	Unnamed	153759654:A>T
+Unnamed	Unnamed	153759653:C>T
+Unnamed	Unnamed	153759642:G>A
+Unnamed	Unnamed	153759636:G>A
+Unnamed	Unnamed	153759627:C>T
+Unnamed	Unnamed	153759618:A>C
+Unnamed	Unnamed	153759616:G>A
+Unnamed	Unnamed	153759615:C>T
+Unnamed	Unnamed	153759612:T>C
+Unnamed	Unnamed	153759608:C>T
+Unnamed	Unnamed	153774994:G>A
+Unnamed	Unnamed	153774242:G>A
+Unnamed	Unnamed	153771351:C>A
+Unnamed	Unnamed	153771296:C>T
+Unnamed	Unnamed	153771125:A>G
+Unnamed	Unnamed	153768852:GA>G
+Unnamed	Unnamed	153767071:C>G
+Unnamed	Unnamed	153766499:A>G
+Unnamed	Unnamed	153766205:GT>G
+Unnamed	Unnamed	153766185:A>G
+Unnamed	Unnamed	153764413:T>A
+Unnamed	Unnamed	153764406:G>A
+Unnamed	Unnamed	153764268:C>A
+Unnamed	Unnamed	153764251:G>A
+Unnamed	Unnamed	153764192:G>A
+Unnamed	Unnamed	153763611:C>T
+Unnamed	Unnamed	153763547:A>G
+Unnamed	Unnamed	153763484:G>A
+Unnamed	Unnamed	153763454:G>A
+Unnamed	Unnamed	153761893:G>A
+Unnamed	Unnamed	153761783:C>CC
+Unnamed	Unnamed	153761263:C>G
+Unnamed	Unnamed	153761239:C>T
+Unnamed	Unnamed	153761195:G>A
+Unnamed	Unnamed	153761146:G>C
+Unnamed	Unnamed	153761146:G>A
+Unnamed	Unnamed	153761036:A>G
+Unnamed	Unnamed	153761026:C>T
+Unnamed	Unnamed	153760965:C>G
+Unnamed	Unnamed	153760809:C>T
+Unnamed	Unnamed	153760803:C>G
+Unnamed	Unnamed	153760800:G>A
+Unnamed	Unnamed	153760768:T>C
+Unnamed	Unnamed	153760764:T>C
+Unnamed	Unnamed	153760763:C>T
+Unnamed	Unnamed	153760689:A>T
+Unnamed	Unnamed	153760685:G>T
+Unnamed	Unnamed	153760685:G>A
+Unnamed	Unnamed	153760621:G>A
+Unnamed	Unnamed	153760586:G>A
+Unnamed	Unnamed	153760440:G>C
+Unnamed	Unnamed	153760393:C>T
+Unnamed	Unnamed	153760384:G>A
+Unnamed	Unnamed	153760318:G>A
+Unnamed	Unnamed	153760317:C>T
+Unnamed	Unnamed	153762533:C>T
+Unnamed	Unnamed	153762348:G>A
+Unnamed	Unnamed	153762300:G>A
+Unnamed	Unnamed	153760926:G>C
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
