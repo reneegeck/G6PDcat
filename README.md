@@ -13,7 +13,7 @@ This repository is licensed under CC BY 4.0 for reuse with attribution. See LICE
 
 ## Repository overview
 
-The most up-to-date catalog files (February 24, 2023) are in the root directory:
+The most up-to-date catalog files (October 27, 2023), containing 1350 variants, are in the root directory:
 
 | File | Description | 
 |:--------|:------------|
