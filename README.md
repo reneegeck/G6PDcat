@@ -9,11 +9,13 @@ This repository contains data and code associated with Geck et al. 2023, as well
 
 Please cite: Geck RC, Powell NR, Dunham MJ. 2023. Functional interpretation, cataloging, and analysis of 1,341 glucose-6-phosphate dehydrogenase variants. Am J Hum Genet. 110(2):228-239.
 
+If using information added from the second release of All of Us (rows updated 240414, identified 10.1101/2024.04.12.24305393), please also cite: Powell NR, Geck RC, Lai D, Shugg T, Skaar TC, Dunham MJ. 2024. Functional Analysis of G6PD Variants Associated With Low G6PD Activity in the All of Us Research Program. medRxiv. doi: 10.1101/2024.04.12.24305393
+
 This repository is licensed under CC BY 4.0 for reuse with attribution. See LICENSE file for details.
 
 ## Repository overview
 
-The most up-to-date catalog files (October 27, 2023), containing 1350 variants, are in the root directory:
+The most up-to-date catalog files (April 15, 2024), containing 1402 variants, are in the root directory:
 
 | File | Description | 
 |:--------|:------------|
