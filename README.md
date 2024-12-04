@@ -9,20 +9,19 @@ This repository contains data and code associated with Geck et al. 2023, as well
 
 Please cite: Geck RC, Powell NR, Dunham MJ. 2023. Functional interpretation, cataloging, and analysis of 1,341 glucose-6-phosphate dehydrogenase variants. Am J Hum Genet. 110(2):228-239.
 
-If using information added from the second release of All of Us (rows updated 240414, identified 10.1101/2024.04.12.24305393), please also cite: Powell NR, Geck RC, Lai D, Shugg T, Skaar TC, Dunham MJ. 2024. Functional Analysis of G6PD Variants Associated With Low G6PD Activity in the All of Us Research Program. medRxiv. doi: 10.1101/2024.04.12.24305393
+If using information added from the second release of All of Us (rows with evidence from PMID 39607789), please also cite: Powell NR, Geck RC, Lai D, Shugg T, Skaar TC, Dunham MJ. 2024. Functional analysis of G6PD variants associated with low G6PD activity in the All of Us Research Program. Genetics. iyae170.
 
 This repository is licensed under CC BY 4.0 for reuse with attribution. See LICENSE file for details.
 
 ## Repository overview
 
-The most up-to-date catalog files (April 15, 2024), containing 1402 variants, are in the root directory:
+The most up-to-date catalog files (December 4, 2024), containing 1516 variants, are in the root directory:
 
 | File | Description | 
 |:--------|:------------|
 | variant_catalog.txt |	All G6PD variants identified in humans, with summary information on activity, stability, and interpretation |
 | variant_names.txt	| Common and alternate / legacy variants names |
 | variant_molecular_info.txt	| Summaries of reports on variant function, including clinical phenotypes and average activity by study for each variant |
-| variant_interpretation.txt |	Supporting evidence and oddsPath calculations for interpretations made by applying ACMG guidelines |
 
 Versions used in Geck et al. 2023 are in the **published_catalog_2023** directory:
 
@@ -31,7 +30,7 @@ Versions used in Geck et al. 2023 are in the **published_catalog_2023** director
 | tableS1_variants.txt	| Published version of variant_catalog |
 | tableS2_names.txt	| Published version of variant_names |
 | tableS3_info.txt	| Published version of variant_molecular_info |
-| tableS4_acmg.txt |	Published version of variant_interpretation |
+| tableS4_acmg.txt |	Published supporting evidence and oddsPath calculations for interpretations made by applying ACMG guidelines |
 
 The R script and tables used to create graphics in Geck et al. 2023 are in the **published_figures_2023** directory.
 
