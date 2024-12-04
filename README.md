@@ -43,7 +43,7 @@ The database versions or last-searched date used for the up-to-date catalog and 
 | Database | Link | Geck et al. 2022 | Updated |
 |:--------|:------------|:--------|:------------|
 | bravo | https://bravo.sph.umich.edu/freeze8/hg38 | TOPmed freeze 8 | TOPmed freeze 8 |
-| ClinVar | https://www.ncbi.nlm.nih.gov/clinvar | Aug 12, 2022 | Aug 12, 2022 |
+| ClinVar | https://www.ncbi.nlm.nih.gov/clinvar | Aug 12, 2022 | December 3, 2024 |
 | CPIC | https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd | Feb 25, 2021 | Feb 25, 2021 |
 | dbSNP | https://www.ncbi.nlm.nih.gov/snp | Aug 12, 2022 | Aug 12, 2022 |
 | gnomAD | https://gnomad.broadinstitute.org | v2.1.1 and v3.1.1 | v2.1.1 and v3.1.1 |
