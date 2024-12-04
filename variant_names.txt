@@ -134,6 +134,7 @@ Unnamed	Unnamed	153775080:G>A	NA
 Unnamed	Unnamed	153775079:G>C	NA	
 Unnamed	Unnamed	153775079:G>A	NA	
 Unnamed	Unnamed	153775077:C>T	NA	
+Unnamed	Unnamed	153775076:G>C	241203	
 Unnamed	Unnamed	153775074:C>T	NA	
 Unnamed	Unnamed	153775074:C>A	NA	
 Unnamed	Unnamed	153775073:C>T	NA	
@@ -175,6 +176,7 @@ Unnamed	Unnamed	153775018:C>T	NA
 Unnamed	Unnamed	153775016:G>T	NA	
 Unnamed	Unnamed	153775015:C>A	NA	
 Unnamed	Unnamed	153775013:G>C	NA	
+Unnamed	Unnamed	153775012:C>A	241203	
 Unnamed	Unnamed	153775010:TTCG>T	NA	
 Unnamed	Unnamed	153775010:T>TTCG	NA	
 Unnamed	Unnamed	153775009:C>T	NA	
@@ -188,6 +190,7 @@ Unnamed	Unnamed	153774998:G>A	NA
 Unnamed	Unnamed	153774997:C>G	NA	
 Unnamed	Unnamed	153774997:C>A	NA	
 Unnamed	Unnamed	153774996:C>T	NA	
+Unnamed	Unnamed	153774995:G>T	241203	
 Unnamed	Unnamed	153774994:G>A	NA	
 Unnamed	Unnamed	153774381:G>A	NA	
 Unnamed	Unnamed	153774377:G>C	NA	
@@ -211,6 +214,7 @@ Unnamed	Unnamed	153774337:C>T	NA
 Sinnai	Sinnai	153774337:C>A	NA	
 Unnamed	Unnamed	153774336:A>C	NA	
 Lages	Lages	153774331:C>T	NA	
+Unnamed	Unnamed	153774330:C>A	241203	
 Unnamed	Unnamed	153774326:G>A	NA	
 Unnamed	Unnamed	153774325:G>A	NA	
 Unnamed	Unnamed	153774323:C>T	NA	
@@ -221,13 +225,16 @@ Unnamed	Unnamed	153774320:C>T	NA
 Unnamed	Unnamed	153774313:GCTCTTC>G	240414	
 Unnamed	Unnamed	153774311:A>G	240414	
 Unnamed	Unnamed	153774306:T>C	NA	
+Unnamed	Unnamed	153774303:C>A	241203	
 Unnamed	Unnamed	153774302:G>A	NA	
 Unnamed	Unnamed	153774301:C>T	240414	
 Unnamed	Unnamed	153774299:A>T	NA	
 Unnamed	Unnamed	153774298:C>T	NA	
 Unnamed	Unnamed	153774298:C>A	NA	
+Unnamed	Unnamed	153774294:A>G	241203	
 Unnamed	Unnamed	153774293:G>T	NA	
 Unnamed	Unnamed	153774293:G>A	NA	
+Unnamed	Unnamed	153774292:G>A	241203	
 Unnamed	Unnamed	153774291:T>C	NA	
 Unnamed	Unnamed	153774287:C>A	NA	
 Unnamed	Unnamed	153774285:G>A	240414	
@@ -247,10 +254,13 @@ Unnamed	Unnamed	153774267:A>G	NA
 Unnamed	Unnamed	153774264:A>G	NA	
 Sunderland	Sunderland	153774261:ATGATGATGA>ATGATGA	NA	
 Gidra	Gidra	153774261:A>G	NA	
+Unnamed	Unnamed	153774259:C>T	241203	
 Unnamed	Unnamed	153774251:C>T	NA	
 Unnamed	Unnamed	153774244:T>G	NA	
 Unnamed	Unnamed	153774244:T>C	NA	
 Unnamed	Unnamed	153774242:G>A	NA	
+Unnamed	Unnamed	153774238:G>C	241203	
+Unnamed	Unnamed	153774237:T>A	241203	
 Unnamed	Unnamed	153774051:AA>A	NA	
 Unnamed	Unnamed	153774051:A>AA	NA	
 Unnamed	Unnamed	153774016:C>T	NA	
@@ -268,7 +278,9 @@ Unnamed	Unnamed	153764663:C>T	NA
 Unnamed	Unnamed	153764528:T>C	NA	
 Unnamed	Unnamed	153764439:C>T	NA	
 Unnamed	Unnamed	153764413:T>A	NA	
+Unnamed	Unnamed	153764412:G>T	241203	
 Unnamed	Unnamed	153764406:G>A	NA	
+Unnamed	Unnamed	153764398:G>A	241203	
 Unnamed	Unnamed	153764397:T>G	NA	
 Unnamed	Unnamed	153764387:G>A	NA	
 Unnamed	Unnamed	153764385:C>T	NA	
@@ -286,10 +298,16 @@ Unnamed	Unnamed	153764361:G>A	NA
 Kozukata	Kozukata	153764360:C>G	NA	
 Unnamed	Unnamed	153764349:C>A	NA	
 Unnamed	Unnamed	153764343:G>A	NA	
+Unnamed	Unnamed	153764340:G>A	241203	
+Unnamed	Unnamed	153764339:T>C	241203	
+Unnamed	Unnamed	153764277:G>A	241203	
+Unnamed	Unnamed	153764276:A>G	241203	
+Unnamed	Unnamed	153764271:G>A	241203	
 Unnamed	Unnamed	153764268:C>A	NA	
 Unnamed	Unnamed	153764267:G>A	NA	
 Unnamed	Unnamed	153764266:G>A	NA	
 Unnamed	Unnamed	153764263:G>A	NA	
+Unnamed	Unnamed	153764254:C>T	241203	
 Unnamed	Unnamed	153764251:G>C	NA	
 Unnamed	Unnamed	153764251:G>A	NA	
 Kamogawa	Kamogawa	153764250:G>A	NA	
@@ -311,6 +329,7 @@ Musashino	Musashino	153764234:G>A	NA
 Unnamed	Unnamed	153764233:G>A	NA	
 Pingtung	Pingtung	153764232:C>T	NA	
 Mexico_DF	Mexico_DF	153764226:T>C	NA	
+Unnamed	Unnamed	153764225:G>T	241203	
 Unnamed	Unnamed	153764224:G>A	NA	
 Songklanagarind	Songklanagarind	153764223:A>T	NA	
 Unnamed	Unnamed	153764223:A>G	NA	
@@ -337,6 +356,7 @@ Unnamed	Unnamed	153764190:C>A	NA
 Unnamed	Unnamed	153764186:G>T	NA	
 Unnamed	Unnamed	153764184:C>G	NA	
 Unnamed	Unnamed	153764181:T>A	240414	
+Unnamed	Unnamed	153764179:G>T	241203	
 Ube	Ube;Konan	153764178:G>A	NA	
 Lagosanto	Lagosanto	153764177:C>T	NA	
 Unnamed	Unnamed	153764177:C>A	240414	
@@ -345,12 +365,16 @@ Unnamed	Unnamed	153764175:T>G	NA
 Unnamed	Unnamed	153764168:C>T	NA	
 Unnamed	Unnamed	153764167:A>G	NA	
 Unnamed	Unnamed	153764167:A>C	NA	
+Unnamed	Unnamed	153764164:C>T	241203	
 Unnamed	Unnamed	153764158:G>A	NA	
 Unnamed	Unnamed	153764157:A>G	240414	
 Unnamed	Unnamed	153764155:G>C	NA	
 Unnamed	Unnamed	153764145:C>T	NA	
 Unnamed	Unnamed	153764033:G>A	220915	
 Unnamed	Unnamed	153763658:G>C;153764033:G>A	220915	
+Unnamed	Unnamed	153763613:G>A	241203	
+Unnamed	Unnamed	153763612:GACAGACAGACA:GACAGACA	241203	
+Unnamed	Unnamed	153763612:G>A	241203	
 Unnamed	Unnamed	153763611:C>T	NA	
 Unnamed	Unnamed	153763608:A>T	NA	
 Unnamed	Unnamed	153763606:A>G	NA	
@@ -360,6 +384,7 @@ Unnamed	Unnamed	153763600:C>G	NA
 Unnamed	Unnamed	153763598:G>A	240414	
 Unnamed	Unnamed	153763597:T>C	NA	
 Unnamed	Unnamed	153763596:G>A	240414	
+Unnamed	Unnamed	153763595:G>C	241203	
 Unnamed	Unnamed	153763594:G>C	NA	
 Guangzhou	Guangzhou	153763594:G>A	NA	
 Unnamed	Unnamed	153763591:C>T	NA	
@@ -389,6 +414,7 @@ Unnamed	Unnamed	153763554:T>G	NA
 Unnamed	Unnamed	153763554:T>C	NA	
 Unnamed	Unnamed	153763553:G>A	NA	
 Unnamed	Unnamed	153763551:G>A	NA	
+Unnamed	Unnamed	153763550:G>C	241203	
 Unnamed	Unnamed	153763550:G>A	NA	
 Unnamed	Unnamed	153763548:T>G	NA	
 Unnamed	Unnamed	153763548:T>A	NA	
@@ -404,6 +430,8 @@ Unnamed	Unnamed	153763530:T>C	NA
 Unnamed	Unnamed	153763527:T>C	NA	
 Unnamed	Unnamed	153763523:T>C	NA	
 Unnamed	Unnamed	153763522:C>G	240414	
+Unnamed	Unnamed	153763521:G>A	241203	
+Unnamed	Unnamed	153763520:G>A	241203	
 Bao_Loc	Bao_Loc	153763516:A>G	NA	
 Unnamed	Unnamed	153763515:T>G	NA	
 Unnamed	Unnamed	153763514:G>C	240414	
@@ -416,6 +444,7 @@ Unnamed	Unnamed	153763503:T>C	NA
 Unnamed	Unnamed	153763502:G>T	NA	
 Unnamed	Unnamed	153763498:G>A	NA	
 Unnamed	Unnamed	153763497:T>C	NA	
+Unnamed	Unnamed	153763495:T>C	241203	
 Unnamed	Unnamed	153763493:C>G	NA	
 A-_202A_376G	A-_202A_376G;Matera;Castilla;Distrito Federal;Tepic	153763492:T>C;153764217:C>T	NA	
 Sierra_Leone	Sierra_Leone	153763492:T>C;153763557:C>T	NA	
@@ -444,6 +473,7 @@ Valladolid	Valladolid	153763462:G>A	NA
 Unnamed	Unnamed	153763461:C>T	NA	
 Belem	Belem	153763459:G>A	NA	
 Unnamed	Unnamed	153763457:G>C	NA	
+Unnamed	Unnamed	153763456:A>C	241203	
 Unnamed	Unnamed	153763454:G>A	NA	
 Unnamed	Unnamed	153763452:T>C	NA	
 Unnamed	Unnamed	153763450:G>A	NA	
@@ -470,6 +500,7 @@ Unnamed	Unnamed	153763413:T>C	NA
 Unnamed	Unnamed	153763405:G>T	NA	
 Acrokorinthos	Acrokorinthos	153763405:G>C;153763492:T>C	NA	
 Acrokorinthos_single	Acrokorinthos_single	153763405:G>C	NA	
+Unnamed	Unnamed	153763404:T>G	241203	
 Unnamed	Unnamed	153763403:G>A	NA	
 Ilesha	Ilesha	153763402:C>T	NA	
 Unnamed	Unnamed	153763398:G>A	NA	
@@ -481,15 +512,22 @@ Unnamed	Unnamed	153763389:C>T	NA
 Unnamed	Unnamed	153763385:C>T	NA	
 Unnamed	Unnamed	153763384:T>A	NA	
 Unnamed	Unnamed	153763383:A>C	NA	
+Unnamed	Unnamed	153763380:T>C	241203	
 Unnamed	Unnamed	153763377:C>G	NA	
 Unnamed	Unnamed	153763376:G>C	NA	
+Unnamed	Unnamed	153763371:G>A	241203	
 Unnamed	Unnamed	153763370:C>T	NA	
+Unnamed	Unnamed	153763369:A>G	241203	
+Unnamed	Unnamed	153763368:A>T	241203	
+Unnamed	Unnamed	153763366:G>A	241203	
 Unnamed	Unnamed	153762771:G>C	NA	
 Unnamed	Unnamed	153762744:GA>G	NA	
 Unnamed	Unnamed	153762740:C>A	NA	
 Unnamed	Unnamed	153762728:G>A	NA	
 Unnamed	Unnamed	153762727:AG>A	NA	
 Unnamed	Unnamed	153762725:G>A	NA	
+Unnamed	Unnamed	153762721:G>A	241203	
+Unnamed	Unnamed	153762717:G>A	241203	
 Mahidol	Mahidol	153762710:C>T	NA	
 Plymouth	Plymouth	153762709:C>T	NA	
 Unnamed	Unnamed	153762708:G>T	NA	
@@ -501,6 +539,7 @@ Toledo	Toledo	153762701:G>A	NA
 Naone	Naone	153762700:C>T	NA	
 Unnamed	Unnamed	153762698:T>A	NA	
 Unnamed	Unnamed	153762696:G>T	NA	
+Unnamed	Unnamed	153762696:G>A	241203	
 Unnamed	Unnamed	153762693:G>A	NA	
 Unnamed	Unnamed	153762692:C>T	NA	
 Unnamed	Unnamed	153762687:C>T	NA	
@@ -523,6 +562,8 @@ Unnamed	Unnamed	153762653:G>A	NA
 Unnamed	Unnamed	153762652:C>T	NA	
 Unnamed	Unnamed	153762652:C>G	NA	
 Unnamed	Unnamed	153762651:C>T	NA	
+Unnamed	Unnamed	153762651:C>G	241203	
+Unnamed	Unnamed	153762647:A>T	241203	
 Unnamed	Unnamed	153762646:G>T	240414	
 Toluca	Toluca	153762646:G>C	220915	
 Dindori	Dindori	153762646:G>A	NA	
@@ -537,7 +578,7 @@ Jeddah_B	Jeddah_B	153762634:G>A;153764217:C>T	NA
 Jeddah_A	Jeddah_A	153762634:G>A;153763492:T>C;153764217:C>T	NA	
 Jeddah_C	Jeddah_C	153762634:G>A;153763492:T>C	NA	
 Mediterranean	Mediterranean;Dallas;Panama;Sassari;Cagliari;Birmingham	153762634:G>A	NA	
-Tsukui	Tsukui	153762633:GGAG>G	NA	
+Tsukui	Tsukui	153762630:GGAG>G	NA	
 Unnamed	Unnamed	153762633:G>A	NA	
 Unnamed	Unnamed	153762629:G>A	NA	
 Unnamed	Unnamed	153762627:C>T	NA	
@@ -549,6 +590,9 @@ Unnamed	Unnamed	153762622:C>A	NA
 Unnamed	Unnamed	153762618:C>T	NA	
 Unnamed	Unnamed	153762617:C>T	NA	
 Unnamed	Unnamed	153762615:G>C	231016	
+Unnamed	Unnamed	153762615:G>A	241203	
+Unnamed	Unnamed	153762613:T>C	241203	
+Unnamed	Unnamed	153762612:C>T	241203	
 Tainan	Tainan	153762612:C>G	NA	
 Changhua	Changhua	153762611:T>A	NA	
 Unnamed	Unnamed	153762610:A>G	NA	
@@ -592,11 +636,16 @@ Minnesota	Minnesota;Marion;Gastonia;LeJeune	153762560:C>A	NA
 Unnamed	Unnamed	153762559:A>G	NA	
 Unnamed	Unnamed	153762555:C>T	NA	
 Unnamed	Unnamed	153762551:A>AC	NA	
+Unnamed	Unnamed	153762547:C>T	241203	
 Unnamed	Unnamed	153762546:G>A	NA	
 Unnamed	Unnamed	153762544:T>G	NA	
+Unnamed	Unnamed	153762543:T>C	241203	
+Unnamed	Unnamed	153762534:G>A	241203	
 Unnamed	Unnamed	153762533:C>T	NA	
 Unnamed	Unnamed	153762392:G>A	NA	
+Unnamed	Unnamed	153762389:C>A	241203	
 Unnamed	Unnamed	153762387:G>A	NA	
+Unnamed	Unnamed	153762385:G>C	241203	
 Unnamed	Unnamed	153762384:A>G	NA	
 Unnamed	Unnamed	153762383:G>A	NA	
 Unnamed	Unnamed	153762382:G>A	NA	
@@ -608,6 +657,7 @@ Unnamed	Unnamed	153762366:G>A	NA
 Meyer	Meyer	153762365:T>C	231215	
 Unnamed	Unnamed	153762363:C>T	240414	
 Sao_Paulo	Sao_Paulo	153762360:G>C	NA	
+Unnamed	Unnamed	153762357:GAA>G	241105	
 Unnamed	Unnamed	153762357:G>A	NA	
 Unnamed	Unnamed	153762356:C>T	NA	
 Unnamed	Unnamed	153762348:G>A	NA	
@@ -621,6 +671,7 @@ Unnamed	Unnamed	153762340:C>A	NA
 Unnamed	Unnamed	153762339:C>T	NA	
 Unnamed	Unnamed	153762338:C>T	NA	
 Unnamed	Unnamed	153762336:G>A	240414	
+Unnamed	Unnamed	153762334:T>A	241203	
 Unnamed	Unnamed	153762333:G>A	NA	
 Unnamed	Unnamed	153762332:T>C	NA	
 North_Dallas	North_Dallas	153762331:ATGTTGT>ATGT	NA	
@@ -629,6 +680,7 @@ Unnamed	Unnamed	153762330:G>A	NA
 Unnamed	Unnamed	153762329:C>T	221017	
 Shanghai	Shanghai	153762329:C>G	NA	
 Unnamed	Unnamed	153762328:G>A	240414	
+Unnamed	Unnamed	153762327:G>A	241203	
 Asahikawa	Asahikawa	153762325:C>T	NA	
 Unnamed	Unnamed	153762324:G>A	NA	
 Unnamed	Unnamed	153762323:C>T	NA	
@@ -650,10 +702,12 @@ Tunisia	Tunisia	153762283:C>A	NA
 Unnamed	Unnamed	153762282:G>A	NA	
 Unnamed	Unnamed	153762281:C>T	NA	
 Unnamed	Unnamed	153762281:C>G	NA	
+Unnamed	Unnamed	153762278:CCCGCGACCC>CCC	241203	
 Unnamed	Unnamed	153762278:C>G	NA	
 Chiayi	Chiayi	153762277:C>T	NA	
 Unnamed	Unnamed	153762270:G>A	NA	
 Unnamed	Unnamed	153762269:C>T	NA	
+Unnamed	Unnamed	153762267:A>G	241203	
 Unnamed	Unnamed	153762266:C>T	NA	
 Unnamed	Unnamed	153762252:G>C	NA	
 Palermo	Palermo	153762251:G>C;153762250:C>A	NA	
@@ -661,8 +715,13 @@ Wayne	Wayne	153762251:G>C	NA
 Funes	Funes	153762250:C>T	NA	
 Zacatecas	Zacatecas	153762250:C>A	NA	
 Unnamed	Unnamed	153762244:T>C	NA	
+Unnamed	Unnamed	153762242:G>A	241203	
+Unnamed	Unnamed	153762238:A>G	241203	
 Unnamed	Unnamed	153762075:G>A	NA	
 Unnamed	Unnamed	153761923:G>A	240414	
+Unnamed	Unnamed	153761904:G>C	241203	
+Unnamed	Unnamed	153761897:G>T	241203	
+Unnamed	Unnamed	153761897:G>A	241203	
 Unnamed	Unnamed	153761895:A>G	NA	
 Unnamed	Unnamed	153761893:G>A	NA	
 Unnamed	Unnamed	153761892:C>T	NA	
@@ -708,6 +767,7 @@ Haikou	Haikou	153761820:T>C	NA
 Chinese-1	Chinese-1	153761820:T>A	NA	
 Unnamed	Unnamed	153761819:G>A	NA	
 Unnamed	Unnamed	153761818:G>T	240414	
+Unnamed	Unnamed	153761816:TGGTGG>TGG	241203	
 Unnamed	Unnamed	153761815:G>A	NA	
 Unnamed	Unnamed	153761811:C>T	NA	
 Seattle	Seattle;Lodi;Modena;Ferrara-II;Athens-like	153761811:C>G	NA	
@@ -734,16 +794,22 @@ Unnamed	Unnamed	153761784:C>G	NA
 Unnamed	Unnamed	153761783:C>CC	NA	
 Unnamed	Unnamed	153761783:C>A	NA	
 Unnamed	Unnamed	153761781:C>A	NA	
+Unnamed	Unnamed	153761778:G>A	241203	
 Unnamed	Unnamed	153761777:G>A	NA	
+Unnamed	Unnamed	153761775:G>C	241203	
+Unnamed	Unnamed	153761774:T>C	241203	
 Unnamed	Unnamed	153761774:T>A	NA	
+Unnamed	Unnamed	153761751:C>T	241203	
 Unnamed	Unnamed	153761748:C>T	NA	
 Unnamed	Unnamed	153761747:CC>C	NA	
 Unnamed	Unnamed	153761628:G>A	NA	
 Unnamed	Unnamed	153761564:G>A	NA	
+Unnamed	Unnamed	153761361:G>A	241203	
 Unnamed	Unnamed	153761359:G>A	NA	
 Unnamed	Unnamed	153761348:G>A	NA	
 Unnamed	Unnamed	153761346:G>T	NA	
 Unnamed	Unnamed	153761341:G>C	NA	
+Unnamed	Unnamed	153761341:G>A	241203	
 Unnamed	Unnamed	153761338:C>T	NA	
 Unnamed	Unnamed	153761338:C>G	NA	
 Hechi	Hechi	153761337:C>T;153764217:C>T	NA	
@@ -753,13 +819,14 @@ Unnamed	Unnamed	153761332:C>T	NA
 Unnamed	Unnamed	153761332:C>A	240414	
 Unnamed	Unnamed	153761329:T>C	NA	
 Unnamed	Unnamed	153761326:G>A	NA	
-Unnamed	Unnamed	153761325T>C	NA	
 Unnamed	Unnamed	153761325:TGCA>TCA	NA	
+Unnamed	Unnamed	153761325:T>C	NA	
 Unnamed	Unnamed	153761323:G>A	NA	
 Unnamed	Unnamed	153761321:G>A	NA	
 Unnamed	Unnamed	153761319:C>T	NA	
 Unnamed	Unnamed	153761317:C>A	NA	
 Unnamed	Unnamed	153761316:C>T	NA	
+Unnamed	Unnamed	153761314:C>A	241203	
 Unnamed	Unnamed	153761312:T>C	240414	
 Unnamed	Unnamed	153761311:C>A	NA	
 Unnamed	Unnamed	153761310:C>T	NA	
@@ -767,13 +834,16 @@ Unnamed	Unnamed	153761308:G>T	NA
 Unnamed	Unnamed	153761305:G>T	NA	
 Unnamed	Unnamed	153761303:T>C	240414	
 Unnamed	Unnamed	153761301:C>A	NA	
+Unnamed	Unnamed	153761299:C>T	241203	
 Unnamed	Unnamed	153761298:C>T	240414	
 West_Virginia	West_Virginia	153761298:C>A	NA	
 Unnamed	Unnamed	153761296:G>T	NA	
+Unnamed	Unnamed	153761296:ACCAC>AC	241203	
 Unnamed	Unnamed	153761293:C>T	NA	
 Seoul	Seoul	153761292:C>T	NA	
 Tunis	Tunis	153761288:T>G	NA	
 Omiya	Omiya	153761287:C>G	NA	
+Unnamed	Unnamed	153761286:A>G	241203	
 Unnamed	Unnamed	153761284:G>A	NA	
 Unnamed	Unnamed	153761283:C>T	NA	
 Unnamed	Unnamed	153761281:C>A	NA	
@@ -801,6 +871,7 @@ Unnamed	Unnamed	153761242:G>A	240414
 A-_968C_376G	A-_968C_376G;Betica;Guantanamo	153761240:A>G;153763492:T>C	NA	
 Nefza	Nefza	153761240:A>G	NA	
 Unnamed	Unnamed	153761239:C>T	NA	
+Unnamed	Unnamed	153761237:T>C	241203	
 Unnamed	Unnamed	153761236:G>A	NA	
 Karachi	Karachi	153761235:C>T	NA	
 Farroupilha	Farroupilha	153761231:G>T	NA	
@@ -835,6 +906,7 @@ Torun	Torun	153761202:T>C	NA
 Unnamed	Unnamed	153761200:A>G	NA	
 Unnamed	Unnamed	153761195:G>A	NA	
 Unnamed	Unnamed	153761194:T>C	NA	
+Unnamed	Unnamed	153761192:G>A	241203	
 Unnamed	Unnamed	153761191:G>A	NA	
 Unnamed	Unnamed	153761190:C>T	NA	
 Unnamed	Unnamed	153761189:A>G	NA	
@@ -860,6 +932,7 @@ Unnamed	Unnamed	153761146:G>A	NA
 Unnamed	Unnamed	153761142:G>T	NA	
 Unnamed	Unnamed	153761141:C>T	NA	
 Unnamed	Unnamed	153761036:A>G	NA	
+Unnamed	Unnamed	153761033:G>T	241203	
 Unnamed	Unnamed	153761027:G>A	NA	
 Unnamed	Unnamed	153761026:C>T	NA	
 Unnamed	Unnamed	153761024:G>A	NA	
@@ -871,6 +944,7 @@ Partenope	Partenope	153761017:C>A	NA
 Unnamed	Unnamed	153761016:C>T	NA	
 Unnamed	Unnamed	153761016:C>A	NA	
 Unnamed	Unnamed	153761014:A>AC	NA	
+Unnamed	Unnamed	153761013:C>T	241203	
 Unnamed	Unnamed	153761013:C>A	NA	
 Ierapetra	Ierapetra	153761012:G>A	NA	
 Unnamed	Unnamed	153761010:G>A	NA	
@@ -882,6 +956,7 @@ Unnamed	Unnamed	153761002:A>T	NA
 Unnamed	Unnamed	153761001:C>T	NA	
 Unnamed	Unnamed	153761000:G>A	NA	
 Unnamed	Unnamed	153760999:C>T	NA	
+Unnamed	Unnamed	153760997:A>T	241203	
 Unnamed	Unnamed	153760996:C>T	NA	
 Unnamed	Unnamed	153760995:G>T	NA	
 Unnamed	Unnamed	153760995:G>A	NA	
@@ -894,6 +969,7 @@ Unnamed	Unnamed	153760981:T>A	NA
 Loma_Linda	Loma_Linda	153760980:G>T	NA	
 Aachen	Aachen	153760980:G>C	NA	
 Unnamed	Unnamed	153760980:G>A	NA	
+Unnamed	Unnamed	153760979:C>T	241203	
 Unnamed	Unnamed	153760976:G>A	NA	
 Veracruz	Veracruz	153760975:C>T	NA	
 Tenri	Tenri	153760973:T>C	NA	
@@ -906,6 +982,7 @@ Unnamed	Unnamed	153760965:C>G	NA
 Unnamed	Unnamed	153760964:C>T	NA	
 Unnamed	Unnamed	153760963:A>G;153762698:T>A	NA	
 Unnamed	Unnamed	153760963:A>G	NA	
+Unnamed	Unnamed	153760961:T>G	241203	
 Unnamed	Unnamed	153760960:C>A	NA	
 Unnamed	Unnamed	153760956:C>T	NA	
 Unnamed	Unnamed	153760953:C>T	NA	
@@ -964,6 +1041,7 @@ Unnamed	Unnamed	153760878:G>A	NA
 Puerto_Limon	Puerto_Limon	153760877:C>T	NA	
 Anadia	Anadia	153760876:T>C	NA	
 Unnamed	Unnamed	153760875:C>T	NA	
+Unnamed	Unnamed	153760874:CC>C	241203	
 Unnamed	Unnamed	153760874:C>T	NA	
 Unnamed	Unnamed	153760872:G>A	NA	
 Unnamed	Unnamed	153760871:C>T	NA	
@@ -976,6 +1054,7 @@ Unnamed	Unnamed	153760860:C>T	NA
 Unnamed	Unnamed	153760858:A>G	NA	
 Unnamed	Unnamed	153760855:A>G	NA	
 Clinic	Clinic	153760854:C>T	NA	
+Unnamed	Unnamed	153760851:G>A	241203	
 Abeno	Abeno	153760849:T>G	NA	
 Utrecht	Utrecht	153760844:G>A	NA	
 Merlo	Merlo	153760843:G>T	NA	
@@ -1012,18 +1091,27 @@ Unnamed	Unnamed	153760786:T>C	NA
 Georgia	Georgia	153760785:G>T	NA	
 Unnamed	Unnamed	153760785:G>A	240414	
 Yucatan	Yucatan	153760784:T>C	NA	
+Unnamed	Unnamed	153760779:C>T	241203	
 Unnamed	Unnamed	153760779:C>G	NA	
 Unnamed	Unnamed	153760776:G>A	NA	
+Unnamed	Unnamed	153760775:A>G	241203	
 Unnamed	Unnamed	153760768:T>C	NA	
 Unnamed	Unnamed	153760764:T>C	NA	
 Unnamed	Unnamed	153760763:C>T	NA	
 Unnamed	Unnamed	153760762:G>A	NA	
+Unnamed	Unnamed	153760694:G>C	241203	
+Unnamed	Unnamed	153760693:T>G	241203	
+Unnamed	Unnamed	153760692:G>A	241203	
+Unnamed	Unnamed	153760691:A>T	241203	
+Unnamed	Unnamed	153760690:G>C	241203	
 Unnamed	Unnamed	153760689:A>T	NA	
+Unnamed	Unnamed	153760688:G>A	241203	
 Unnamed	Unnamed	153760685:GGA>G	NA	
 Unnamed	Unnamed	153760685:G>T	NA	
 Unnamed	Unnamed	153760685:G>A	NA	
 Unnamed	Unnamed	153760684:G>A	NA	
 Unnamed	Unnamed	153760682:G>A	NA	
+Unnamed	Unnamed	153760681:T>C	241203	
 Zurich	Zurich	153760679:T>C	NA	
 Unnamed	Unnamed	153760679:T>A	NA	
 Varnsdorf	Varnsdorf	153760677:TCT>T	NA	
@@ -1031,19 +1119,23 @@ Unnamed	Unnamed	153760676:T>G	NA
 Unnamed	Unnamed	153760675:G>A	NA	
 Surabaya	Surabaya	153760674:C>T	NA	
 Sumare	Sumare	153760673:A>C	NA	
+Unnamed	Unnamed	153760672:C>T	241203	
 Unnamed	Unnamed	153760666:G>C	240414	
 Unnamed	Unnamed	153760660:G>C	NA	
 Unnamed	Unnamed	153760660:G>A	NA	
 Unnamed	Unnamed	153760654:G>A;153760953:C>T	NA	
 Unnamed	Unnamed	153760654:G>A	NA	
+Unnamed	Unnamed	153760653:C>T	240709	
 Unnamed	Unnamed	153760651:C>T	NA	
 Unnamed	Unnamed	153760650:G>A	NA	
 Unnamed	Unnamed	153760649:C>T	NA	
 Pawnee	Pawnee	153760649:C>G	NA	
 Telti	Telti;Kobe	153760647:G>A	NA	
 Unnamed	Unnamed	153760644:T>C	NA	
+Unnamed	Unnamed	153760642:G>A	241203	
 Unnamed	Unnamed	153760641:G>C	NA	
 Unnamed	Unnamed	153760641:G>A	NA	
+Unnamed	Unnamed	153760639:C>T	241203	
 Unnamed	Unnamed	153760639:C>G	NA	
 Unnamed	Unnamed	153760636:G>A	NA	
 Tainan-2	Tainan-2;Taiwan-2	153760635:C>T	NA	
@@ -1059,7 +1151,8 @@ Unnamed	Unnamed	153760619:T>C	NA
 Cassano	Cassano;Casano	153760618:C>G	NA	
 Unnamed	Unnamed	153760614:G>A	NA	
 Unnamed	Unnamed	153760609:G>A	NA	
-Unnamed	Unnamed	153760608:C>T	240414	
+Potenza	Potenza	153760608:C>T	241105	
+Unnamed	Unnamed	153760607:ACGAA>	241203	
 Harima	Harima	153760607:A>T	NA	
 Honiara	Honiara	153760605:G>A;153774272:T>C	NA	
 Hermoupolis	Hermoupolis	153760605:G>A;153760618:C>G	NA	
@@ -1070,10 +1163,16 @@ Unnamed	Unnamed	153760604:C>A	NA
 Unnamed	Unnamed	153760602:T>C	NA	
 Unnamed	Unnamed	153760601:C>T	NA	
 Unnamed	Unnamed	153760597:T>C	NA	
+Unnamed	Unnamed	153760591:T>C	241203	
 Unnamed	Unnamed	153760586:G>A	NA	
+Unnamed	Unnamed	153760585:G>A	241203	
+Unnamed	Unnamed	153760584:C>T	241203	
+Unnamed	Unnamed	153760583:C>T	241203	
+Unnamed	Unnamed	153760514:G>A	241203	
 Unnamed	Unnamed	153760508:G>A	NA	
 Unnamed	Unnamed	153760508:A>G;153760654:G>A	NA	
 Unnamed	Unnamed	153760503:G>T	NA	
+Unnamed	Unnamed	153760503:G>A	241203	
 Unnamed	Unnamed	153760502:G>A	NA	
 Unnamed	Unnamed	153760501:G>A	NA	
 Unnamed	Unnamed	153760500:G>A	NA	
@@ -1097,19 +1196,23 @@ Unnamed	Unnamed	153760477:G>C	NA
 Flores	Flores	153760473:G>T	NA	
 Kamiube	Kamiube;Keelung	153760473:G>A	NA	
 Kaiping	Kaiping;Anant;Dhon;Sapporo-like;Wosera;Petrich-like	153760472:C>T	NA	
+Unnamed	Unnamed	153760472:C>A	240826	
 Unnamed	Unnamed	153760464:T>G	NA	
+Unnamed	Unnamed	153760464:T>C	241203	
 Unnamed	Unnamed	153760462:G>A	NA	
 Neapolis	Neapolis;Neopolis	153760460:G>C	NA	
 Unnamed	Unnamed	153760458:G>A	NA	
 Unnamed	Unnamed	153760455:G>A	NA	
 Unnamed	Unnamed	153760453:C>A	NA	
 Unnamed	Unnamed	153760450:G>A	NA	
+Unnamed	Unnamed	153760448:T>G	241203	
 Unnamed	Unnamed	153760448:T>A	NA	
 Laibin	Laibin	153760446:T>G	NA	
 Unnamed	Unnamed	153760444:A>C	NA	
 Unnamed	Unnamed	153760440:G>C	NA	
 Unnamed	Unnamed	153760439:A>T	NA	
 Unnamed	Unnamed	153760438:C>T	NA	
+Unnamed	Unnamed	153760438:C>G	241203	
 Unnamed	Unnamed	153760432:C>T	NA	
 Unnamed	Unnamed	153760431:G>A	240414	
 Unnamed	Unnamed	153760430:G>A	NA	
@@ -1125,7 +1228,14 @@ Unnamed	Unnamed	153760418:G>A	NA
 Unnamed	Unnamed	153760417:G>A	NA	
 Unnamed	Unnamed	153760414:A>G	NA	
 Unnamed	Unnamed	153760408:A>G	NA	
+Unnamed	Unnamed	153760394:T>A	241203	
 Unnamed	Unnamed	153760393:C>T	NA	
+Unnamed	Unnamed	153760392:C>G	241203	
+Unnamed	Unnamed	153760392:C>A	241203	
+Unnamed	Unnamed	153760391:C>T	241203	
+Unnamed	Unnamed	153760389:C>A	241203	
+Unnamed	Unnamed	153760388:C>T	241203	
+Unnamed	Unnamed	153760386:C>T	241203	
 Unnamed	Unnamed	153760384:G>A	NA	
 Unnamed	Unnamed	153760372:G>C	NA	
 Unnamed	Unnamed	153760369:T>C	NA	
@@ -1155,8 +1265,10 @@ Unnamed	Unnamed	153760278:C>T	NA
 Unnamed	Unnamed	153760276:A>G	NA	
 Unnamed	Unnamed	153760276:A>C	NA	
 Brighton	Brighton	153760272:CTTC>C	NA	
+Unnamed	Unnamed	153760272:C>T	241203	
 Unnamed	Unnamed	153760272:C>A	NA	
 Unnamed	Unnamed	153760270:C>G	NA	
+Unnamed	Unnamed	153760267:A>T	241203	
 Bangkok_Noi	Bangkok_Noi	153760261:A>C;153760484:C>A	NA	
 Unnamed	Unnamed	153760260:G>A	NA	
 Unnamed	Unnamed	153760257:C>T	NA	
@@ -1169,6 +1281,8 @@ Unnamed	Unnamed	153760231:T>G	NA
 Unnamed	Unnamed	153760229:G>A	NA	
 Unnamed	Unnamed	153760227:G>C	240414	
 Unnamed	Unnamed	153760227:G>A	NA	
+Unnamed	Unnamed	153760226:G>T	241203	
+Unnamed	Unnamed	153760226:G>A	241203	
 Unnamed	Unnamed	153760225:T>C	NA	
 Unnamed	Unnamed	153760224:G>A	NA	
 Unnamed	Unnamed	153760222:T>C	NA	
@@ -1402,3 +1516,1407 @@ Unnamed	Unnamed	153759616:G>A	NA
 Unnamed	Unnamed	153759615:C>T	NA	
 Unnamed	Unnamed	153759612:T>C	NA	
 Unnamed	Unnamed	153759608:C>T	NA	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
