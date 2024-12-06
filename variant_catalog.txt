@@ -251,7 +251,7 @@ Unnamed	rs398123552	153774273:A>G	c.98T>C	p.Ile33Thr	single_missense	NA	unknown_
 Unnamed	rs1163458456	153774272:T>C	c.99A>G	p.Ile33Met	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
 Unnamed	rs1557233164	153774269:G>T	c.102C>A	p.Phe34Leu	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
 Unnamed	rs1347654767	153774267:A>G	c.104T>C	p.Ile35Thr	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	NA	NA
-Unnamed	NA	153774264:A>G	c.107T>C	p.Ile36Thr	single_missense	NA	unknown_function	NA	nondeficient	1	1.18	1	NA	0	benign	1722654	1	benign	NA	NA	31862010	241203
+Unnamed	NA	153774264:A>G	c.107T>C	p.Ile36Thr	single_missense	NA	unknown_function	NA	nondeficient	1	1.18	1	NA	0	uncertain	1722654	1	uncertain	NA	NA	31862010	241205
 Sunderland	rs137852338	153774261:ATGATGATGA>ATGATGA	c.103_105del	p.Ile35del	deletion	NA	I/Deficient_with_CNSHA	9410474	deficient_CNSHA	0	NA	0	NA	0	conflicting	10400	1	likely_pathogenic	NA	NA	2005960	241203
 Gidra	NA	153774261:A>G	c.110T>C	p.Met37Thr	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	9410474	NA
 Unnamed	NA	153774259:C>T	c.112G>A	p.Gly38Ser	single_missense		unknown_function	NA	unknown	0	NA	0	NA	0	uncertain	2691687	1	NA	NA	NA	NA	241203
@@ -424,7 +424,7 @@ Unnamed	rs2070395090	153763543:C>A	c.325G>T	p.Ala109Ser	single_missense	NA	unkno
 Unnamed	rs1435174977	153763536:T>C	c.332A>G	p.Gln111Arg	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	uncertain	2890522	19	NA	0.00001	0.00004	NA	241203
 Unnamed	rs782572765	153763535:C>T	c.333G>A	p.Gln111=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	1571112	1	NA	0.00001	NA	NA	NA
 Unnamed	rs1307320948	153763532:G>A	c.336C>T	p.Tyr112=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	1656556	1	NA	0.00002	0.00003	NA	NA
-Sao_Borja	rs5030870	153763531:C>T	c.337G>A	p.Asp113Asn	single_missense	NA	IV/Normal	9410474	nondeficient	2	1	1	normal	2	uncertain	281819	1	benign	0.00004	0.00003	8436389	NA
+Sao_Borja	rs5030870	153763531:C>T	c.337G>A	p.Asp113Asn	single_missense	NA	IV/Normal	9410474	nondeficient	2	1	1	normal	2	uncertain	281819	2	uncertain	0.00004	0.00003	8436389	NA
 Unnamed	NA	153763531:C>A	c.337G>T	p.Asp113Tyr	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	uncertain	994389	1	NA	NA	0.00001	NA	NA
 Unnamed	rs370451233	153763530:T>C	c.338A>G	p.Asp113Gly	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	0.00002	NA	NA
 Unnamed	rs368618869	153763527:T>C	c.341A>G	p.Asp114Gly	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	NA	NA
@@ -490,7 +490,7 @@ Unnamed	rs1557230580	153763432:C>T	c.436G>A	p.Val146Ile	single_missense	NA	unkno
 Unnamed	rs1557230578	153763428:T>C	c.440A>G	p.Tyr147Cys	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
 Unnamed	rs375189502	153763427:G>A	c.441C>T	p.Tyr147=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	1595068	1	NA	0.00002	NA	NA	NA
 Liuzhou	rs1191977862	153763426:C>T	c.442G>A	p.Glu148Lys	single_missense	NA	II/Deficient	22293322	unknown	1	NA	0	NA	0	likely_pathogenic	1722725	21	likely_pathogenic	NA	0.00001	17018380	241203
-Jimma	rs782669677	153763423:C>T	c.445G>A	p.Ala149Thr	single_missense	NA	unknown_function	NA	nondeficient	1	0.75	1	NA	0	conflicting	1722611	1	benign	NA	0.00001	30314477	241203
+Jimma	rs782669677	153763423:C>T	c.445G>A	p.Ala149Thr	single_missense	NA	unknown_function	NA	nondeficient	1	0.75	1	NA	0	uncertain	1722611	2	uncertain	NA	0.00001	30314477	241205
 Unnamed	rs1557230574	153763421:G>A	c.447C>T	p.Ala149=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	1667286	1	NA	0.00001	NA	NA	NA
 Paris	rs1557230573	153763420:C>T	c.448G>A	p.Val150Ile	single_missense	NA	unknown_function	NA	unknown	1	0.04	1	decreased	1	likely_pathogenic	544826	2	likely_pathogenic	NA	NA	5653554	241203
 Unnamed	rs2070393101	153763418:G>A	c.450C>T	p.Val150=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	NA	NA
@@ -548,7 +548,7 @@ Unnamed	rs781805733	153762681:G>A	c.516C>T	p.Pro172=	synonymous	NA	synonymous_va
 Nankang	rs137852343	153762680:A>G	c.517T>C	p.Phe173Leu	single_missense	U	II/Deficient	9410474	deficient	8	0.124084211	6	NA	0	pathogenic	10407	2	pathogenic	0.00001	NA	8807322	240110
 Miaoli	rs200111236	153762678:G>C	c.519C>G	p.Phe173Leu	single_missense	NA	II/Deficient	22293322	deficient	1	0.085	1	NA	0	pathogenic	1722656	2	pathogenic	0.00001	NA	"9444913, 9589612"	241203
 Unnamed	rs200111236	153762678:G>A	c.519C>T	p.Phe173=	synonymous	NA	synonymous_variant	NA	unknown	1	NA	0	NA	0	benign	714806	2	NA	0.00026	0.00012	NA	241203
-Taif	NA	153762675:CCCGAA>GAA	c.520_522del	p.Gly174del	deletion	NA	I/Deficient_with_CNSHA	27941691	deficient	1	NA	0	NA	0	NA	1722736	NA	likely_pathogenic	NA	NA	10.3923/pjbs.2006.1605.1616	NA
+Taif	NA	153762675:CCCGAA>GAA	c.520_522del	p.Gly174del	deletion	NA	I/Deficient_with_CNSHA	27941691	deficient	1	NA	0	NA	0	NA	NA	NA	likely_pathogenic	NA	NA	10.3923/pjbs.2006.1605.1616	NA
 Unnamed	rs1557230391	153762673:C>T	c.524G>A	p.Arg175Lys	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
 Shinshu	NA	153762670:T>C	c.527A>G	p.Asp176Gly	single_missense	A	I/Deficient_with_CNSHA	7858267	deficient_CNSHA	3	0.125333333	3	normal	1	likely_pathogenic	1722737	26	likely_pathogenic	NA	NA	8193373	241203
 Unnamed	rs2070382549	153762667:A>T	c.530T>A	p.Leu177Gln	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	NA	NA
@@ -676,7 +676,7 @@ Unnamed	rs1476071102	153762333:G>A	c.687C>T	p.Asn229=	synonymous	NA	synonymous_v
 Unnamed	rs1170809867	153762332:T>C	c.688A>G	p.Ile230Val	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00002	NA	NA	NA
 North_Dallas	NA	153762331:ATGTTGT>ATGT	c.683_685del	p.Asn229del	deletion	NA	I/Deficient_with_CNSHA	9410474	deficient_CNSHA	1	NA	0	NA	0	likely_pathogenic	1722748	1	likely_pathogenic	NA	NA	9410474	NA
 Unnamed	NA	153762330:G>T	c.690C>A	p.Ile230=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00001	NA	NA
-Unnamed	rs781917123	153762330:G>A	c.690C>T	p.Ile230=	synonymous	NA	synonymous_variant	NA	nondeficient	1	NA	0	NA	0	benign	703479	2	benign	0.00002	0.00012	28356147	241203
+Unnamed	rs781917123	153762330:G>A	c.690C>T	p.Ile230=	synonymous	NA	synonymous_variant	NA	nondeficient	1	NA	0	NA	0	benign	703479	2	likely_benign	0.00002	0.00012	28356147	241205
 Unnamed	NA	153762329:C>T	c.691G>A	p.Ala231Thr	single_missense	NA	unknown_function	NA	deficient	1	NA	0	NA	0	likely_pathogenic	3339507	31	likely_pathogenic	NA	NA	36212142	241203
 Shanghai	NA	153762329:C>G	c.691G>C	p.Ala231Pro	single_missense	NA	unknown_function	NA	deficient	1	NA	0	NA	0	likely_pathogenic	1722749	32	likely_pathogenic	NA	NA	Wang (2010) J Shanghai Jiatong Univ 30; 698 (http://xuebao.shsmu.edu.cn/EN/Y2010/V30/I6/698)	241203
 Unnamed	NA	153762328:G>A	c.692C>T	p.Ala231Val	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	39607789	240414
@@ -985,7 +985,7 @@ Unnamed	NA	153760963:A>G	c.1106T>C	p.Val369Ala	single_missense	NA	unknown_functi
 Unnamed	NA	153760961:T>G	c.1108A>C	p.Arg370=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	2887399	1	NA	NA	NA	NA	241203
 Unnamed	rs782364215	153760960:C>A	c.1109G>T	p.Arg370Met	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
 Unnamed	rs1166552162	153760956:C>T	c.1113G>A	p.Leu371=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	1135140	1	NA	0.00001	0.00002	NA	NA
-Unnamed	rs2230036	153760953:C>T	c.1116G>A	p.Gln372=	synonymous	C	synonymous_variant	NA	nondeficient	3	0.981632653	3	NA	0	benign	10365	2	benign	0.01091	0.03141	NA	240414
+Unnamed	rs2230036	153760953:C>T	c.1116G>A	p.Gln372=	synonymous	C	synonymous_variant	NA	nondeficient	3	0.981632653	3	NA	0	benign	10365	2	likely_benign	0.01091	0.03141	NA	240414
 Unnamed	NA	153760951:A>G	c.1118T>C	p.Phe373Ser	single_missense	A	I/Deficient_with_CNSHA	32680472	deficient_CNSHA	2	0.044	1	decreased	1	pathogenic	1722667	1	pathogenic	NA	NA	32680472	241203
 Unnamed	rs782012418	153760950:G>C	c.1119C>G	p.Phe373Leu	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00001	NA	NA
 Unnamed	rs782012418	153760950:G>A	c.1119C>T	p.Phe373=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
@@ -1211,7 +1211,7 @@ Laibin	NA	153760446:T>G	c.1414A>C	p.Ile472Leu	single_missense	NA	unknown_functio
 Unnamed	rs1557229487	153760444:A>C	c.1416T>G	p.Ile472Met	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
 Unnamed	NA	153760440:G>C	c.1420C>G	p.Leu474Val	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	uncertain	1478217	2	NA	NA	NA	NA	241203
 Unnamed	rs782644945	153760439:A>T	c.1421T>A	p.Leu474Gln	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	0.00001	NA	NA	NA
-Unnamed	NA	153760438:C>T	c.1422G>A	p.Leu474=	synonymous	NA	synonymous_variant	NA	nondeficient	1	1.05	1	NA	0	benign	1722651	1	benign	NA	NA	31862010	241203
+Unnamed	NA	153760438:C>T	c.1422G>A	p.Leu474=	synonymous	NA	synonymous_variant	NA	nondeficient	1	1.05	1	NA	0	uncertain	1722651	1	uncertain	NA	NA	31862010	241205
 Unnamed	rs2148328378	153760438:C>G	c.1422G>C	p.Leu474=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	likely_benign	1672317	1	NA	NA	NA	NA	241203
 Unnamed	rs2070345917	153760432:C>T	c.1428G>A	p.Lys476=	synonymous	NA	synonymous_variant	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00001	NA	NA
 Unnamed	NA	153760431:G>A	c.1429C>T	p.Pro477Ser	single_missense	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	39607789	240414
@@ -1415,7 +1415,7 @@ Unnamed	NA	153759917:G>A	c.*298C>T	NA	3_prime_UTR	NA	unknown_function	NA	unknown
 Unnamed	NA	153759915:C>T	c.*300G>A	NA	3_prime_UTR	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00002	NA	NA
 Unnamed	rs1296579313	153759912:G>A	c.*303C>T	NA	3_prime_UTR	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00005	NA	NA
 Unnamed	NA	153759911:A>T	c.*304T>A	NA	3_prime_UTR	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	NA	NA
-Unnamed	rs111485003	153759911:A>G	c.*304T>C	NA	3_prime_UTR	NA	unknown_function	NA	unknown	1	NA	0	NA	0	benign	1722655	1	benign	NA	NA	23389243	241203
+Unnamed	rs111485003	153759911:A>G	c.*304T>C	NA	3_prime_UTR	NA	unknown_function	NA	unknown	1	NA	0	NA	0	likely_benign	1722655	1	likely_benign	NA	NA	23389243	241203
 Unnamed	NA	153759908:A>G	c.*307T>C	NA	3_prime_UTR	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00001	NA	NA
 Unnamed	rs1017005312	153759906:C>T	c.*309G>A	NA	3_prime_UTR	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	0.00003	NA	NA
 Unnamed	rs1242383044	153759899:C>G	c.*316G>C	NA	3_prime_UTR	NA	unknown_function	NA	unknown	0	NA	0	NA	0	NA	NA	NA	NA	NA	NA	NA	NA
