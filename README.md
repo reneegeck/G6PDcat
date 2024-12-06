@@ -22,6 +22,7 @@ The most up-to-date catalog files (December 4, 2024), containing 1516 variants, 
 | variant_catalog.txt |	All G6PD variants identified in humans, with summary information on activity, stability, and interpretation |
 | variant_names.txt	| Common and alternate / legacy variants names |
 | variant_molecular_info.txt	| Summaries of reports on variant function, including clinical phenotypes and average activity by study for each variant |
+| variant_interpretation.txt |	Published supporting evidence and oddsPath calculations for interpretations made by applying ACMG guidelines |
 
 Versions used in Geck et al. 2023 are in the **published_catalog_2023** directory:
 
@@ -30,7 +31,7 @@ Versions used in Geck et al. 2023 are in the **published_catalog_2023** director
 | tableS1_variants.txt	| Published version of variant_catalog |
 | tableS2_names.txt	| Published version of variant_names |
 | tableS3_info.txt	| Published version of variant_molecular_info |
-| tableS4_acmg.txt |	Published supporting evidence and oddsPath calculations for interpretations made by applying ACMG guidelines |
+| tableS4_acmg.txt |	Published version of variant_interpretation |
 
 The R script and tables used to create graphics in Geck et al. 2023 are in the **published_figures_2023** directory.
 
@@ -110,7 +111,7 @@ Most common name and alternate names with genomic location. Spaces are replaced 
 | Column | Description |
 |--------|:------------|
 | columns A-F	| Variant information from variant_catalog |
-| columns G-Z	| Evidence codes from PMID 25741868 with supporting publications summarized for each variant |
+| columns G-Z	| Evidence codes from PMID 25741868 with supporting publications summarized for each variant; updated 2024 to incorporate normal RBC activity measurements into BS2 |
 | current	| Variant classification by ClinVar. For ones with two terms (e.g. "benign / likely benign"), only first term provided. |
 | ACMG_2015	| Interpretation from evidence codes based on PMID 25741868 |
 | OddsPath |	Odds of pathogenicity calculated as in PMID 29300386 |
